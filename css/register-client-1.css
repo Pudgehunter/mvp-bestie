@@ -1,0 +1,323 @@
+/* screen - register-client-1 */
+
+.register-client-1 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.register-client-1 .departamento-MQqi56 {
+  background-color: transparent;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 411px;
+  width: 263px;
+}
+
+.register-client-1 .ciudad-MQqi56 {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 465px;
+  width: 263px;
+}
+
+.register-client-1 .vector-1-MQqi56 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 24px;
+  position: absolute;
+  top: 48px;
+  width: 10px;
+}
+
+.register-client-1 .rectangle-34-MQqi56 {
+  background-color: transparent;
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  position: absolute;
+  top: 50px;
+  width: 298px;
+}
+
+.register-client-1 .rectangle-35-MQqi56 {
+  background-color: var(--cielo);
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 74px;
+}
+
+.register-client-1 .regstrate-MQqi56 {
+  background-color: transparent;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+  width: auto;
+}
+
+.register-client-1 .rectangle-48-MQqi56 {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 18px;
+  left: 66px;
+  position: absolute;
+  top: 547px;
+  width: 18px;
+}
+
+.register-client-1 .acepto-trminos-y-condiciones-de-uso-MQqi56 {
+  background-color: transparent;
+  height: auto;
+  left: 87px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 546px;
+  width: 287px;
+}
+
+.register-client-1 .span0-YUtxSk {
+}
+
+.register-client-1 .span1-YUtxSk {
+  text-decoration: underline;
+}
+
+.register-client-1 .span2-YUtxSk {
+}
+
+.register-client-1 .group-232-MQqi56 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 712px;
+  width: 259px;
+}
+
+.register-client-1 .rectangle-6-nxgueA {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.register-client-1 .enviar-nxgueA {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.register-client-1 .datos-registro-cliente-MQqi56 {
+  background-color: transparent;
+  height: 23px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 192px;
+  width: 224px;
+}
+
+.register-client-1 .line-13-LXqK66 {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 23px;
+  width: 224px;
+}
+
+.register-client-1 .nombre-LXqK66 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 203px;
+}
+
+.register-client-1 .datos-registro-cliente-XtgzYx {
+  background-color: transparent;
+  height: 23px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 247px;
+  width: 224px;
+}
+
+.register-client-1 .line-13-lxvt3n {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 23px;
+  width: 224px;
+}
+
+.register-client-1 .apellidos-lxvt3n {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 203px;
+}
+
+.register-client-1 .datos-registro-cliente-ea9Kvb {
+  background-color: transparent;
+  height: 23px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 302px;
+  width: 224px;
+}
+
+.register-client-1 .line-13-K2k6QX {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 23px;
+  width: 224px;
+}
+
+.register-client-1 .correo-K2k6QX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 203px;
+}
+
+.register-client-1 .datos-registro-cliente-c8DTg6 {
+  background-color: transparent;
+  height: 23px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 357px;
+  width: 224px;
+}
+
+.register-client-1 .line-13-bbYLuB {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 23px;
+  width: 224px;
+}
+
+.register-client-1 .celular-bbYLuB {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 203px;
+}
+
+.register-client-1 .vector-MQqi56 {
+  background-color: transparent;
+  height: 11px;
+  left: 316px;
+  position: absolute;
+  top: 412px;
+  width: 19px;
+}
+
+.register-client-1 .vector-XtgzYx {
+  background-color: transparent;
+  height: 11px;
+  left: 316px;
+  position: absolute;
+  top: 466px;
+  width: 19px;
+}
+
+.register-client-1 .line-17-MQqi56 {
+  background-color: transparent;
+  height: 1px;
+  left: 51px;
+  position: absolute;
+  top: 434px;
+  width: 290px;
+}
+
+.register-client-1 .line-18-MQqi56 {
+  background-color: transparent;
+  height: 1px;
+  left: 51px;
+  position: absolute;
+  top: 489px;
+  width: 290px;
+}
+
+.register-client-1 .vector-1-MQqi56 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 24px;
+  position: absolute;
+  top: 48px;
+  width: 10px;
+}

@@ -20,3 +20,130 @@
   top: 120px;
   width: 390px;
 }
+
+.flower-spinner,
+.flower-spinner * {
+  box-sizing: border-box;
+}
+
+.flower-spinner {
+  height: 140px;
+  width: 140px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.flower-spinner .dots-container {
+  height: calc(140px / 7);
+  width: calc(140px / 7);
+}
+
+.flower-spinner .smaller-dot {
+  background: #00A3DC;
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+  animation: flower-spinner-smaller-dot-animation 2.5s 0s infinite both;
+
+}
+
+.flower-spinner .bigger-dot {
+  background: #00A3DC;
+  height: 100%;
+  width: 100%;
+  padding: 10%;
+  border-radius: 50%;
+  animation: flower-spinner-bigger-dot-animation 2.5s 0s infinite both;
+}
+
+.flower-spinner {
+  height: 540px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 120px;
+  width: 390px;
+}
+
+@keyframes flower-spinner-bigger-dot-animation {
+
+  0%,
+  100% {
+    box-shadow: #00A3DC,
+    #00A3DC,
+    #00A3DC,
+    #00A3DC,
+    #00A3DC,
+    #00A3DC,
+      #00A3DC,
+      #00A3DC;
+  }
+
+  50% {
+    transform: rotate(180deg);
+  }
+
+  25%,
+  75% {
+    box-shadow: #00A3DC 38px 0px 0px,
+      #00A3DC -38px 0px 0px,
+      #00A3DC 0px 38px 0px,
+      #00A3DC 0px -38px 0px,
+      #00A3DC 31px -31px 0px,
+      #00A3DC 31px 31px 0px,
+      #00A3DC -31px -31px 0px,
+      #00A3DC -31px 31px 0px;
+  }
+
+  100% {
+    transform: rotate(360deg);
+    box-shadow: #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC;
+  }
+}
+
+@keyframes flower-spinner-smaller-dot-animation {
+
+  0%,
+  100% {
+    box-shadow: #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC;
+  }
+
+  25%,
+  75% {
+    box-shadow: #00A3DC 21px 0px 0px,
+      #00A3DC -21px 0px 0px,
+      #00A3DC 0px 21px 0px,
+      #00A3DC 0px -21px 0px,
+      #00A3DC 17px -17px 0px,
+      #00A3DC 17px 17px 0px,
+      #00A3DC -17px -17px 0px,
+      #00A3DC -17px 17px 0px;
+  }
+
+  100% {
+    box-shadow: #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC,
+      #00A3DC;
+  }
+}
