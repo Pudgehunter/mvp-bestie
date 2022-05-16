@@ -1,0 +1,386 @@
+/* screen - client-pocke1 */
+
+.client-pocke1 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-pocke1 .status-bar-i-phone-13-13-pro-wXK3IC {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.client-pocke1 .indicators-uxpQti {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-pocke1 .elements-signal-zKCxq0 {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-pocke1 .cellular-connection-V1yp0r {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-pocke1 .elements-connection-zKCxq0 {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-pocke1 .wifi-DpG2ZF {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-pocke1 .elements-battery-zKCxq0 {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-pocke1 .border-MAXmf9 {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-pocke1 .cap-MAXmf9 {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-pocke1 .capacity-MAXmf9 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-pocke1 .mic-cam-uxpQti {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-pocke1 .elements-time-uxpQti {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-pocke1 .time-G15Ymx {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-pocke1 .nav-client-wXK3IC {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 770px;
+  width: 390px;
+}
+
+.client-pocke1 .rectangle-1463-e0awfN {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-pocke1 .union-e0awfN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-pocke1 .union-I4i9DB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-pocke1 .union-jTC3du {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-pocke1 .union-tdH1wL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-pocke1 .rectangle-1325-wXK3IC {
+  background-color: transparent;
+  height: 190px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -3px;
+  width: 390px;
+}
+
+.client-pocke1 .bolsillos-wXK3IC {
+  background-color: transparent;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: auto;
+}
+
+.client-pocke1 .group-2036-wXK3IC {
+  background-color: transparent;
+  height: 152px;
+  left: 55px;
+  position: absolute;
+  top: 231px;
+  width: 101px;
+}
+
+.client-pocke1 .ahorro-previo-AUmUTi {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 118px;
+  width: 93px;
+}
+
+.client-pocke1 .image-21-AUmUTi {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.client-pocke1 .group-2038-wXK3IC {
+  background-color: transparent;
+  height: 140px;
+  left: 55px;
+  position: absolute;
+  top: 429px;
+  width: 101px;
+}
+
+.client-pocke1 .casa-5mRSxn {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 123px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.client-pocke1 .image-23-5mRSxn {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.client-pocke1 .group-2037-wXK3IC {
+  background-color: transparent;
+  height: 136px;
+  left: 250px;
+  position: absolute;
+  top: 231px;
+  width: 101px;
+}
+
+.client-pocke1 .viajes-9W3xF8 {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 118px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.client-pocke1 .image-22-9W3xF8 {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.client-pocke1 .aadir1-wXK3IC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 64px;
+  position: absolute;
+  top: 696px;
+  width: 259px;
+}
+
+.client-pocke1 .rectangle-6-19Hwn2 {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.client-pocke1 .enviar-19Hwn2 {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.client-pocke1 .rectangle-8-wXK3IC {
+  background-color: transparent;
+  height: 72px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.client-pocke1 .vector-wXK3IC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 30px;
+  position: absolute;
+  top: 102px;
+  width: 9px;
+}

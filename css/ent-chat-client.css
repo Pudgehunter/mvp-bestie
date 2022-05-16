@@ -1,0 +1,708 @@
+/* screen - ent-chat-client */
+
+.ent-chat-client {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-chat-client .nav-emprendimiento-kIv7ex {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-chat-client .rectangle-1463-XdcKr0 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-chat-client .union-XdcKr0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-chat-client .union-xOTwcE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-chat-client .union-GMIyFu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-chat-client .union-xVeUkC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-chat-client .group-345-kIv7ex {
+  background-color: transparent;
+  height: 376px;
+  left: 28px;
+  position: absolute;
+  top: 136px;
+  width: 335px;
+}
+
+.ent-chat-client .ellipse-18-cCNkBB {
+  background-color: var(--mist-gray);
+  border-radius: 25px;
+  height: 50px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 114px;
+  width: 50px;
+}
+
+.ent-chat-client .ellipse-19-cCNkBB {
+  background-color: var(--mist-gray);
+  border-radius: 25px;
+  height: 50px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 213px;
+  width: 50px;
+}
+
+.ent-chat-client .ellipse-20-cCNkBB {
+  background-color: var(--mist-gray);
+  border-radius: 25px;
+  height: 50px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 312px;
+  width: 50px;
+}
+
+.ent-chat-client .mask-group-cCNkBB {
+  background-color: transparent;
+  height: 50px;
+  left: 16px;
+  position: absolute;
+  top: 114px;
+  width: 50px;
+}
+
+.ent-chat-client .group-2067-cCNkBB {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 198px;
+  width: 341px;
+}
+
+.ent-chat-client .rectangle-357-RxOjwQ {
+  background-color: var(--cielo-claro);
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #0000001a;
+  height: 79px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 335px;
+}
+
+.ent-chat-client .x1203-pm-RxOjwQ {
+  background-color: transparent;
+  height: auto;
+  left: 275px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+
+.ent-chat-client .escribiendo-RxOjwQ {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 215px;
+}
+
+.ent-chat-client .ana-moreno-RxOjwQ {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.ent-chat-client .mask-group-RxOjwQ {
+  background-color: transparent;
+  height: 50px;
+  left: 16px;
+  position: absolute;
+  top: 15px;
+  width: 50px;
+}
+
+.ent-chat-client .group-2068-cCNkBB {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 297px;
+  width: 341px;
+}
+
+.ent-chat-client .rectangle-358-1uo059 {
+  background-color: var(--cielo-claro);
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #0000001a;
+  height: 79px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 335px;
+}
+
+.ent-chat-client .x1030-pm-1uo059 {
+  background-color: transparent;
+  height: auto;
+  left: 276px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+
+.ent-chat-client .si-me-llegaron-muchisimas-gracias-1uo059 {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 202px;
+}
+
+.ent-chat-client .maria-polanco-1uo059 {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.ent-chat-client .mask-group-1uo059 {
+  background-color: transparent;
+  height: 50px;
+  left: 16px;
+  position: absolute;
+  top: 15px;
+  width: 50px;
+}
+
+.ent-chat-client .ellipse-36-1uo059 {
+  background-color: var(--text);
+  border-radius: 5px;
+  height: 10px;
+  left: 58px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 52px;
+  width: 10px;
+}
+
+.ent-chat-client .group-341-1uo059 {
+  background-color: transparent;
+  height: 11px;
+  left: 309px;
+  position: absolute;
+  top: 52px;
+  width: 21px;
+}
+
+.ent-chat-client .group-340-iShStG {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.ent-chat-client .line-21-5aHvcx {
+  background-color: transparent;
+  height: 6px;
+  left: -1px;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.ent-chat-client .line-22-5aHvcx {
+  background-color: transparent;
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.ent-chat-client .line-21-iShStG {
+  background-color: transparent;
+  height: 4px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 4px;
+}
+
+.ent-chat-client .line-22-iShStG {
+  background-color: transparent;
+  height: 10px;
+  left: 10px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.ent-chat-client .group-2066-cCNkBB {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 99px;
+  width: 341px;
+}
+
+.ent-chat-client .rectangle-356-2H6Dny {
+  background-color: var(--cielo-claro);
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #0000001a;
+  height: 79px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 335px;
+}
+
+.ent-chat-client .x1050-m-2H6Dny {
+  background-color: transparent;
+  height: auto;
+  left: 275px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+
+.ent-chat-client .recuerda-por-favor-enviarlo-a-esta-direc-2H6Dny {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 202px;
+}
+
+.ent-chat-client .edwin-pea-2H6Dny {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.ent-chat-client .group-342-2H6Dny {
+  background-color: transparent;
+  height: 11px;
+  left: 309px;
+  position: absolute;
+  top: 59px;
+  width: 21px;
+}
+
+.ent-chat-client .group-340-mHEHxz {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.ent-chat-client .line-21-ysGQx4 {
+  background-color: transparent;
+  height: 6px;
+  left: -1px;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.ent-chat-client .line-22-ysGQx4 {
+  background-color: transparent;
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.ent-chat-client .line-21-mHEHxz {
+  background-color: transparent;
+  height: 4px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 4px;
+}
+
+.ent-chat-client .line-22-mHEHxz {
+  background-color: transparent;
+  height: 10px;
+  left: 10px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.ent-chat-client .unsplashp0-b7ueo-zz8-e-2H6Dny {
+  background-color: transparent;
+  height: 50px;
+  left: 16px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 50px;
+}
+
+.ent-chat-client .group-2065-cCNkBB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 341px;
+}
+
+.ent-chat-client .rectangle-355-wL2Z9X {
+  background-color: var(--cielo-claro);
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #0000001a;
+  height: 79px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 335px;
+}
+
+.ent-chat-client .x1023-am-wL2Z9X {
+  background-color: transparent;
+  height: auto;
+  left: 275px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+
+.ent-chat-client .me-encanta-wL2Z9X {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 202px;
+}
+
+.ent-chat-client .mateo-ramos-wL2Z9X {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.ent-chat-client .ellipse-88-wL2Z9X {
+  background-color: transparent;
+  height: 19px;
+  left: 302px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 33px;
+  width: 19px;
+}
+
+.ent-chat-client .ellipse-253-wL2Z9X {
+  background-color: transparent;
+  height: 50px;
+  left: 16px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 50px;
+}
+
+.ent-chat-client .ellipse-35-wL2Z9X {
+  background-color: var(--text);
+  border-radius: 5px;
+  height: 10px;
+  left: 56px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 52px;
+  width: 10px;
+}
+
+.ent-chat-client .clientes-proveedores-kIv7ex {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 119px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.ent-chat-client .span0-FgTYRA {
+}
+
+.ent-chat-client .span1-FgTYRA {
+}
+
+.ent-chat-client .vector-kIv7ex {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 61px;
+  width: 9px;
+}
+
+.ent-chat-client .status-bar-i-phone-13-13-pro-kIv7ex {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-chat-client .indicators-EOv2G0 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-chat-client .elements-signal-6qE0Vs {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-chat-client .cellular-connection-9ym91u {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-chat-client .elements-connection-6qE0Vs {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-chat-client .wifi-d45HI9 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-chat-client .elements-battery-6qE0Vs {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-chat-client .border-UwgV3Y {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-chat-client .cap-UwgV3Y {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-chat-client .capacity-UwgV3Y {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-chat-client .mic-cam-EOv2G0 {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-chat-client .elements-time-EOv2G0 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-chat-client .time-OGuRUv {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}

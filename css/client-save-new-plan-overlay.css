@@ -1,0 +1,520 @@
+/* screen - client-save-new-plan-overlay */
+
+.client-save-new-plan-overlay {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-save-new-plan-overlay .status-bar-i-phone-13-13-pro-5exwti {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-save-new-plan-overlay .indicators-4x6Qbe {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-save-new-plan-overlay .elements-signal-Eo7ytu {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-save-new-plan-overlay .cellular-connection-3Nd8xN {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-save-new-plan-overlay .elements-connection-Eo7ytu {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-save-new-plan-overlay .wifi-KC8YXI {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-save-new-plan-overlay .elements-battery-Eo7ytu {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-save-new-plan-overlay .border-W4bipK {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-save-new-plan-overlay .cap-W4bipK {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-save-new-plan-overlay .capacity-W4bipK {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-save-new-plan-overlay .mic-cam-4x6Qbe {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-save-new-plan-overlay .elements-time-4x6Qbe {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-save-new-plan-overlay .time-4W5Ae3 {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-save-new-plan-overlay .nombre-del-plan-5exwti {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 364px;
+  width: 285px;
+}
+
+.client-save-new-plan-overlay .mi-mac-book-pro-2022-5exwti {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 387px;
+  width: 285px;
+}
+
+.client-save-new-plan-overlay .line-2-5exwti {
+  background-color: transparent;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 408px;
+  width: 354px;
+}
+
+.client-save-new-plan-overlay .cantidad-a-ahorrar-5exwti {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 427px;
+  width: 285px;
+}
+
+.client-save-new-plan-overlay .x8500000-5exwti {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 450px;
+  width: 285px;
+}
+
+.client-save-new-plan-overlay .line-3-5exwti {
+  background-color: transparent;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 472px;
+  width: 354px;
+}
+
+.client-save-new-plan-overlay .tiempo-lmite-estimado-5exwti {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 488px;
+  width: 285px;
+}
+
+.client-save-new-plan-overlay .x24102022-5exwti {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 511px;
+  width: 285px;
+}
+
+.client-save-new-plan-overlay .line-4-5exwti {
+  background-color: transparent;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 532px;
+  width: 354px;
+}
+
+.client-save-new-plan-overlay .group-293-5exwti {
+  background-color: transparent;
+  height: 38px;
+  left: 18px;
+  position: absolute;
+  top: 714px;
+  width: 354px;
+}
+
+.client-save-new-plan-overlay .rectangle-6-oMO7Pc {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.client-save-new-plan-overlay .group-313-oMO7Pc {
+  background-color: transparent;
+  height: 14px;
+  left: 77px;
+  position: absolute;
+  top: 10px;
+  width: 201px;
+}
+
+.client-save-new-plan-overlay .crear-nuevo-plan-de-ahorro-7GTxbw {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 185px;
+}
+
+.client-save-new-plan-overlay .union-7GTxbw {
+  background-color: transparent;
+  height: 10px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.client-save-new-plan-overlay .vector-5exwti {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 61px;
+  width: 9px;
+}
+
+.client-save-new-plan-overlay .nav-client-5exwti {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-save-new-plan-overlay .rectangle-1463-0VUuL1 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-save-new-plan-overlay .union-0VUuL1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-save-new-plan-overlay .union-MFS0LK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-save-new-plan-overlay .union-HH7cwo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-save-new-plan-overlay .union-44nC0A {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-save-new-plan-overlay .camila-montoya-nuevo-plan-5exwti {
+  background-color: transparent;
+  height: auto;
+  left: 96px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.client-save-new-plan-overlay .span0-WTytlk {
+}
+
+.client-save-new-plan-overlay .span1-WTytlk {
+}
+
+.client-save-new-plan-overlay .image-42-5exwti {
+  background-color: transparent;
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 106px;
+  width: 390px;
+}
+
+.client-save-new-plan-overlay .fondo-5exwti {
+  background-color: transparent;
+  height: 844px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-save-new-plan-overlay .group-287-5exwti {
+  background-color: transparent;
+  height: 371px;
+  left: 29px;
+  position: absolute;
+  top: 222px;
+  width: 333px;
+}
+
+.client-save-new-plan-overlay .group-102-6e45LQ {
+  background-color: transparent;
+  height: 371px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.client-save-new-plan-overlay .rectangle-1325-A45J6J {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 371px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.client-save-new-plan-overlay .group-101-A45J6J {
+  background-color: transparent;
+  height: 144px;
+  left: 36px;
+  position: absolute;
+  top: 187px;
+  width: 264px;
+}
+
+.client-save-new-plan-overlay .felicitaciones-EXse1z {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 239px;
+}
+
+.client-save-new-plan-overlay .acabas-de-crear-tu-n-EXse1z {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  width: 260px;
+}
+
+.client-save-new-plan-overlay .group-100-EXse1z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 52px;
+  position: absolute;
+  top: 107px;
+  width: 158px;
+}
+
+.client-save-new-plan-overlay .rectangle-1324-vuF58U {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  height: 37px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 156px;
+}
+
+.client-save-new-plan-overlay .aceptar-vuF58U {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: 61px;
+}
+
+.client-save-new-plan-overlay .rectangle-17-6e45LQ {
+  background-color: transparent;
+  height: 123px;
+  left: 104px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 123px;
+}

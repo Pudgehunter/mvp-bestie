@@ -1,0 +1,163 @@
+/* screen - overlay-city */
+
+.overlay-city {
+  background-color: transparent;
+  height: 844px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+#overlay-overlay-city {
+  background-color: transparent;
+}
+
+.overlay .overlay-city {
+  background-color: #00000000;
+}
+
+#overlay-overlay-city .overlay-city {
+  left: 55.99984722633599px;
+  top: 566.7431411107278px;
+}
+
+#overlay-overlay-city .container-center-horizontal {
+  justify-content: normal;
+}
+
+.overlay-city .overlay-city-VMxHdC {
+  background-color: transparent;
+  height: 148px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 274px;
+}
+
+.overlay-city .group-373-Q0bFEC {
+  background-color: transparent;
+  height: 148px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 274px;
+}
+
+.overlay-city .rectangle-1367-6QXNnf {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 148px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 274px;
+}
+
+.overlay-city .group-308-6QXNnf {
+  background-color: transparent;
+  height: 122px;
+  left: 17px;
+  position: absolute;
+  top: 11px;
+  width: 232px;
+}
+
+.overlay-city .ciudad-xhnZY0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 222px;
+}
+
+.overlay-city .cali-xhnZY0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: 222px;
+}
+
+.overlay-city .jamund-xhnZY0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 57px;
+  width: 222px;
+}
+
+.overlay-city .bogot-xhnZY0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 82px;
+  width: 222px;
+}
+
+.overlay-city .pereira-xhnZY0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 107px;
+  width: 222px;
+}
+
+.overlay-city .vector-6QXNnf {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.overlay-city .rectangle-1369-6QXNnf {
+  background-color: #c4c4c470;
+  border-radius: 36px;
+  height: 90px;
+  left: 256px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 4px;
+}
+
+.overlay-city .rectangle-1368-6QXNnf {
+  background-color: var(--mist-gray);
+  border-radius: 36px;
+  height: 30px;
+  left: 256px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 4px;
+}

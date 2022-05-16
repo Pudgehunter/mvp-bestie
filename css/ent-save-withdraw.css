@@ -1,0 +1,368 @@
+/* screen - ent-save-withdraw */
+
+.ent-save-withdraw {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-save-withdraw .status-bar-i-phone-13-13-pro-GuvpwP {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-save-withdraw .indicators-721gRM {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-save-withdraw .elements-signal-Xu4rUj {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-save-withdraw .cellular-connection-QKTgj7 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-save-withdraw .elements-connection-Xu4rUj {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-save-withdraw .wifi-2sP6eP {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-save-withdraw .elements-battery-Xu4rUj {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-save-withdraw .border-MM4a68 {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-save-withdraw .cap-MM4a68 {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-save-withdraw .capacity-MM4a68 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-save-withdraw .mic-cam-721gRM {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-save-withdraw .elements-time-721gRM {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-save-withdraw .time-x4IfXA {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-save-withdraw .group-293-GuvpwP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 18px;
+  position: absolute;
+  top: 714px;
+  width: 354px;
+}
+
+.ent-save-withdraw .rectangle-6-Ux1gma {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.ent-save-withdraw .group-313-Ux1gma {
+  background-color: transparent;
+  height: 14px;
+  left: 123px;
+  position: absolute;
+  top: 10px;
+  width: 123px;
+}
+
+.ent-save-withdraw .retirar-dinero-K6Wv8Z {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 121px;
+}
+
+.ent-save-withdraw .blink-custom-jewels-retirar-GuvpwP {
+  background-color: transparent;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.ent-save-withdraw .span0-hoZe0j {
+}
+
+.ent-save-withdraw .span1-hoZe0j {
+}
+
+.ent-save-withdraw .nav-emprendimiento-GuvpwP {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-save-withdraw .rectangle-1463-xYnyvd {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-save-withdraw .union-xYnyvd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-save-withdraw .union-1y9PaG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-save-withdraw .union-mZhokH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-save-withdraw .union-apl7jG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-save-withdraw .vector-GuvpwP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 61px;
+  width: 9px;
+}
+
+.ent-save-withdraw .image-42-GuvpwP {
+  background-color: transparent;
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 124px;
+  width: 390px;
+}
+
+.ent-save-withdraw .vamos-por-1560000-GuvpwP {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  width: 157px;
+}
+
+.ent-save-withdraw .meta-1560000-GuvpwP {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 389px;
+  width: 125px;
+}
+
+.ent-save-withdraw .span0-c4sRjb {
+}
+
+.ent-save-withdraw .span1-c4sRjb {
+}
+
+.ent-save-withdraw .rectangle-34-GuvpwP {
+  background-color: transparent;
+  height: 5px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 381px;
+  width: 352px;
+}
+
+.ent-save-withdraw .para-mi-nueva-vitrina-GuvpwP {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  width: 199px;
+}
+
+.ent-save-withdraw .felicitaciones-compl-GuvpwP {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 422px;
+  width: 324px;
+}
+
+.ent-save-withdraw .ahora-es-momento-de-GuvpwP {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 448px;
+  width: 345px;
+}

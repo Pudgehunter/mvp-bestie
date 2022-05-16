@@ -1,0 +1,384 @@
+/* screen - ent-create-proyect5 */
+
+.ent-create-proyect5 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-create-proyect5 .status-bar-i-phone-13-13-pro-sXmdxb {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-create-proyect5 .indicators-xExBmr {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-create-proyect5 .elements-signal-1LYniY {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-create-proyect5 .cellular-connection-2QLtKU {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-create-proyect5 .elements-connection-1LYniY {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-create-proyect5 .wifi-1PBNVi {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-create-proyect5 .elements-battery-1LYniY {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-create-proyect5 .border-xUhopp {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-create-proyect5 .cap-xUhopp {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-create-proyect5 .capacity-xUhopp {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-create-proyect5 .mic-cam-xExBmr {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-create-proyect5 .elements-time-xExBmr {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-create-proyect5 .time-3I1lx6 {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-create-proyect5 .resultados-del-proyecto-sXmdxb {
+  background-color: transparent;
+  height: auto;
+  left: 115px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.ent-create-proyect5 .vector-sXmdxb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.ent-create-proyect5 .image-25-sXmdxb {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 98px;
+  width: 390px;
+}
+
+.ent-create-proyect5 .rectangle-1376-sXmdxb {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 98px;
+  width: 390px;
+}
+
+.ent-create-proyect5 .resultado-del-proyecto-sXmdxb {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 225px;
+  width: 334px;
+}
+
+.ent-create-proyect5 .rectangle-1377-sXmdxb {
+  background-color: var(--azul);
+  border-radius: 4px;
+  height: 16px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 290px;
+  width: 334px;
+}
+
+.ent-create-proyect5 .x100-completado-sXmdxb {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 259px;
+  width: auto;
+}
+
+.ent-create-proyect5 .felicidades-sXmdxb {
+  background-color: transparent;
+  height: auto;
+  left: 135px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 336px;
+  width: auto;
+}
+
+.ent-create-proyect5 .recolectaste-el-mont-sXmdxb {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 389px;
+  width: 325px;
+}
+
+.ent-create-proyect5 .group-317-sXmdxb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 65px;
+  position: absolute;
+  top: 545px;
+  width: 259px;
+}
+
+.ent-create-proyect5 .rectangle-6-XT1r5R {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.ent-create-proyect5 .enviar-XT1r5R {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.ent-create-proyect5 .group-318-sXmdxb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 65px;
+  position: absolute;
+  top: 608px;
+  width: 259px;
+}
+
+.ent-create-proyect5 .rectangle-6-oJCB0Y {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.ent-create-proyect5 .enviar-oJCB0Y {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.ent-create-proyect5 .nav-emprendimiento-sXmdxb {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-create-proyect5 .rectangle-1463-mwdGWS {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-create-proyect5 .union-mwdGWS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-create-proyect5 .union-LxUPGb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-create-proyect5 .union-yo38wL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-create-proyect5 .union-utz9xU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

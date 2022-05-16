@@ -1,0 +1,478 @@
+/* screen - ent-save-view-3 */
+
+.ent-save-view-3 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-save-view-3 .vector-1uHgJ8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.ent-save-view-3 .image-20-1uHgJ8 {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-save-view-3 .status-bar-i-phone-13-13-pro-1uHgJ8 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-save-view-3 .indicators-rPLyip {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-save-view-3 .elements-signal-QZJHd5 {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-save-view-3 .cellular-connection-T3iwPy {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-save-view-3 .elements-connection-QZJHd5 {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-save-view-3 .wifi-INRxdX {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-save-view-3 .elements-battery-QZJHd5 {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-save-view-3 .border-Klgq2e {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-save-view-3 .cap-Klgq2e {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-save-view-3 .capacity-Klgq2e {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-save-view-3 .mic-cam-rPLyip {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-save-view-3 .elements-time-rPLyip {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-save-view-3 .time-0OFmhH {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-save-view-3 .de-dnde-saldr-el-dinero-1uHgJ8 {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 331px;
+}
+
+.ent-save-view-3 .nav-emprendimiento-1uHgJ8 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-save-view-3 .rectangle-1463-pki1bB {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-save-view-3 .union-pki1bB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-save-view-3 .union-BKXQSo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-save-view-3 .union-B3vle5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-save-view-3 .union-hfB8xB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-save-view-3 .group-2129-1uHgJ8 {
+  background-color: transparent;
+  height: 98px;
+  left: 160px;
+  position: absolute;
+  top: 248px;
+  width: 70px;
+}
+
+.ent-save-view-3 .disponible-200000-BslbrV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 64px;
+  width: 68px;
+}
+
+.ent-save-view-3 .span0-eCwSeB {
+}
+
+.ent-save-view-3 .span1-eCwSeB {
+}
+
+.ent-save-view-3 .rectangle-1415-BslbrV {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 37px;
+  left: 8px;
+  position: absolute;
+  top: -2px;
+  width: 54px;
+}
+
+.ent-save-view-3 .vector-136-BslbrV {
+  background-color: transparent;
+  height: 2px;
+  left: 9px;
+  position: absolute;
+  top: 38px;
+  width: 51px;
+}
+
+.ent-save-view-3 .vector-137-BslbrV {
+  background-color: transparent;
+  height: 2px;
+  left: 13px;
+  position: absolute;
+  top: 42px;
+  width: 44px;
+}
+
+.ent-save-view-3 .group-352-BslbrV {
+  background-color: transparent;
+  height: 17px;
+  left: 27px;
+  position: absolute;
+  top: 8px;
+  width: 17px;
+}
+
+.ent-save-view-3 .ellipse-93-IUw0kb {
+  background-color: transparent;
+  border-radius: 8.33px;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.ent-save-view-3 .union-IUw0kb {
+  background-color: transparent;
+  height: 11px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.ent-save-view-3 .group-2128-1uHgJ8 {
+  background-color: transparent;
+  height: 100px;
+  left: 51px;
+  position: absolute;
+  top: 246px;
+  width: 70px;
+}
+
+.ent-save-view-3 .bolsillos-300000-tcfvir {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 66px;
+  width: 68px;
+}
+
+.ent-save-view-3 .span0-lnBapF {
+}
+
+.ent-save-view-3 .span1-lnBapF {
+}
+
+.ent-save-view-3 .rectangle-1416-tcfvir {
+  background-color: transparent;
+  height: 48px;
+  left: 13px;
+  position: absolute;
+  top: -0px;
+  width: 39px;
+}
+
+.ent-save-view-3 .rectangle-1417-tcfvir {
+  background-color: transparent;
+  border-radius: 2px 2px 10px 10px;
+  height: 16px;
+  left: 14px;
+  position: absolute;
+  top: 0px;
+  width: 39px;
+}
+
+.ent-save-view-3 .ellipse-104-tcfvir {
+  background-color: var(--cielo-claro);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.ent-save-view-3 .heart-tcfvir {
+  background-color: transparent;
+  height: 17px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22px;
+  width: 18px;
+}
+
+.ent-save-view-3 .check-1uHgJ8 {
+  background-color: transparent;
+  height: 18px;
+  left: 219px;
+  position: absolute;
+  top: 223px;
+  width: 18px;
+}
+
+.ent-save-view-3 .ellipse-103-clxb1q {
+  background-color: var(--cielo-osc);
+  border-radius: 9px;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.ent-save-view-3 .check-clxb1q {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 11px;
+}
+
+.ent-save-view-3 .aadir-dinero-a-mi-ahorro-1uHgJ8 {
+  background-color: transparent;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.ent-save-view-3 .continue-save-view-button-1uHgJ8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 19px;
+  position: absolute;
+  top: 711px;
+  width: 354px;
+}
+
+.ent-save-view-3 .rectangle-6-DaDwhU {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.ent-save-view-3 .group-313-DaDwhU {
+  background-color: transparent;
+  height: 14px;
+  left: 91px;
+  position: absolute;
+  top: 10px;
+  width: 187px;
+}
+
+.ent-save-view-3 .continuar-onxBXZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 185px;
+}

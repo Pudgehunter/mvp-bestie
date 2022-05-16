@@ -1,0 +1,461 @@
+/* screen - client-save-room-5 */
+
+.client-save-room-5 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-save-room-5 .nav-emprendimiento-Uic3uY {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 770px;
+  width: 390px;
+}
+
+.client-save-room-5 .rectangle-1463-mHyXHZ {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-save-room-5 .union-mHyXHZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.client-save-room-5 .union-YEoS3Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-save-room-5 .union-UMaaFe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-save-room-5 .union-VRxnMI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-save-room-5 .aadir-dinero-a-mi-ahorro-Uic3uY {
+  background-color: transparent;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.client-save-room-5 .vector-Uic3uY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.client-save-room-5 .image-25-Uic3uY {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.client-save-room-5 .status-bar-i-phone-13-13-pro-Uic3uY {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.client-save-room-5 .indicators-4q6cNC {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-save-room-5 .elements-signal-nncl0Z {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-save-room-5 .cellular-connection-1uA15x {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-save-room-5 .elements-connection-nncl0Z {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-save-room-5 .wifi-bhoHMC {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-save-room-5 .elements-battery-nncl0Z {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-save-room-5 .border-Adii81 {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-save-room-5 .cap-Adii81 {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-save-room-5 .capacity-Adii81 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-save-room-5 .mic-cam-4q6cNC {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-save-room-5 .elements-time-4q6cNC {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-save-room-5 .time-Lg3pdt {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-save-room-5 .selecciona-un-bolsillo-Uic3uY {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 331px;
+}
+
+.client-save-room-5 .check-Uic3uY {
+  background-color: transparent;
+  height: 18px;
+  left: 159px;
+  position: absolute;
+  top: 200px;
+  width: 18px;
+}
+
+.client-save-room-5 .ellipse-103-VaqTBf {
+  background-color: var(--cielo-osc);
+  border-radius: 9px;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.client-save-room-5 .check-VaqTBf {
+  background-color: transparent;
+  height: 8px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 11px;
+}
+
+.client-save-room-5 .group-2061-Uic3uY {
+  background-color: transparent;
+  height: 128px;
+  left: 60px;
+  position: absolute;
+  top: 218px;
+  width: 110px;
+}
+
+.client-save-room-5 .sueos-OGmJc9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.client-save-room-5 .image-21-OGmJc9 {
+  background-color: transparent;
+  height: 99px;
+  left: 4px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.client-save-room-5 .group-2058-Uic3uY {
+  background-color: transparent;
+  height: 128px;
+  left: 228px;
+  position: absolute;
+  top: 218px;
+  width: 101px;
+}
+
+.client-save-room-5 .comida-3fa8XV {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.client-save-room-5 .image-22-3fa8XV {
+  background-color: transparent;
+  height: 99px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.client-save-room-5 .group-2060-Uic3uY {
+  background-color: transparent;
+  height: 128px;
+  left: 64px;
+  position: absolute;
+  top: 383px;
+  width: 101px;
+}
+
+.client-save-room-5 .no-gastar-tr2xfh {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.client-save-room-5 .image-23-tr2xfh {
+  background-color: transparent;
+  height: 99px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.client-save-room-5 .group-2059-Uic3uY {
+  background-color: transparent;
+  height: 128px;
+  left: 224px;
+  position: absolute;
+  top: 383px;
+  width: 107px;
+}
+
+.client-save-room-5 .otros-mTSprc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.client-save-room-5 .image-24-mTSprc {
+  background-color: transparent;
+  height: 99px;
+  left: 4px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.client-save-room-5 .save-continue-button-Uic3uY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 19px;
+  position: absolute;
+  top: 711px;
+  width: 354px;
+}
+
+.client-save-room-5 .rectangle-6-9lA3RV {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.client-save-room-5 .group-313-9lA3RV {
+  background-color: transparent;
+  height: 14px;
+  left: 91px;
+  position: absolute;
+  top: 10px;
+  width: 187px;
+}
+
+.client-save-room-5 .continuar-qfsxql {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 185px;
+}

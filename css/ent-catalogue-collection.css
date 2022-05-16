@@ -1,0 +1,625 @@
+/* screen - ent-catalogue-collection */
+
+.ent-catalogue-collection {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-catalogue-collection .group-272-fruU8p {
+  background-color: transparent;
+  height: 237px;
+  left: 0px;
+  position: absolute;
+  top: 106px;
+  width: 390px;
+}
+
+.ent-catalogue-collection .rectangle-31-qtqb8v {
+  background-color: transparent;
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-catalogue-collection .rectangle-1337-qtqb8v {
+  background-color: var(--osc-intermedio);
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-catalogue-collection .nav-emprendimiento-variant2-fruU8p {
+  background-color: transparent;
+  box-shadow: 0px -6px 13px #0000000a;
+  height: 75px;
+  left: 0px;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-catalogue-collection .rectangle-1307-Ri6zcO {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-catalogue-collection .group-32-Ri6zcO {
+  background-color: transparent;
+  height: 17px;
+  left: 15px;
+  position: absolute;
+  top: 40px;
+  width: 70px;
+}
+
+.ent-catalogue-collection .home-Fbj0Qb {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.ent-catalogue-collection .group-34-Ri6zcO {
+  background-color: transparent;
+  height: 12px;
+  left: 117px;
+  position: absolute;
+  top: 40px;
+  width: 64px;
+}
+
+.ent-catalogue-collection .estadsticas-14I87o {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.ent-catalogue-collection .group-35-Ri6zcO {
+  background-color: transparent;
+  height: 12px;
+  left: 212px;
+  position: absolute;
+  top: 40px;
+  width: 64px;
+}
+
+.ent-catalogue-collection .proyectos-0Q2mq9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.ent-catalogue-collection .home-Ri6zcO {
+  background-color: transparent;
+  height: 24px;
+  left: 37px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.ent-catalogue-collection .chart-pie-Ri6zcO {
+  background-color: transparent;
+  height: 24px;
+  left: 136px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.ent-catalogue-collection .ellipse-41-0YB9ZX {
+  background-color: transparent;
+  height: 21px;
+  left: -0px;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.ent-catalogue-collection .ellipse-42-0YB9ZX {
+  background-color: transparent;
+  height: 12px;
+  left: 11px;
+  position: absolute;
+  top: -0px;
+  width: 12px;
+}
+
+.ent-catalogue-collection .paste-Ri6zcO {
+  background-color: transparent;
+  height: 24px;
+  left: 231px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.ent-catalogue-collection .rectangle-337-cgVVVo {
+  background-color: transparent;
+  height: 22px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+
+.ent-catalogue-collection .rectangle-338-cgVVVo {
+  background-color: transparent;
+  border: 2.0px solid var(--gray-icon);
+  border-radius: 2.02px;
+  height: 7px;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.ent-catalogue-collection .group-36-Ri6zcO {
+  background-color: transparent;
+  height: 17px;
+  left: 307px;
+  position: absolute;
+  top: 40px;
+  width: 70px;
+}
+
+.ent-catalogue-collection .perfil-CHCKma {
+  background-color: transparent;
+  color: #389bec;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.ent-catalogue-collection .profile-Ri6zcO {
+  background-color: transparent;
+  height: 24px;
+  left: 329px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.ent-catalogue-collection .rectangle-1322-Ri6zcO {
+  background-color: var(--cielo);
+  height: 2px;
+  left: 301px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.ent-catalogue-collection .status-bar-i-phone-13-13-pro-fruU8p {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-catalogue-collection .indicators-94o37x {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-catalogue-collection .elements-signal-7TSN5R {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-catalogue-collection .cellular-connection-FEcpoQ {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-catalogue-collection .elements-connection-7TSN5R {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-catalogue-collection .wifi-uiICds {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-catalogue-collection .elements-battery-7TSN5R {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-catalogue-collection .border-zxhxMA {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-catalogue-collection .cap-zxhxMA {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-catalogue-collection .capacity-zxhxMA {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-catalogue-collection .mic-cam-94o37x {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-catalogue-collection .elements-time-94o37x {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-catalogue-collection .time-QN6jVv {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-catalogue-collection .admin-de-catlogo-fruU8p {
+  background-color: transparent;
+  height: auto;
+  left: 131px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.ent-catalogue-collection .vector-fruU8p {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.ent-catalogue-collection .plus-fruU8p {
+  background-color: transparent;
+  height: 83px;
+  left: 28px;
+  position: absolute;
+  top: 393px;
+  width: 83px;
+}
+
+.ent-catalogue-collection .plus-y69Gww {
+  background-color: transparent;
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 29px;
+  width: 24px;
+}
+
+.ent-catalogue-collection .rectangle-1338-y69Gww {
+  background-color: transparent;
+  border-radius: 13px;
+  height: 83px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.ent-catalogue-collection .plus-a2F8Sn {
+  background-color: transparent;
+  height: 83px;
+  left: 28px;
+  position: absolute;
+  top: 506px;
+  width: 83px;
+}
+
+.ent-catalogue-collection .plus-Vwgl6n {
+  background-color: transparent;
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 28px;
+  width: 24px;
+}
+
+.ent-catalogue-collection .rectangle-1338-Vwgl6n {
+  background-color: transparent;
+  border-radius: 13px;
+  height: 83px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.ent-catalogue-collection .blink-custom-jewels-fruU8p {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 210px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.ent-catalogue-collection .aadir-un-artculo-nuevo-fruU8p {
+  background-color: transparent;
+  height: 25px;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 421px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-catalogue-collection .aadir-una-coleccin-nueva-fruU8p {
+  background-color: transparent;
+  height: 25px;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 533px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-catalogue-collection .somos-una-empresa-su-fruU8p {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 240px;
+  width: 303px;
+}
+
+.ent-catalogue-collection .rectangle-1315-fruU8p {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: #c4c4c433;
+  height: 810px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 47px;
+  width: 390px;
+}
+
+.ent-catalogue-collection .rectangle-1316-fruU8p {
+  background-color: var(--cielo);
+  border-radius: 10px 10px 0px 0px;
+  height: 325px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 519px;
+  width: 390px;
+}
+
+.ent-catalogue-collection .nombre-de-la-coleccin-fruU8p {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 558px;
+  width: 316px;
+}
+
+.ent-catalogue-collection .line-4-fruU8p {
+  background-color: transparent;
+  height: 1px;
+  left: 34px;
+  position: absolute;
+  top: 618px;
+  width: 334px;
+}
+
+.ent-catalogue-collection .rectangle-1321-fruU8p {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 42px;
+  left: 212px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 670px;
+  width: 157px;
+}
+
+.ent-catalogue-collection .cancelar-btn-fruU8p {
+  background-color: transparent;
+  height: 42px;
+  left: 35px;
+  position: absolute;
+  top: 670px;
+  width: 157px;
+}
+
+.ent-catalogue-collection .rectangle-1320-k9wZc1 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 157px;
+}
+
+.ent-catalogue-collection .cancelar-k9wZc1 {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 157px;
+}
+
+.ent-catalogue-collection .siguiente-fruU8p {
+  background-color: transparent;
+  height: 42px;
+  left: 212px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 669px;
+  width: 157px;
+}
+
+.ent-catalogue-collection .golden-set-fruU8p {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 588px;
+  width: 334px;
+}

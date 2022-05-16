@@ -1,0 +1,557 @@
+/* screen - client-change-method-pay-card */
+
+.client-change-method-pay-card {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-change-method-pay-card .nav-client-93ynlN {
+  background-color: var(--white);
+  height: 75px;
+  left: -0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-change-method-pay-card .frame-110-OvxohA {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-change-method-pay-card .rectangle-1462-F6pmm2 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 390px;
+}
+
+.client-change-method-pay-card .union-OvxohA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-change-method-pay-card .union-h0HlQ3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-change-method-pay-card .union-P19KVC {
+  background-color: transparent;
+  height: 35px;
+  left: 226px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-change-method-pay-card .union-9ujWMF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 226px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-change-method-pay-card .union-tZzi2o {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-change-method-pay-card .rectangle-1400-93ynlN {
+  background-color: #f2f6f9;
+  box-shadow: inset 0px -9px 15px #a7b2bb1f;
+  height: 318px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-change-method-pay-card .add-card-button-93ynlN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 49px;
+  left: 28px;
+  position: absolute;
+  top: 625px;
+  width: 329px;
+}
+
+.client-change-method-pay-card .rectangle-1324-xLr5Vl {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.client-change-method-pay-card .agregar-tarjeta-xLr5Vl {
+  background-color: transparent;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: auto;
+}
+
+.client-change-method-pay-card .group-98-93ynlN {
+  background-color: transparent;
+  height: 14px;
+  left: 32px;
+  position: absolute;
+  top: 44px;
+  width: 7px;
+}
+
+.client-change-method-pay-card .line-10-xIo00l {
+  background-color: transparent;
+  height: 8px;
+  left: -1px;
+  position: absolute;
+  top: -0px;
+  width: 8px;
+}
+
+.client-change-method-pay-card .line-11-xIo00l {
+  background-color: transparent;
+  height: 8px;
+  left: -0px;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+
+.client-change-method-pay-card .status-bar-i-phone-13-13-pro-93ynlN {
+  background-color: transparent;
+  height: 47px;
+  left: -0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-change-method-pay-card .indicators-oj5dfu {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-change-method-pay-card .elements-signal-xfXxxm {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-change-method-pay-card .cellular-connection-CHk1ZA {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-change-method-pay-card .elements-connection-xfXxxm {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-change-method-pay-card .wifi-7mbXjC {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-change-method-pay-card .elements-battery-xfXxxm {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-change-method-pay-card .border-i8DZtH {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-change-method-pay-card .cap-i8DZtH {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-change-method-pay-card .capacity-i8DZtH {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-change-method-pay-card .mic-cam-oj5dfu {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-change-method-pay-card .elements-time-oj5dfu {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-change-method-pay-card .time-YVZ4Pq {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-change-method-pay-card .vector-93ynlN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.client-change-method-pay-card .group-1994-93ynlN {
+  background-color: transparent;
+  height: 49px;
+  left: 39px;
+  position: absolute;
+  top: 375px;
+  width: 329px;
+}
+
+.client-change-method-pay-card .rectangle-1399-XaXwxE {
+  background-color: var(--catskill-white);
+  border-radius: 7.5px;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.client-change-method-pay-card .juan-prez-a-XaXwxE {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: 171px;
+}
+
+.client-change-method-pay-card .group-1991-93ynlN {
+  background-color: transparent;
+  height: 49px;
+  left: 39px;
+  position: absolute;
+  top: 501px;
+  width: 152px;
+}
+
+.client-change-method-pay-card .rectangle-39-LdRj4x {
+  background-color: var(--catskill-white);
+  border-radius: 7.5px;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.client-change-method-pay-card .x06-28-LdRj4x {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 59px;
+}
+
+.client-change-method-pay-card .group-1992-93ynlN {
+  background-color: transparent;
+  height: 49px;
+  left: 217px;
+  position: absolute;
+  top: 501px;
+  width: 153px;
+}
+
+.client-change-method-pay-card .rectangle-40-3a3Gfb {
+  background-color: var(--catskill-white);
+  border-radius: 7.5px;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.client-change-method-pay-card .x-3a3Gfb {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 27px;
+}
+
+.client-change-method-pay-card .cvv-3a3Gfb {
+  background-color: transparent;
+  height: auto;
+  left: 91px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 37px;
+}
+
+.client-change-method-pay-card .group-1993-93ynlN {
+  background-color: transparent;
+  height: 49px;
+  left: 39px;
+  position: absolute;
+  top: 438px;
+  width: 329px;
+}
+
+.client-change-method-pay-card .rectangle-38-qOr2jZ {
+  background-color: var(--catskill-white);
+  border-radius: 7.5px;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.client-change-method-pay-card .x1234-5678-9012-1234-qOr2jZ {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: 171px;
+}
+
+.client-change-method-pay-card .group-288-qOr2jZ {
+  background-color: transparent;
+  height: 18px;
+  left: 250px;
+  position: absolute;
+  top: 15px;
+  width: 56px;
+}
+
+.client-change-method-pay-card .group-1995-93ynlN {
+  background-color: transparent;
+  height: 171px;
+  left: 56px;
+  position: absolute;
+  top: 99px;
+  width: 282px;
+}
+
+.client-change-method-pay-card .rectangle-1325-c5VLDk {
+  background-color: var(--cielo-claro);
+  border-radius: 15px;
+  height: 171px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 278px;
+}
+
+.client-change-method-pay-card .x1234-5678-9012-1234-c5VLDk {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 86px;
+  width: 171px;
+}
+
+.client-change-method-pay-card .mmyy-c5VLDk {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 122px;
+  width: 171px;
+}
+
+.client-change-method-pay-card .rectangle-1398-c5VLDk {
+  background-color: var(--limon-claro);
+  border-radius: 5px;
+  height: 24px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 38px;
+}
+
+.client-change-method-pay-card .datos-de-la-tarjeta-93ynlN {
+  background-color: transparent;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 339px;
+  width: auto;
+}
+
+.client-change-method-pay-card .nueva-tarjeta-de-crdito-93ynlN {
+  background-color: transparent;
+  height: auto;
+  left: 115px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}

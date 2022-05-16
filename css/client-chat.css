@@ -1,0 +1,674 @@
+/* screen - client-chat */
+
+.client-chat {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 392px;
+}
+
+.client-chat .ellipse-6-YdMm9O {
+  background-color: var(--mist-gray);
+  border-radius: 23px;
+  height: 46px;
+  left: -63px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 664px;
+  width: 46px;
+}
+
+.client-chat .ellipse-7-YdMm9O {
+  background-color: var(--mist-gray);
+  border-radius: 23px;
+  height: 46px;
+  left: 409px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 664px;
+  width: 46px;
+}
+
+.client-chat .nav-client-YdMm9O {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-chat .frame-110-YHfUso {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-chat .rectangle-1462-602x3E {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 390px;
+}
+
+.client-chat .union-YHfUso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-chat .union-be8sQ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-chat .union-3hLXHN {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-chat .union-tjZ5Fi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-chat .union-8R3H1x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-chat .rectangle-355-YdMm9O {
+  background-color: var(--cielo-claro);
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #0000001a;
+  cursor: pointer;
+  height: 79px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 135px;
+  width: 335px;
+}
+
+.client-chat .rectangle-356-YdMm9O {
+  background-color: var(--cielo-claro);
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #0000001a;
+  height: 79px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 234px;
+  width: 335px;
+}
+
+.client-chat .rectangle-357-YdMm9O {
+  background-color: var(--cielo-claro);
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #0000001a;
+  height: 79px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 333px;
+  width: 335px;
+}
+
+.client-chat .rectangle-358-YdMm9O {
+  background-color: var(--cielo-claro);
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #0000001a;
+  height: 79px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 432px;
+  width: 335px;
+}
+
+.client-chat .ellipse-18-YdMm9O {
+  background-color: var(--mist-gray);
+  border-radius: 25px;
+  height: 50px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 249px;
+  width: 50px;
+}
+
+.client-chat .ellipse-19-YdMm9O {
+  background-color: var(--mist-gray);
+  border-radius: 25px;
+  height: 50px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 348px;
+  width: 50px;
+}
+
+.client-chat .x830-am-YdMm9O {
+  background-color: transparent;
+  height: auto;
+  left: 308px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 143px;
+  width: auto;
+}
+
+.client-chat .x1210-pm-YdMm9O {
+  background-color: transparent;
+  height: auto;
+  left: 308px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 242px;
+  width: auto;
+}
+
+.client-chat .x400-pm-YdMm9O {
+  background-color: transparent;
+  height: auto;
+  left: 308px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 341px;
+  width: auto;
+}
+
+.client-chat .x630-pm-YdMm9O {
+  background-color: transparent;
+  height: auto;
+  left: 309px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 440px;
+  width: auto;
+}
+
+.client-chat .pueden-tenerlo-para-el-prximo-viernes-YdMm9O {
+  background-color: transparent;
+  height: auto;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 278px;
+  width: 202px;
+}
+
+.client-chat .tenemos-joyas-YdMm9O {
+  background-color: transparent;
+  height: auto;
+  left: 109px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 179px;
+  width: 202px;
+}
+
+.client-chat .si-ya-llegaron-los-primeros-para-cundo-YdMm9O {
+  background-color: transparent;
+  height: auto;
+  left: 108px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 476px;
+  width: 202px;
+}
+
+.client-chat .escribiendo-YdMm9O {
+  background-color: transparent;
+  height: auto;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 377px;
+  width: 215px;
+}
+
+.client-chat .blink-custom-jewels-YdMm9O {
+  background-color: transparent;
+  height: auto;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 159px;
+  width: auto;
+}
+
+.client-chat .secret-flavor-YdMm9O {
+  background-color: transparent;
+  height: auto;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 258px;
+  width: auto;
+}
+
+.client-chat .pet-home-YdMm9O {
+  background-color: transparent;
+  height: auto;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 357px;
+  width: auto;
+}
+
+.client-chat .distribuidor-YdMm9O {
+  background-color: transparent;
+  height: auto;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 456px;
+  width: auto;
+}
+
+.client-chat .group-341-YdMm9O {
+  background-color: transparent;
+  height: 11px;
+  left: 326px;
+  position: absolute;
+  top: 484px;
+  width: 21px;
+}
+
+.client-chat .group-340-KyBk8h {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.client-chat .line-21-aKrBWx {
+  background-color: transparent;
+  height: 6px;
+  left: -1px;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.client-chat .line-22-aKrBWx {
+  background-color: transparent;
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.client-chat .line-21-KyBk8h {
+  background-color: transparent;
+  height: 4px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 4px;
+}
+
+.client-chat .line-22-KyBk8h {
+  background-color: transparent;
+  height: 10px;
+  left: 10px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.client-chat .group-342-YdMm9O {
+  background-color: transparent;
+  height: 11px;
+  left: 326px;
+  position: absolute;
+  top: 293px;
+  width: 21px;
+}
+
+.client-chat .group-340-CaDuOo {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.client-chat .line-21-9isPtZ {
+  background-color: transparent;
+  height: 6px;
+  left: -1px;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.client-chat .line-22-9isPtZ {
+  background-color: transparent;
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.client-chat .line-21-CaDuOo {
+  background-color: transparent;
+  height: 4px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 4px;
+}
+
+.client-chat .line-22-CaDuOo {
+  background-color: transparent;
+  height: 10px;
+  left: 10px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.client-chat .ellipse-88-YdMm9O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 319px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 168px;
+  width: 19px;
+}
+
+.client-chat .mask-group-YdMm9O {
+  background-color: transparent;
+  height: 50px;
+  left: 45px;
+  position: absolute;
+  top: 249px;
+  width: 50px;
+}
+
+.client-chat .rectangle-16-YdMm9O {
+  background-color: transparent;
+  height: 50px;
+  left: 45px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 348px;
+  width: 50px;
+}
+
+.client-chat .mask-group-rH1Fqs {
+  background-color: transparent;
+  height: 50px;
+  left: 45px;
+  position: absolute;
+  top: 446px;
+  width: 50px;
+}
+
+.client-chat .ellipse-36-YdMm9O {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 10px;
+  left: 85px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 484px;
+  width: 10px;
+}
+
+.client-chat .status-bar-i-phone-13-13-pro-YdMm9O {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-chat .indicators-6xv8Of {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-chat .elements-signal-9aOUAI {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-chat .cellular-connection-GuvgVE {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-chat .elements-connection-9aOUAI {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-chat .wifi-EqRxTm {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-chat .elements-battery-9aOUAI {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-chat .border-h2hOzq {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-chat .cap-h2hOzq {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-chat .capacity-h2hOzq {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-chat .mic-cam-6xv8Of {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-chat .elements-time-6xv8Of {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-chat .time-nUR1Y9 {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-chat .emprendedores-YdMm9O {
+  background-color: transparent;
+  height: auto;
+  left: 141px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 62px;
+  width: auto;
+}
+
+.client-chat .span0-qevD5Y {
+}
+
+.client-chat .span1-qevD5Y {
+}
+
+.client-chat .vector-YdMm9O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 19px;
+  position: absolute;
+  top: 61px;
+  width: 9px;
+}
+
+.client-chat .rectangle-16-rH1Fqs {
+  background-color: transparent;
+  height: 50px;
+  left: 45px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 149px;
+  width: 50px;
+}

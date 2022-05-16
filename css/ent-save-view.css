@@ -1,0 +1,389 @@
+/* screen - ent-save-view */
+
+.ent-save-view {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-save-view .status-bar-i-phone-13-13-pro-WAIuWX {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-save-view .indicators-sW3QX4 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-save-view .elements-signal-DdXApz {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-save-view .cellular-connection-80D7h7 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-save-view .elements-connection-DdXApz {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-save-view .wifi-uZ4sdG {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-save-view .elements-battery-DdXApz {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-save-view .border-ZTeomw {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-save-view .cap-ZTeomw {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-save-view .capacity-ZTeomw {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-save-view .mic-cam-sW3QX4 {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-save-view .elements-time-sW3QX4 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-save-view .time-8wcfjU {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-save-view .image-20-WAIuWX {
+  background-color: transparent;
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 121px;
+  width: 390px;
+}
+
+.ent-save-view .la-moto-de-mis-sueos-WAIuWX {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  width: 199px;
+}
+
+.ent-save-view .vamos-por-138400-WAIuWX {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 386px;
+  width: 122px;
+}
+
+.ent-save-view .meta-1560000-WAIuWX {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 385px;
+  width: 125px;
+}
+
+.ent-save-view .span0-mICqle {
+}
+
+.ent-save-view .span1-mICqle {
+}
+
+.ent-save-view .group-2126-WAIuWX {
+  background-color: transparent;
+  height: 5px;
+  left: 18px;
+  position: absolute;
+  top: 377px;
+  width: 352px;
+}
+
+.ent-save-view .rectangle-34-COcsFY {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 352px;
+}
+
+.ent-save-view .rectangle-35-COcsFY {
+  background-color: var(--azul);
+  border-radius: 7.67px;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 85px;
+}
+
+.ent-save-view .tiempo-lmite-estimado-WAIuWX {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 425px;
+  width: 285px;
+}
+
+.ent-save-view .x12072021-WAIuWX {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 448px;
+  width: 285px;
+}
+
+.ent-save-view .group-293-WAIuWX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 19px;
+  position: absolute;
+  top: 711px;
+  width: 354px;
+}
+
+.ent-save-view .rectangle-6-LfJXrk {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.ent-save-view .group-313-LfJXrk {
+  background-color: transparent;
+  height: 14px;
+  left: 84px;
+  position: absolute;
+  top: 10px;
+  width: 194px;
+}
+
+.ent-save-view .aadir-dinero-a-mi-ahorro-SpbK4n {
+  background-color: transparent;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 185px;
+}
+
+.ent-save-view .union-SpbK4n {
+  background-color: transparent;
+  height: 10px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.ent-save-view .nav-emprendimiento-WAIuWX {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-save-view .rectangle-1463-DtCMWu {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-save-view .union-DtCMWu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-save-view .union-VaLMf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-save-view .union-R3un5G {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-save-view .union-Z701Xs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-save-view .blink-custom-jewels-mi-plan-WAIuWX {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.ent-save-view .span0-vxTCNU {
+}
+
+.ent-save-view .span1-vxTCNU {
+}

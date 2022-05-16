@@ -1,0 +1,199 @@
+/* screen - index-login */
+
+.index-login {
+  background-color: var(--cielo);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.index-login .frame-118-x6S8wx {
+  background-color: transparent;
+  height: 509px;
+  left: -5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 74px;
+  width: 220px;
+}
+
+.index-login .bestie-x6S8wx {
+  background-color: transparent;
+  height: 74px;
+  left: 84px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 231px;
+  width: 221px;
+}
+
+.index-login .bienvenido-escoge-al-x6S8wx {
+  background-color: transparent;
+  height: auto;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 324px;
+  width: 211px;
+}
+
+.index-login .fondo-x6S8wx {
+  background-color: transparent;
+  height: 844px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.index-login .rectangle-1316-x6S8wx {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 252px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 296px;
+  width: 336px;
+}
+
+.index-login .vas-a-iniciar-sesin-x6S8wx {
+  background-color: transparent;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 329px;
+  width: 251px;
+}
+
+.index-login .span0-5todDZ {
+}
+
+.index-login .span1-5todDZ {
+}
+
+.index-login .span2-5todDZ {
+}
+
+.index-login .entrepreneur-button-x6S8wx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 60px;
+  position: absolute;
+  top: 390px;
+  width: 271px;
+}
+
+.index-login .rectangle-1320-HRuogx {
+  background-color: var(--cielo);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 269px;
+}
+
+.index-login .emprendedor-HRuogx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 116px;
+}
+
+.index-login .client-button-x6S8wx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 60px;
+  position: absolute;
+  top: 455px;
+  width: 271px;
+}
+
+.index-login .rectangle-1321-4H2rYj {
+  background-color: var(--cielo);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 269px;
+}
+
+.index-login .cliente-4H2rYj {
+  background-color: transparent;
+  height: 44px;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 81px;
+}
+
+.index-login .group-370-x6S8wx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 27px;
+  position: absolute;
+  top: 109px;
+  width: 85px;
+}
+
+.index-login .group-371-Q1W6Tx {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 87px;
+}
+
+.index-login .regresar-hhJnmh {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.index-login .vector-hhJnmh {
+  background-color: transparent;
+  height: 16px;
+  left: -2px;
+  position: absolute;
+  top: -1px;
+  width: 9px;
+}

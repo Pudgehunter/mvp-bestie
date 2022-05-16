@@ -1,0 +1,532 @@
+/* screen - ent-chat-client-mateo */
+
+.ent-chat-client-mateo {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-chat-client-mateo .rectangle-710-G2Rzxe {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-chat-client-mateo .outline-interface-caret-left-G2Rzxe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  left: 10px;
+  position: absolute;
+  top: 64px;
+  width: 32px;
+}
+
+.ent-chat-client-mateo .ellipse-6-G2Rzxe {
+  background-color: var(--mist-gray);
+  border-radius: 23px;
+  height: 46px;
+  left: -63px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 664px;
+  width: 46px;
+}
+
+.ent-chat-client-mateo .ellipse-7-G2Rzxe {
+  background-color: var(--mist-gray);
+  border-radius: 23px;
+  height: 46px;
+  left: 407px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 664px;
+  width: 46px;
+}
+
+.ent-chat-client-mateo .rectangle-349-G2Rzxe {
+  background-color: var(--cielo-claro);
+  border-radius: 20px 20px 20px 0px;
+  height: 56px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 169px;
+  width: 238px;
+}
+
+.ent-chat-client-mateo .rectangle-352-G2Rzxe {
+  background-color: transparent;
+  height: 37px;
+  left: 139px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 258px;
+  width: 224px;
+}
+
+.ent-chat-client-mateo .rectangle-355-G2Rzxe {
+  background-color: transparent;
+  height: 56px;
+  left: 100px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 618px;
+  width: 256px;
+}
+
+.ent-chat-client-mateo .rectangle-353-G2Rzxe {
+  background-color: transparent;
+  height: 41px;
+  left: 125px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 430px;
+  width: 234px;
+}
+
+.ent-chat-client-mateo .rectangle-351-G2Rzxe {
+  background-color: var(--cielo-claro);
+  border-radius: 20px 20px 20px 0px;
+  height: 56px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 332px;
+  width: 238px;
+}
+
+.ent-chat-client-mateo .rectangle-354-G2Rzxe {
+  background-color: var(--cielo-claro);
+  border-radius: 20px 20px 20px 0px;
+  height: 64px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 514px;
+  width: 238px;
+}
+
+.ent-chat-client-mateo .rectangle-356-G2Rzxe {
+  background-color: var(--cielo-claro);
+  border-radius: 20px 20px 20px 0px;
+  height: 38px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 688px;
+  width: 91px;
+}
+
+.ent-chat-client-mateo .mateo-ramos-G2Rzxe {
+  background-color: transparent;
+  height: auto;
+  left: 85px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 63px;
+  width: 124px;
+}
+
+.ent-chat-client-mateo .online-G2Rzxe {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-outfit);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 100;
+  height: auto;
+  left: 85px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 81px;
+  width: auto;
+}
+
+.ent-chat-client-mateo .x1023-pm-G2Rzxe {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 228px;
+  width: auto;
+}
+
+.ent-chat-client-mateo .x1023-pm-OXgLyf {
+  background-color: transparent;
+  height: auto;
+  left: 321px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 298px;
+  width: auto;
+}
+
+.ent-chat-client-mateo .x1023-pm-nxsMxK {
+  background-color: transparent;
+  height: auto;
+  left: 322px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 677px;
+  width: auto;
+}
+
+.ent-chat-client-mateo .x1024-pm-G2Rzxe {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 391px;
+  width: auto;
+}
+
+.ent-chat-client-mateo .x1030-pm-G2Rzxe {
+  background-color: transparent;
+  height: auto;
+  left: 322px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 480px;
+  width: auto;
+}
+
+.ent-chat-client-mateo .x1032-pm-G2Rzxe {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 589px;
+  width: auto;
+}
+
+.ent-chat-client-mateo .x1032-pm-OXgLyf {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 729px;
+  width: auto;
+}
+
+.ent-chat-client-mateo .ellipse-17-G2Rzxe {
+  background-color: var(--mist-gray);
+  border-radius: 15.5px;
+  height: 31px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 64px;
+  width: 31px;
+}
+
+.ent-chat-client-mateo .vector-G2Rzxe {
+  background-color: transparent;
+  height: 23px;
+  left: 345px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 69px;
+  width: 24px;
+}
+
+.ent-chat-client-mateo .hola-los-zapatos-ya-G2Rzxe {
+  background-color: transparent;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: 211px;
+}
+
+.ent-chat-client-mateo .los-puedes-cambiar-si-desea-G2Rzxe {
+  background-color: transparent;
+  height: auto;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 267px;
+  width: auto;
+}
+
+.ent-chat-client-mateo .perfecto-sera-por-un-G2Rzxe {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 343px;
+  width: 226px;
+}
+
+.ent-chat-client-mateo .listo-excelente-serv-G2Rzxe {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 527px;
+  width: 212px;
+}
+
+.ent-chat-client-mateo .muchisimas-gracias-a-G2Rzxe {
+  background-color: transparent;
+  height: auto;
+  left: 118px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 627px;
+  width: 216px;
+}
+
+.ent-chat-client-mateo .de-nada-G2Rzxe {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 698px;
+  width: auto;
+}
+
+.ent-chat-client-mateo .en-tres-das-llegan-nuevamente-G2Rzxe {
+  background-color: transparent;
+  height: auto;
+  left: 143px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 441px;
+  width: auto;
+}
+
+.ent-chat-client-mateo .rectangle-1-G2Rzxe {
+  background-color: var(--white);
+  border-radius: 30px;
+  height: 38px;
+  left: 44px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 787px;
+  width: 323px;
+}
+
+.ent-chat-client-mateo .group-G2Rzxe {
+  background-color: transparent;
+  height: 23px;
+  left: 322px;
+  position: absolute;
+  top: 795px;
+  width: 24px;
+}
+
+.ent-chat-client-mateo .group-314-G2Rzxe {
+  background-color: transparent;
+  height: 19px;
+  left: 18px;
+  position: absolute;
+  top: 796px;
+  width: 19px;
+}
+
+.ent-chat-client-mateo .ellipse-253-G2Rzxe {
+  background-color: transparent;
+  height: 31px;
+  left: 45px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 31px;
+}
+
+.ent-chat-client-mateo .status-bar-i-phone-13-13-pro-G2Rzxe {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-chat-client-mateo .indicators-30Z8OF {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-chat-client-mateo .elements-signal-gthmiB {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-chat-client-mateo .cellular-connection-xuW9vL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-chat-client-mateo .elements-connection-gthmiB {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-chat-client-mateo .wifi-YlaA1S {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-chat-client-mateo .elements-battery-gthmiB {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-chat-client-mateo .border-N8wE5p {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-chat-client-mateo .cap-N8wE5p {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-chat-client-mateo .capacity-N8wE5p {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-chat-client-mateo .mic-cam-30Z8OF {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-chat-client-mateo .elements-time-30Z8OF {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-chat-client-mateo .time-mlDiAL {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}

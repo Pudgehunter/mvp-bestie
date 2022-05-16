@@ -1,0 +1,464 @@
+/* screen - client-chat-open */
+
+.client-chat-open {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-chat-open .rectangle-710-wTgccc {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-chat-open .icon-wTgccc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 13px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 73px;
+  width: 7px;
+}
+
+.client-chat-open .rectangle-349-wTgccc {
+  background-color: var(--cielo-claro);
+  border-radius: 20px 20px 20px 0px;
+  height: 77px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 140px;
+  width: 238px;
+}
+
+.client-chat-open .rectangle-351-wTgccc {
+  background-color: var(--cielo-claro);
+  border-radius: 20px 20px 20px 0px;
+  height: 125px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 254px;
+  width: 238px;
+}
+
+.client-chat-open .rectangle-711-wTgccc {
+  background-color: var(--cielo-claro);
+  border-radius: 20px 20px 20px 0px;
+  height: 107px;
+  left: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 480px;
+  width: 238px;
+}
+
+.client-chat-open .blink-custom-jewels-wTgccc {
+  background-color: transparent;
+  height: auto;
+  left: 85px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 63px;
+  width: 163px;
+}
+
+.client-chat-open .online-wTgccc {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-outfit);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 100;
+  height: auto;
+  left: 85px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 81px;
+  width: auto;
+}
+
+.client-chat-open .x1023-pm-wTgccc {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  width: auto;
+}
+
+.client-chat-open .vector-wTgccc {
+  background-color: transparent;
+  height: 23px;
+  left: 345px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 69px;
+  width: 24px;
+}
+
+.client-chat-open .por-favor-seleccione-wTgccc {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 265px;
+  width: 226px;
+}
+
+.client-chat-open .hola-estamos-muy-fel-wTgccc {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 491px;
+  width: 226px;
+}
+
+.client-chat-open .rectangle-1-wTgccc {
+  background-color: var(--white);
+  border-radius: 30px;
+  height: 38px;
+  left: 44px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 787px;
+  width: 323px;
+}
+
+.client-chat-open .group-wTgccc {
+  background-color: transparent;
+  height: 23px;
+  left: 322px;
+  position: absolute;
+  top: 795px;
+  width: 24px;
+}
+
+.client-chat-open .group-314-wTgccc {
+  background-color: transparent;
+  height: 19px;
+  left: 18px;
+  position: absolute;
+  top: 796px;
+  width: 19px;
+}
+
+.client-chat-open .bienvenido-a-la-fami-wTgccc {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 152px;
+  width: 248px;
+}
+
+.client-chat-open .x1024-pm-wTgccc {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 384px;
+  width: auto;
+}
+
+.client-chat-open .x1026-pm-wTgccc {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 592px;
+  width: auto;
+}
+
+.client-chat-open .rectangle-352-wTgccc {
+  background-color: transparent;
+  height: 37px;
+  left: 315px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 416px;
+  width: 55px;
+}
+
+.client-chat-open .rectangle-712-wTgccc {
+  background-color: transparent;
+  height: 37px;
+  left: 146px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 609px;
+  width: 223px;
+}
+
+.client-chat-open .x1025-pm-wTgccc {
+  background-color: transparent;
+  height: auto;
+  left: 326px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 456px;
+  width: auto;
+}
+
+.client-chat-open .x1027-pm-wTgccc {
+  background-color: transparent;
+  height: auto;
+  left: 325px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 649px;
+  width: auto;
+}
+
+.client-chat-open .x1-wTgccc {
+  background-color: transparent;
+  height: auto;
+  left: 336px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 425px;
+  width: auto;
+}
+
+.client-chat-open .vale-y-cmo-es-el-proceso-wTgccc {
+  background-color: transparent;
+  height: auto;
+  left: 161px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 618px;
+  width: auto;
+}
+
+.client-chat-open .rectangle-354-wTgccc {
+  background-color: var(--cielo-claro);
+  border-radius: 20px 20px 20px 0px;
+  height: 64px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 664px;
+  width: 238px;
+}
+
+.client-chat-open .x1028-pm-wTgccc {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 739px;
+  width: auto;
+}
+
+.client-chat-open .en-seguida-te-comuni-wTgccc {
+  background-color: transparent;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 672px;
+  width: 201px;
+}
+
+.client-chat-open .status-bar-i-phone-13-13-pro-wTgccc {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-chat-open .indicators-5WvXiZ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-chat-open .elements-signal-b3KrxN {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-chat-open .cellular-connection-opT5rB {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-chat-open .elements-connection-b3KrxN {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-chat-open .wifi-gjWRgI {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-chat-open .elements-battery-b3KrxN {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-chat-open .border-AHdxzY {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-chat-open .cap-AHdxzY {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-chat-open .capacity-AHdxzY {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-chat-open .mic-cam-5WvXiZ {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-chat-open .elements-time-5WvXiZ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-chat-open .time-gvqifI {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-chat-open .rectangle-16-wTgccc {
+  background-color: transparent;
+  height: 31px;
+  left: 43px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 31px;
+}

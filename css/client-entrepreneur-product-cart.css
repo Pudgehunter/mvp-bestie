@@ -1,0 +1,565 @@
+/* screen - client-entrepreneur-product-cart */
+
+.client-entrepreneur-product-cart {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-entrepreneur-product-cart .nav-client-aB56ax {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-cart .frame-110-moMxBe {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-cart .rectangle-1462-ns4rse {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-cart .union-moMxBe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-entrepreneur-product-cart .union-bjyUid {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-entrepreneur-product-cart .union-V0TDWv {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-entrepreneur-product-cart .union-wvV3B2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-entrepreneur-product-cart .union-Db1NQ4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-entrepreneur-product-cart .status-bar-i-phone-13-13-pro-aB56ax {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-cart .indicators-m7SpxI {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-entrepreneur-product-cart .elements-signal-scXNVx {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-entrepreneur-product-cart .cellular-connection-xleENB {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-entrepreneur-product-cart .elements-connection-scXNVx {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-entrepreneur-product-cart .wifi-AWhUxy {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-entrepreneur-product-cart .elements-battery-scXNVx {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-entrepreneur-product-cart .border-W2s4EJ {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-entrepreneur-product-cart .cap-W2s4EJ {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-entrepreneur-product-cart .capacity-W2s4EJ {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-entrepreneur-product-cart .mic-cam-m7SpxI {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-entrepreneur-product-cart .elements-time-m7SpxI {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-entrepreneur-product-cart .time-QbszAF {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-entrepreneur-product-cart .tu-carrito-aB56ax {
+  background-color: transparent;
+  height: auto;
+  left: 164px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.client-entrepreneur-product-cart .subtotal-aB56ax {
+  background-color: transparent;
+  height: auto;
+  left: 49px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 398px;
+  width: auto;
+}
+
+.client-entrepreneur-product-cart .puede-aplicarse-cargos-adicionales-aB56ax {
+  background-color: transparent;
+  color: var(--osc-intermedio);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 49px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 417px;
+  width: auto;
+}
+
+.client-entrepreneur-product-cart .x180000-aB56ax {
+  background-color: transparent;
+  height: auto;
+  left: 299px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 398px;
+  width: auto;
+}
+
+.client-entrepreneur-product-cart .vector-aB56ax {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.client-entrepreneur-product-cart .anillo-curvy-aB56ax {
+  background-color: transparent;
+  height: 25px;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 105px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-cart .cop-45000-aB56ax {
+  background-color: transparent;
+  height: 25px;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 128px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-cart .x1-aB56ax {
+  background-color: transparent;
+  height: 25px;
+  left: 178px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 163px;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.client-entrepreneur-product-cart .x1-tafJhe {
+  background-color: transparent;
+  height: 25px;
+  left: 178px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 297px;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.client-entrepreneur-product-cart .conjunto-army-aB56ax {
+  background-color: transparent;
+  height: 25px;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 240px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-cart .cop-135000-aB56ax {
+  background-color: transparent;
+  height: 25px;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 263px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-cart .rectangle-1339-aB56ax {
+  background-color: transparent;
+  height: 83px;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 240px;
+  width: 83px;
+}
+
+.client-entrepreneur-product-cart .rectangle-1356-aB56ax {
+  background-color: var(--cielo-osc);
+  border-radius: 2px;
+  height: 25px;
+  left: 149px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 163px;
+  width: 25px;
+}
+
+.client-entrepreneur-product-cart .rectangle-1359-aB56ax {
+  background-color: var(--cielo-osc);
+  border-radius: 2px;
+  height: 25px;
+  left: 149px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 298px;
+  width: 25px;
+}
+
+.client-entrepreneur-product-cart .rectangle-1358-aB56ax {
+  background-color: transparent;
+  border: 1px solid var(--cielo-osc);
+  border-radius: 2px;
+  height: 25px;
+  left: 178px;
+  position: absolute;
+  top: 163px;
+  width: 74px;
+}
+
+.client-entrepreneur-product-cart .rectangle-1360-aB56ax {
+  background-color: transparent;
+  border: 1px solid var(--cielo-osc);
+  border-radius: 2px;
+  height: 25px;
+  left: 178px;
+  position: absolute;
+  top: 298px;
+  width: 74px;
+}
+
+.client-entrepreneur-product-cart .rectangle-1357-aB56ax {
+  background-color: var(--cielo-osc);
+  border-radius: 2px;
+  height: 25px;
+  left: 255px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 163px;
+  width: 25px;
+}
+
+.client-entrepreneur-product-cart .rectangle-1361-aB56ax {
+  background-color: var(--cielo-osc);
+  border-radius: 2px;
+  height: 25px;
+  left: 255px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 298px;
+  width: 25px;
+}
+
+.client-entrepreneur-product-cart .plus-aB56ax {
+  background-color: transparent;
+  height: 19px;
+  left: 258px;
+  position: absolute;
+  top: 166px;
+  width: 19px;
+}
+
+.client-entrepreneur-product-cart .plus-tafJhe {
+  background-color: transparent;
+  height: 19px;
+  left: 258px;
+  position: absolute;
+  top: 301px;
+  width: 19px;
+}
+
+.client-entrepreneur-product-cart .plus-Ry2JQw {
+  background-color: transparent;
+  height: 19px;
+  left: 151px;
+  position: absolute;
+  top: 166px;
+  width: 19px;
+}
+
+.client-entrepreneur-product-cart .plus-ljU3q3 {
+  background-color: transparent;
+  height: 19px;
+  left: 151px;
+  position: absolute;
+  top: 301px;
+  width: 19px;
+}
+
+.client-entrepreneur-product-cart .delete-aB56ax {
+  background-color: transparent;
+  height: 19px;
+  left: 324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 106px;
+  width: 19px;
+}
+
+.client-entrepreneur-product-cart .delete-tafJhe {
+  background-color: transparent;
+  height: 19px;
+  left: 324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 240px;
+  width: 19px;
+}
+
+.client-entrepreneur-product-cart .line-7-aB56ax {
+  background-color: transparent;
+  height: 1px;
+  left: 28px;
+  position: absolute;
+  top: 383px;
+  width: 334px;
+}
+
+.client-entrepreneur-product-cart .group-275-aB56ax {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 28px;
+  position: absolute;
+  top: 681px;
+  width: 334px;
+}
+
+.client-entrepreneur-product-cart .rectangle-6-n5AoZF {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 334px;
+}
+
+.client-entrepreneur-product-cart .enviar-n5AoZF {
+  background-color: transparent;
+  height: 38px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 289px;
+}
+
+.client-entrepreneur-product-cart .rectangle-1342-aB56ax {
+  background-color: transparent;
+  height: 82px;
+  left: 46px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 106px;
+  width: 83px;
+}

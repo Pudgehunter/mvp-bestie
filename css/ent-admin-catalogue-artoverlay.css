@@ -1,0 +1,466 @@
+/* screen - ent-admin-catalogue-artoverlay */
+
+.ent-admin-catalogue-artoverlay {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-admin-catalogue-artoverlay .group-272-fuS6xf {
+  background-color: transparent;
+  height: 237px;
+  left: 0px;
+  position: absolute;
+  top: 106px;
+  width: 390px;
+}
+
+.ent-admin-catalogue-artoverlay .rectangle-31-BZWxA0 {
+  background-color: transparent;
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-admin-catalogue-artoverlay .rectangle-1337-BZWxA0 {
+  background-color: var(--osc-intermedio);
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-admin-catalogue-artoverlay .nav-emprendimiento-fuS6xf {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-admin-catalogue-artoverlay .rectangle-1463-DRKBe3 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-admin-catalogue-artoverlay .union-DRKBe3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-admin-catalogue-artoverlay .union-f5MLt0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-admin-catalogue-artoverlay .union-RoxF10 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-admin-catalogue-artoverlay .union-8Df9QN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-admin-catalogue-artoverlay .somos-una-empresa-su-fuS6xf {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 240px;
+  width: 303px;
+}
+
+.ent-admin-catalogue-artoverlay .blink-custom-jewels-fuS6xf {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 210px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.ent-admin-catalogue-artoverlay .status-bar-i-phone-13-13-pro-fuS6xf {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-admin-catalogue-artoverlay .indicators-q8KoZJ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-admin-catalogue-artoverlay .elements-signal-9NUMiA {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-admin-catalogue-artoverlay .cellular-connection-78I0lA {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-admin-catalogue-artoverlay .elements-connection-9NUMiA {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-admin-catalogue-artoverlay .wifi-CuVen0 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-admin-catalogue-artoverlay .elements-battery-9NUMiA {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-admin-catalogue-artoverlay .border-dZ21U8 {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-admin-catalogue-artoverlay .cap-dZ21U8 {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-admin-catalogue-artoverlay .capacity-dZ21U8 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-admin-catalogue-artoverlay .mic-cam-q8KoZJ {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-admin-catalogue-artoverlay .elements-time-q8KoZJ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-admin-catalogue-artoverlay .time-ZDEdhZ {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-admin-catalogue-artoverlay .admin-de-catlogo-fuS6xf {
+  background-color: transparent;
+  height: auto;
+  left: 131px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.ent-admin-catalogue-artoverlay .vector-fuS6xf {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.ent-admin-catalogue-artoverlay .group-401-fuS6xf {
+  background-color: transparent;
+  height: 83px;
+  left: 28px;
+  position: absolute;
+  top: 506px;
+  width: 327px;
+}
+
+.ent-admin-catalogue-artoverlay .plus-q2xn3H {
+  background-color: transparent;
+  height: 83px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.ent-admin-catalogue-artoverlay .plus-oieMro {
+  background-color: transparent;
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 28px;
+  width: 24px;
+}
+
+.ent-admin-catalogue-artoverlay .rectangle-1338-oieMro {
+  background-color: transparent;
+  border-radius: 13px;
+  height: 83px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.ent-admin-catalogue-artoverlay .aadir-una-coleccin-nueva-q2xn3H {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-admin-catalogue-artoverlay .group-402-fuS6xf {
+  background-color: transparent;
+  height: 83px;
+  left: 28px;
+  position: absolute;
+  top: 618px;
+  width: 329px;
+}
+
+.ent-admin-catalogue-artoverlay .anillos-golden-D9qmr5 {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-admin-catalogue-artoverlay .cop-150000-D9qmr5 {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-admin-catalogue-artoverlay .rectangle-1337-D9qmr5 {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.ent-admin-catalogue-artoverlay .fondo-fuS6xf {
+  background-color: transparent;
+  height: 844px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-admin-catalogue-artoverlay .recprdatorio-agregar-otro-producto-fuS6xf {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 252px;
+  left: 29px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 296px;
+  width: 333px;
+}
+
+.ent-admin-catalogue-artoverlay .para-poder-crear-una-3B05CD {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 98px;
+  width: 288px;
+}
+
+.ent-admin-catalogue-artoverlay .tranquilo-amigo-un-paso-a-la-vez-3B05CD {
+  background-color: transparent;
+  height: 38px;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  width: 156px;
+}
+
+.ent-admin-catalogue-artoverlay .group-403-3B05CD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 171px;
+  width: 203px;
+}
+
+.ent-admin-catalogue-artoverlay .rectangle-1461-icBnU1 {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 201px;
+}
+
+.ent-admin-catalogue-artoverlay .aadir-un-artculo-nuevo-icBnU1 {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 201px;
+}

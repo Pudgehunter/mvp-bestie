@@ -1,0 +1,22 @@
+/* screen - register-client-6 */
+
+.register-client-6 {
+  background-color: var(--azul);
+  cursor: pointer;
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.register-client-6 .rectangle-1438-6bMuw0 {
+  background-color: transparent;
+  height: 540px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 120px;
+  width: 390px;
+}

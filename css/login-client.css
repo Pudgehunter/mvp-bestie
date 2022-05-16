@@ -1,0 +1,336 @@
+/* screen - login-client */
+
+.login-client {
+  background-color: var(--cielo);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.login-client .bestie-lETPit {
+  background-color: transparent;
+  height: 74px;
+  left: 84px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 119px;
+  width: 221px;
+}
+
+.login-client .no-tienes-cuenta-lETPit {
+  background-color: transparent;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 504px;
+  width: 230px;
+}
+
+.login-client .iniciar-sesin-lETPit {
+  background-color: transparent;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 211px;
+  width: 230px;
+}
+
+.login-client .register-enter-lETPit {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 114px;
+  position: absolute;
+  top: 530px;
+  width: 165px;
+}
+
+.login-client .rectangle-6-04xPu0 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.login-client .enviar-04xPu0 {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 141px;
+}
+
+.login-client .login-enter-lETPit {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 114px;
+  position: absolute;
+  top: 420px;
+  width: 165px;
+}
+
+.login-client .rectangle-6-MYx9Y8 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.login-client .enviar-MYx9Y8 {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 141px;
+}
+
+.login-client .rectangle-32-lETPit {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 52px;
+  left: 126px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 645px;
+  width: 52px;
+}
+
+.login-client .rectangle-33-lETPit {
+  background-color: #3b5998;
+  border-radius: 7px;
+  height: 52px;
+  left: 206px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 645px;
+  width: 52px;
+}
+
+.login-client .inicia-sesin-con-lETPit {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 601px;
+  width: auto;
+}
+
+.login-client .google-lETPit {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 8.7px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 701px;
+  width: auto;
+}
+
+.login-client .facebook-lETPit {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 8.7px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 215px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 701px;
+  width: auto;
+}
+
+.login-client .vector-11-lETPit {
+  background-color: transparent;
+  height: 2px;
+  left: 261px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 611px;
+  width: 109px;
+}
+
+.login-client .vector-12-lETPit {
+  background-color: transparent;
+  height: 2px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 611px;
+  width: 109px;
+}
+
+.login-client .image-10-lETPit {
+  background-color: transparent;
+  height: 42px;
+  left: 212px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 650px;
+  width: 42px;
+}
+
+.login-client .image-9-lETPit {
+  background-color: transparent;
+  height: 36px;
+  left: 134px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 654px;
+  width: 36px;
+}
+
+.login-client .olvide-mi-contrasea-lETPit {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 189px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 386px;
+  width: 169px;
+}
+
+.login-client .olvid-mi-contrasea-1WDtVF {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: -1px;
+  width: 169px;
+}
+
+.login-client .nombre-usuario-lETPit {
+  background-color: transparent;
+  height: 25px;
+  left: 83px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 278px;
+  width: 224px;
+}
+
+.login-client .line-13-KLB1nl {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 224px;
+}
+
+.login-client .nombre-de-usuario-KLB1nl {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 203px;
+}
+
+.login-client .contrasea-usuario-lETPit {
+  background-color: transparent;
+  height: 24px;
+  left: 83px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 339px;
+  width: 224px;
+}
+
+.login-client .line-14-5xMndj {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 224px;
+}
+
+.login-client .contrasea-5xMndj {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: -1px;
+  width: 134px;
+}
+
+.login-client .contrasea-5xMndj::placeholder {
+  color: #ffffff99;
+}

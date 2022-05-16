@@ -1,0 +1,457 @@
+/* screen - ent-add-article */
+
+.ent-add-article {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-add-article .enlace-opcional-3clkyu {
+  background-color: transparent;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 578px;
+  width: 279px;
+}
+
+.ent-add-article .line-5-3clkyu {
+  background-color: transparent;
+  height: 1px;
+  left: 54px;
+  position: absolute;
+  top: 600px;
+  width: 294px;
+}
+
+.ent-add-article .cdigo-del-artculo-opcional-3clkyu {
+  background-color: transparent;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 626px;
+  width: 279px;
+}
+
+.ent-add-article .line-6-3clkyu {
+  background-color: transparent;
+  height: 1px;
+  left: 54px;
+  position: absolute;
+  top: 648px;
+  width: 294px;
+}
+
+.ent-add-article .status-bar-i-phone-13-13-pro-3clkyu {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-add-article .indicators-SLkPa2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-add-article .elements-signal-92ez5b {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-add-article .cellular-connection-kR7gXF {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-add-article .elements-connection-92ez5b {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-add-article .wifi-AJVqRS {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-add-article .elements-battery-92ez5b {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-add-article .border-UkQkyO {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-add-article .cap-UkQkyO {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-add-article .capacity-UkQkyO {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-add-article .mic-cam-SLkPa2 {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-add-article .elements-time-SLkPa2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-add-article .time-jY9KEs {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-add-article .admin-de-catlogo-3clkyu {
+  background-color: transparent;
+  height: auto;
+  left: 131px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.ent-add-article .vector-3clkyu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.ent-add-article .nav-emprendimiento-3clkyu {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-add-article .rectangle-1463-jPHfxN {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-add-article .union-jPHfxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-add-article .union-kcsL08 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-add-article .union-NoTW6d {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-add-article .union-du84gB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-add-article .group-230-3clkyu {
+  background-color: transparent;
+  height: 38px;
+  left: 113px;
+  position: absolute;
+  top: 687px;
+  width: 163px;
+}
+
+.ent-add-article .rectangle-6-KcK54E {
+  background-color: var(--cielo-claro);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.ent-add-article .enviar-KcK54E {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}
+
+.ent-add-article .rectangle-1337-3clkyu {
+  background-color: var(--cielo-claro);
+  cursor: pointer;
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 106px;
+  width: 390px;
+}
+
+.ent-add-article .camera-3clkyu {
+  background-color: transparent;
+  height: 24px;
+  left: 183px;
+  position: absolute;
+  top: 200px;
+  width: 24px;
+}
+
+.ent-add-article .rectangle-354-9PxTuy {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.ent-add-article .ellipse-57-9PxTuy {
+  background-color: transparent;
+  border-radius: 5.06px;
+  height: 10px;
+  left: 7px;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
+
+.ent-add-article .aadir-imgenes-3clkyu {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 19.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 233px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.ent-add-article .crear-producto-3clkyu {
+  background-color: transparent;
+  height: 22px;
+  left: 55px;
+  position: absolute;
+  top: 386px;
+  width: 294px;
+}
+
+.ent-add-article .anillos-golden-xPxj2M {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 279px;
+}
+
+.ent-add-article .line-3-xPxj2M {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 22px;
+  width: 294px;
+}
+
+.ent-add-article .crear-producto-P1LonU {
+  background-color: transparent;
+  height: 22px;
+  left: 55px;
+  position: absolute;
+  top: 434px;
+  width: 294px;
+}
+
+.ent-add-article .x150000-9biFH0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 279px;
+}
+
+.ent-add-article .line-5-9biFH0 {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 22px;
+  width: 294px;
+}
+
+.ent-add-article .descripcin-3clkyu {
+  background-color: transparent;
+  height: 95px;
+  left: 55px;
+  position: absolute;
+  top: 476px;
+  width: 294px;
+}
+
+.ent-add-article .rectangle-1312-UY2U4X {
+  background-color: var(--cararra);
+  border-radius: 7.5px;
+  height: 95px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.ent-add-article .descripcin-UY2U4X {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 257px;
+}

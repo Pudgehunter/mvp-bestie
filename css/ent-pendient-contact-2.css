@@ -1,0 +1,850 @@
+/* screen - ent-pendient-contact-2 */
+
+.ent-pendient-contact-2 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-pendient-contact-2 .empleados-6L36C0::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.ent-pendient-contact-2 .empleados-6L36C0 {
+  background-color: transparent;
+  height: 569px;
+  left: 30px;
+  mix-blend-mode: normal;
+  overflow-y: scroll;
+  position: absolute;
+  top: 194px;
+  width: 331px;
+}
+
+.ent-pendient-contact-2 .group-394-594rqw {
+  background-color: transparent;
+  height: 50px;
+  left: -0px;
+  position: absolute;
+  top: 8px;
+  width: 240px;
+}
+
+.ent-pendient-contact-2 .mask-group-fSK5MH {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 50px;
+}
+
+.ent-pendient-contact-2 .ana-paredes-fSK5MH {
+  background-color: transparent;
+  height: 25px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 163px;
+}
+
+.ent-pendient-contact-2 .le-debes-45000-fSK5MH {
+  background-color: transparent;
+  height: 22px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  white-space: nowrap;
+  width: 163px;
+}
+
+.ent-pendient-contact-2 .group-2149-594rqw {
+  background-color: transparent;
+  height: 50px;
+  left: -0px;
+  position: absolute;
+  top: 182px;
+  width: 325px;
+}
+
+.ent-pendient-contact-2 .daniel-patio-louqe9 {
+  background-color: transparent;
+  height: 25px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-pendient-contact-2 .le-debes-30000-louqe9 {
+  background-color: transparent;
+  height: 22px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-pendient-contact-2 .mask-group-louqe9 {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 50px;
+}
+
+.ent-pendient-contact-2 .group-347-louqe9 {
+  background-color: transparent;
+  height: 24px;
+  left: 316px;
+  position: absolute;
+  top: 13px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .ellipse-24-xzpUt5 {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .ellipse-25-xzpUt5 {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .ellipse-26-xzpUt5 {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 20px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .group-2148-594rqw {
+  background-color: transparent;
+  height: 50px;
+  left: -0px;
+  position: absolute;
+  top: 95px;
+  width: 325px;
+}
+
+.ent-pendient-contact-2 .camila-bernal-AncZ6g {
+  background-color: transparent;
+  height: 25px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-pendient-contact-2 .le-debes-45000-AncZ6g {
+  background-color: transparent;
+  height: 22px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-pendient-contact-2 .mask-group-AncZ6g {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 50px;
+}
+
+.ent-pendient-contact-2 .group-395-AncZ6g {
+  background-color: transparent;
+  height: 24px;
+  left: 316px;
+  position: absolute;
+  top: 13px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .ellipse-24-fMjWxQ {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .ellipse-25-fMjWxQ {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .ellipse-26-fMjWxQ {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 20px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .group-2150-594rqw {
+  background-color: transparent;
+  height: 50px;
+  left: -0px;
+  position: absolute;
+  top: 268px;
+  width: 325px;
+}
+
+.ent-pendient-contact-2 .mask-group-8psN45 {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 50px;
+}
+
+.ent-pendient-contact-2 .eliza-rodriguez-8psN45 {
+  background-color: transparent;
+  height: 25px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-pendient-contact-2 .le-debes-65000-8psN45 {
+  background-color: transparent;
+  height: 22px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-pendient-contact-2 .vector-8psN45 {
+  background-color: transparent;
+  height: 24px;
+  left: 316px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .group-2153-594rqw {
+  background-color: transparent;
+  height: 50px;
+  left: -0px;
+  position: absolute;
+  top: 355px;
+  width: 325px;
+}
+
+.ent-pendient-contact-2 .mask-group-5feEHY {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 50px;
+}
+
+.ent-pendient-contact-2 .emiliano-castro-5feEHY {
+  background-color: transparent;
+  height: 25px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-pendient-contact-2 .le-debes-45000-5feEHY {
+  background-color: transparent;
+  height: 22px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-pendient-contact-2 .vector-5feEHY {
+  background-color: transparent;
+  height: 24px;
+  left: 316px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .group-2151-594rqw {
+  background-color: transparent;
+  height: 50px;
+  left: -0px;
+  position: absolute;
+  top: 442px;
+  width: 325px;
+}
+
+.ent-pendient-contact-2 .mask-group-Bw0QLH {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 50px;
+}
+
+.ent-pendient-contact-2 .manuela-naranjo-Bw0QLH {
+  background-color: transparent;
+  height: 25px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-pendient-contact-2 .le-debes-45000-Bw0QLH {
+  background-color: transparent;
+  height: 22px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-pendient-contact-2 .vector-Bw0QLH {
+  background-color: transparent;
+  height: 24px;
+  left: 316px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .group-2152-594rqw {
+  background-color: transparent;
+  height: 50px;
+  left: -0px;
+  position: absolute;
+  top: 528px;
+  width: 325px;
+}
+
+.ent-pendient-contact-2 .mask-group-x41sOZ {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 50px;
+}
+
+.ent-pendient-contact-2 .oscar-muoz-x41sOZ {
+  background-color: transparent;
+  height: 25px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-pendient-contact-2 .le-debes-45000-x41sOZ {
+  background-color: transparent;
+  height: 22px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-pendient-contact-2 .vector-x41sOZ {
+  background-color: transparent;
+  height: 24px;
+  left: 316px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .component-53-594rqw {
+  background-color: transparent;
+  height: 90px;
+  left: 134px;
+  position: absolute;
+  top: 21px;
+  width: 187px;
+}
+
+.ent-pendient-contact-2 .group-348-B2VcP2 {
+  background-color: transparent;
+  height: 24px;
+  left: 182px;
+  position: relative;
+  top: 0px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .ellipse-24-aduV6b {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .ellipse-25-aduV6b {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .ellipse-26-aduV6b {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 20px;
+  width: 4px;
+}
+
+.ent-pendient-contact-2 .check-594rqw {
+  background-color: transparent;
+  height: 18px;
+  left: 32px;
+  position: absolute;
+  top: 41px;
+  width: 18px;
+}
+
+.ent-pendient-contact-2 .ellipse-103-AkGnyy {
+  background-color: var(--cielo-osc);
+  border-radius: 9px;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.ent-pendient-contact-2 .check-AkGnyy {
+  background-color: transparent;
+  height: 8px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 11px;
+}
+
+.ent-pendient-contact-2 .rectangle-1455-6L36C0 {
+  background-color: var(--white);
+  height: 121px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 72px;
+  width: 390px;
+}
+
+.ent-pendient-contact-2 .pagos-pendientes-6L36C0 {
+  background-color: transparent;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.ent-pendient-contact-2 .vector-6L36C0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.ent-pendient-contact-2 .rectangle-8-6L36C0 {
+  background-color: transparent;
+  height: 72px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-pendient-contact-2 .status-bar-i-phone-13-13-pro-6L36C0 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-pendient-contact-2 .indicators-nUZpLX {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-pendient-contact-2 .elements-signal-VfxSYY {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-pendient-contact-2 .cellular-connection-Msql1J {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-pendient-contact-2 .elements-connection-VfxSYY {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-pendient-contact-2 .wifi-Jj574L {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-pendient-contact-2 .elements-battery-VfxSYY {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-pendient-contact-2 .border-8mCyeN {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-pendient-contact-2 .cap-8mCyeN {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-pendient-contact-2 .capacity-8mCyeN {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-pendient-contact-2 .mic-cam-nUZpLX {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-pendient-contact-2 .elements-time-nUZpLX {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-pendient-contact-2 .time-zLIXIi {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-pendient-contact-2 .tus-empleados-son-6L36C0 {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 331px;
+}
+
+.ent-pendient-contact-2 .nav-emprendimiento-6L36C0 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-pendient-contact-2 .rectangle-1463-mGg60C {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-pendient-contact-2 .union-mGg60C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-pendient-contact-2 .union-Y26SIG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-pendient-contact-2 .union-Ceh0z8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-pendient-contact-2 .union-wD5kcH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-pendient-contact-2 .efecto-6L36C0 {
+  background-color: transparent;
+  height: 242px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 526px;
+  width: 390px;
+}
+
+.ent-pendient-contact-2 .group-2154-6L36C0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 199px;
+  position: absolute;
+  top: 703px;
+  width: 165px;
+}
+
+.ent-pendient-contact-2 .rectangle-6-pUMHCU {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.ent-pendient-contact-2 .enviar-pUMHCU {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 141px;
+}

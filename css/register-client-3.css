@@ -1,0 +1,237 @@
+/* screen - register-client-3 */
+
+.register-client-3 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.register-client-3 .vector-1-xQRNx3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 24px;
+  position: absolute;
+  top: 48px;
+  width: 10px;
+}
+
+.register-client-3 .rectangle-34-xQRNx3 {
+  background-color: transparent;
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  position: absolute;
+  top: 50px;
+  width: 298px;
+}
+
+.register-client-3 .rectangle-35-xQRNx3 {
+  background-color: var(--cielo);
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 164px;
+}
+
+.register-client-3 .escribe-tu-nombre-de-usuario-xQRNx3 {
+  background-color: transparent;
+  height: auto;
+  left: 81px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  width: auto;
+}
+
+.register-client-3 .group-232-xQRNx3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 614px;
+  width: 259px;
+}
+
+.register-client-3 .rectangle-6-rygxVv {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.register-client-3 .enviar-rygxVv {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.register-client-3 .queremos-que-tengas-xQRNx3 {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 121px;
+  width: 325px;
+}
+
+.register-client-3 .span0-xPpsss {
+}
+
+.register-client-3 .span1-xPpsss {
+  color: var(--star-dust);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.register-client-3 .span2-xPpsss {
+}
+
+.register-client-3 .datos-registro-cliente-xQRNx3 {
+  background-color: transparent;
+  height: 23px;
+  left: 52px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 238px;
+  width: 224px;
+}
+
+.register-client-3 .line-13-TLSjxH {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 23px;
+  width: 224px;
+}
+
+.register-client-3 .nombre-de-usuario-TLSjxH {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 203px;
+}
+
+.register-client-3 .datos-registro-cliente-J7uNd9 {
+  background-color: transparent;
+  height: 23px;
+  left: 52px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 293px;
+  width: 224px;
+}
+
+.register-client-3 .line-13-2SsOFI {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 23px;
+  width: 224px;
+}
+
+.register-client-3 .contrasea-2SsOFI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 203px;
+}
+
+.register-client-3 .datos-registro-cliente-RM21C7 {
+  background-color: transparent;
+  height: 23px;
+  left: 52px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 348px;
+  width: 224px;
+}
+
+.register-client-3 .line-13-2iCve2 {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 23px;
+  width: 224px;
+}
+
+.register-client-3 .verificar-contrasea-2iCve2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 203px;
+}
+
+.register-client-3 .rectangle-1312-xQRNx3 {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 95px;
+  left: 52px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 403px;
+  width: 287px;
+}
+
+.register-client-3 .cuntanos-sobre-ti-xQRNx3 {
+  background-color: transparent;
+  height: auto;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 408px;
+  width: 256px;
+}

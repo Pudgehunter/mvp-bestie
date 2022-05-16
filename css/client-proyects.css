@@ -1,0 +1,494 @@
+/* screen - client-proyects */
+
+.client-proyects {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-proyects .status-bar-i-phone-13-13-pro-K68K2x {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-proyects .indicators-eTuMAB {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-proyects .elements-signal-swICJL {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-proyects .cellular-connection-XlVst7 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-proyects .elements-connection-swICJL {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-proyects .wifi-j3fqCg {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-proyects .elements-battery-swICJL {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-proyects .border-tNM4II {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-proyects .cap-tNM4II {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-proyects .capacity-tNM4II {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-proyects .mic-cam-eTuMAB {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-proyects .elements-time-eTuMAB {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-proyects .time-dtCC7F {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-proyects .emprendimientos-K68K2x {
+  background-color: transparent;
+  height: auto;
+  left: 135px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: auto;
+}
+
+.client-proyects .span0-pEFqzi {
+}
+
+.client-proyects .span1-pEFqzi {
+}
+
+.client-proyects .vector-7-K68K2x {
+  background-color: transparent;
+  height: 1px;
+  left: 24px;
+  position: absolute;
+  top: 92px;
+  width: 390px;
+}
+
+.client-proyects .group-2166-K68K2x {
+  background-color: transparent;
+  height: 196px;
+  left: 20px;
+  position: absolute;
+  top: 439px;
+  width: 350px;
+}
+
+.client-proyects .image-27-geGoVy {
+  background-color: transparent;
+  height: 196px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 344px;
+}
+
+.client-proyects .rectangle-1383-geGoVy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 196px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 344px;
+}
+
+.client-proyects .x20-completado-geGoVy {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 134px;
+  width: auto;
+}
+
+.client-proyects .rectangle-1384-geGoVy {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 5px;
+  left: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 154px;
+  width: 306px;
+}
+
+.client-proyects .rectangle-1385-geGoVy {
+  background-color: var(--rosa-claro);
+  border-radius: 4px;
+  height: 5px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 154px;
+  width: 42px;
+}
+
+.client-proyects .cohii-geGoVy {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 164px;
+  white-space: nowrap;
+  width: 311px;
+}
+
+.client-proyects .arriendo-este-mes-geGoVy {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 112px;
+  width: auto;
+}
+
+.client-proyects .group-317-geGoVy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: 234px;
+  position: absolute;
+  top: 12px;
+  width: 94px;
+}
+
+.client-proyects .rectangle-6-e4gCl4 {
+  background-color: var(--cielo);
+  border-radius: 4.16px;
+  height: 23px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 94px;
+}
+
+.client-proyects .enviar-e4gCl4 {
+  background-color: transparent;
+  height: 23px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 81px;
+}
+
+.client-proyects .descubre-proyectos-d-K68K2x {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 379px;
+  width: 327px;
+}
+
+.client-proyects .group-2173-K68K2x {
+  background-color: transparent;
+  height: 196px;
+  left: 19px;
+  position: absolute;
+  top: 149px;
+  width: 390px;
+}
+
+.client-proyects .image-25-LHY8Q3 {
+  background-color: transparent;
+  height: 196px;
+  left: 1px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 344px;
+}
+
+.client-proyects .rectangle-1382-LHY8Q3 {
+  background-color: transparent;
+  height: 196px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 344px;
+}
+
+.client-proyects .stand-en-va-para-emprendedores-LHY8Q3 {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 112px;
+  width: auto;
+}
+
+.client-proyects .x50-completado-LHY8Q3 {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 134px;
+  width: auto;
+}
+
+.client-proyects .rectangle-1377-LHY8Q3 {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 5px;
+  left: 23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 154px;
+  width: 306px;
+}
+
+.client-proyects .rectangle-1378-LHY8Q3 {
+  background-color: var(--rosa-claro);
+  border-radius: 4px;
+  height: 5px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 154px;
+  width: 149px;
+}
+
+.client-proyects .ver-lnea-del-tiempo-LHY8Q3 {
+  background-color: transparent;
+  height: auto;
+  left: 209px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 165px;
+  width: auto;
+}
+
+.client-proyects .caotico-LHY8Q3 {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 164px;
+  white-space: nowrap;
+  width: 364px;
+}
+
+.client-proyects .proyectos-activos-K68K2x {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 110px;
+  width: auto;
+}
+
+.client-proyects .nav-client-K68K2x {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-proyects .rectangle-1463-t3RgOp {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-proyects .union-t3RgOp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-proyects .union-VxhnjQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-proyects .union-mxfqNd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-proyects .union-BkYyUF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

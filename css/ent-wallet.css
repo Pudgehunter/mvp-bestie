@@ -1,0 +1,785 @@
+/* screen - ent-wallet */
+
+.ent-wallet {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-wallet .rectangle-1325-f2MEw1 {
+  background-color: var(--amarillo);
+  border-radius: 40px;
+  box-shadow: 0px 9px 15px #a7b2bb6e;
+  height: 327px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -64px;
+  width: 390px;
+}
+
+.ent-wallet .x2000000-f2MEw1 {
+  background-color: transparent;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 156px;
+  width: auto;
+}
+
+.ent-wallet .rectangle-8-f2MEw1 {
+  background-color: transparent;
+  height: 72px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-wallet .status-bar-i-phone-13-13-pro-f2MEw1 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-wallet .indicators-eWBsUX {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-wallet .elements-signal-N5xRx8 {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-wallet .cellular-connection-7Gkao3 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-wallet .elements-connection-N5xRx8 {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-wallet .wifi-lesBgX {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-wallet .elements-battery-N5xRx8 {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-wallet .border-bpx5CN {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-wallet .cap-bpx5CN {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-wallet .capacity-bpx5CN {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-wallet .mic-cam-eWBsUX {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-wallet .elements-time-eWBsUX {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-wallet .time-Ue3uGN {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-wallet .billetera-f2MEw1 {
+  background-color: transparent;
+  height: auto;
+  left: 157px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 96px;
+  width: auto;
+}
+
+.ent-wallet .saldo-actual-f2MEw1 {
+  background-color: transparent;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  width: auto;
+}
+
+.ent-wallet .eres-nuestro-iconic-f2MEw1 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  width: auto;
+}
+
+.ent-wallet .span0-QxaVbN {
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ent-wallet .span1-QxaVbN {
+  font-style: normal;
+}
+
+.ent-wallet .frame-114-f2MEw1::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.ent-wallet .frame-114-f2MEw1 {
+  background-color: transparent;
+  height: 490px;
+  left: 0px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 279px;
+  width: 390px;
+}
+
+.ent-wallet .group-2114-Rn5xGN {
+  background-color: transparent;
+  height: 102px;
+  left: 39px;
+  position: absolute;
+  top: 359px;
+  width: 82px;
+}
+
+.ent-wallet .rectangle-1466-2bbye8 {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.ent-wallet .transferencia-2bbye8 {
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 85px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.ent-wallet .group-2bbye8 {
+  background-color: transparent;
+  height: 38px;
+  left: 26px;
+  position: absolute;
+  top: 19px;
+  width: 34px;
+}
+
+.ent-wallet .group-2113-Rn5xGN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 102px;
+  left: 155px;
+  position: absolute;
+  top: 359px;
+  width: 82px;
+}
+
+.ent-wallet .rectangle-1468-NORbxr {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.ent-wallet .ahorrar-NORbxr {
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 85px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.ent-wallet .group-341-NORbxr {
+  background-color: transparent;
+  height: 40px;
+  left: 19px;
+  position: absolute;
+  top: 18px;
+  width: 41px;
+}
+
+.ent-wallet .ellipse-93-vvUahV {
+  background-color: transparent;
+  border-radius: 11.26px;
+  height: 23px;
+  left: 13px;
+  position: absolute;
+  top: 0px;
+  width: 23px;
+}
+
+.ent-wallet .rectangle-1406-vvUahV {
+  background-color: transparent;
+  border-radius: 1.15px;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  top: 24px;
+  width: 8px;
+}
+
+.ent-wallet .vector-133-vvUahV {
+  background-color: transparent;
+  height: 15px;
+  left: 6px;
+  position: absolute;
+  top: 24px;
+  width: 36px;
+}
+
+.ent-wallet .union-vvUahV {
+  background-color: transparent;
+  height: 15px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.ent-wallet .group-2112-Rn5xGN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 120px;
+  left: 268px;
+  position: absolute;
+  top: 360px;
+  width: 89px;
+}
+
+.ent-wallet .rectangle-1469-P1DWqo {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.ent-wallet .pagos-pendientes-P1DWqo {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 87px;
+  width: 87px;
+}
+
+.ent-wallet .alert-info-P1DWqo {
+  background-color: transparent;
+  height: 34px;
+  left: 26px;
+  position: absolute;
+  top: 22px;
+  width: 34px;
+}
+
+.ent-wallet .ellipse-26-rkgK80 {
+  background-color: transparent;
+  border: 1.8px solid var(--cielo);
+  border-radius: 16.48px;
+  height: 33px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 33px;
+}
+
+.ent-wallet .vector-11-rkgK80 {
+  background-color: transparent;
+  height: 9px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+
+.ent-wallet .vector-12-rkgK80 {
+  background-color: transparent;
+  height: 3px;
+  left: 16px;
+  position: absolute;
+  top: 21px;
+  width: 2px;
+}
+
+.ent-wallet .group-2115-Rn5xGN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 123px;
+  left: 155px;
+  position: absolute;
+  top: 480px;
+  width: 82px;
+}
+
+.ent-wallet .estadsticas-V2Kjsg {
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  width: 68px;
+}
+
+.ent-wallet .rectangle-1471-V2Kjsg {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.ent-wallet .chart-bar-V2Kjsg {
+  background-color: transparent;
+  height: 1px;
+  left: 40px;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.ent-wallet .group-2117-Rn5xGN {
+  background-color: transparent;
+  height: 123px;
+  left: 39px;
+  position: absolute;
+  top: 480px;
+  width: 82px;
+}
+
+.ent-wallet .rectangle-1470-9jRPNL {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.ent-wallet .donaciones-9jRPNL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  width: 80px;
+}
+
+.ent-wallet .group-342-9jRPNL {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 43px;
+  transform: rotate(-180deg);
+  width: 41px;
+}
+
+.ent-wallet .rectangle-1406-mygIiC {
+  background-color: transparent;
+  border: 1.8px solid var(--cielo);
+  border-radius: 1.69px;
+  height: 16px;
+  left: 146px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(-360deg);
+  width: 8px;
+}
+
+.ent-wallet .vector-133-mygIiC {
+  background-color: transparent;
+  height: 1px;
+  left: 130px;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-180deg);
+  width: 1px;
+}
+
+.ent-wallet .heart-9jRPNL {
+  background-color: transparent;
+  height: 1px;
+  left: 42px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.ent-wallet .group-2116-Rn5xGN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 123px;
+  left: 271px;
+  position: absolute;
+  top: 480px;
+  width: 82px;
+}
+
+.ent-wallet .crdito-skRmE8 {
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  width: 68px;
+}
+
+.ent-wallet .rectangle-1472-skRmE8 {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.ent-wallet .tarjeta-skRmE8 {
+  background-color: transparent;
+  height: 28px;
+  left: 21px;
+  position: absolute;
+  top: 29px;
+  width: 39px;
+}
+
+.ent-wallet .rectangle-1476-xCra0B {
+  background-color: transparent;
+  border-radius: 3px;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 39px;
+}
+
+.ent-wallet .rectangle-1477-xCra0B {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 8px;
+  left: 24px;
+  position: absolute;
+  top: 17px;
+  width: 11px;
+}
+
+.ent-wallet .vector-142-xCra0B {
+  background-color: transparent;
+  height: 1px;
+  left: 19px;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.ent-wallet .vector-143-xCra0B {
+  background-color: transparent;
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.ent-wallet .vector-144-xCra0B {
+  background-color: transparent;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.ent-wallet .group-362-Rn5xGN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 23px;
+  position: absolute;
+  top: 266px;
+  width: 345px;
+}
+
+.ent-wallet .rectangle-6-ZrPSy1 {
+  background-color: var(--cielo);
+  border-radius: 0px 0px 7px 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 345px;
+}
+
+.ent-wallet .enviar-ZrPSy1 {
+  background-color: transparent;
+  height: 38px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 298px;
+}
+
+.ent-wallet .rectangle-1430-Rn5xGN {
+  background-color: var(--white);
+  border-radius: 7px 7px 0px 0px;
+  height: 250px;
+  left: 23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 345px;
+}
+
+.ent-wallet .mask-group-Rn5xGN {
+  background-color: transparent;
+  height: 217px;
+  left: 23px;
+  position: absolute;
+  top: 45px;
+  width: 345px;
+}
+
+.ent-wallet .movimientos-Rn5xGN {
+  background-color: transparent;
+  height: 24px;
+  left: 133px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.ent-wallet .nav-emprendimiento-f2MEw1 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-wallet .rectangle-1463-FGgHDF {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-wallet .union-FGgHDF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-wallet .union-4k9KZG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-wallet .union-wB4kP6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-wallet .union-K7isOC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

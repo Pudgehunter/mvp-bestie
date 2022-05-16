@@ -1,0 +1,438 @@
+/* screen - register-client-4 */
+
+.register-client-4 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.register-client-4 .vector-1-tCGMtn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 24px;
+  position: absolute;
+  top: 48px;
+  width: 10px;
+}
+
+.register-client-4 .rectangle-34-tCGMtn {
+  background-color: transparent;
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  position: absolute;
+  top: 50px;
+  width: 298px;
+}
+
+.register-client-4 .rectangle-35-tCGMtn {
+  background-color: var(--cielo);
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 290px;
+}
+
+.register-client-4 .ya-casi-terminamos-tCGMtn {
+  background-color: transparent;
+  height: auto;
+  left: 119px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  width: auto;
+}
+
+.register-client-4 .group-232-tCGMtn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 610px;
+  width: 259px;
+}
+
+.register-client-4 .rectangle-6-Hvme7R {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.register-client-4 .enviar-Hvme7R {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.register-client-4 .falta-poco-queremos-tCGMtn {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 131px;
+  width: 328px;
+}
+
+.register-client-4 .etiquetas-tCGMtn {
+  background-color: transparent;
+  height: 38px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 281px;
+  width: 119px;
+}
+
+.register-client-4 .rectangle-36-QgPOpx {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 119px;
+}
+
+.register-client-4 .ecolgico-QgPOpx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 119px;
+}
+
+.register-client-4 .etiquetas-1ncwQM {
+  background-color: transparent;
+  height: 38px;
+  left: 153px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 281px;
+  width: 94px;
+}
+
+.register-client-4 .rectangle-37-MuUS1p {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 94px;
+}
+
+.register-client-4 .ropa-MuUS1p {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 94px;
+}
+
+.register-client-4 .etiquetas-xUZ1cL {
+  background-color: transparent;
+  height: 38px;
+  left: 254px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 281px;
+  width: 105px;
+}
+
+.register-client-4 .rectangle-39-X9PSA6 {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 105px;
+}
+
+.register-client-4 .bebidas-X9PSA6 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 105px;
+}
+
+.register-client-4 .etiquetas-VafBzv {
+  background-color: transparent;
+  height: 38px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 335px;
+  width: 96px;
+}
+
+.register-client-4 .rectangle-39-FEmSMT {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.register-client-4 .comida-FEmSMT {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 96px;
+}
+
+.register-client-4 .rectangle-30-tCGMtn {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 44px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 214px;
+  width: 336px;
+}
+
+.register-client-4 .escribe-etiquetas-tCGMtn {
+  background-color: transparent;
+  color: #00000099;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 227px;
+  width: 323px;
+}
+
+.register-client-4 .etiquetas-NJFpv5 {
+  background-color: transparent;
+  height: 38px;
+  left: 144px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 335px;
+  width: 97px;
+}
+
+.register-client-4 .rectangle-39-pQqAMF {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}
+
+.register-client-4 .msica-pQqAMF {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 97px;
+}
+
+.register-client-4 .etiquetas-ODphnE {
+  background-color: transparent;
+  height: 38px;
+  left: 262px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 335px;
+  width: 97px;
+}
+
+.register-client-4 .rectangle-39-Ce4J3Q {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}
+
+.register-client-4 .joyera-Ce4J3Q {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 97px;
+}
+
+.register-client-4 .etiquetas-fmTIAk {
+  background-color: transparent;
+  height: 38px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 391px;
+  width: 97px;
+}
+
+.register-client-4 .rectangle-39-qtvZ7O {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}
+
+.register-client-4 .bolsos-qtvZ7O {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 97px;
+}
+
+.register-client-4 .etiquetas-xgzdhM {
+  background-color: transparent;
+  height: 38px;
+  left: 262px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 390px;
+  width: 97px;
+}
+
+.register-client-4 .rectangle-39-fjPKs1 {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}
+
+.register-client-4 .detalles-fjPKs1 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 97px;
+}
+
+.register-client-4 .etiquetas-2fLanE {
+  background-color: transparent;
+  height: 38px;
+  left: 145px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 390px;
+  width: 97px;
+}
+
+.register-client-4 .rectangle-39-3fv6yw {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}
+
+.register-client-4 .zapatos-3fv6yw {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 97px;
+}

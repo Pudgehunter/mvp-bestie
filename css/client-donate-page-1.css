@@ -1,0 +1,688 @@
+/* screen - client-donate-page-1 */
+
+.client-donate-page-1 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-donate-page-1 .union-RfInmV {
+  background-color: transparent;
+  height: 70px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 619px;
+  width: 321px;
+}
+
+.client-donate-page-1 .vector-RfInmV {
+  background-color: transparent;
+  height: 20px;
+  left: 19px;
+  position: absolute;
+  top: 46px;
+  width: 12px;
+}
+
+.client-donate-page-1 .quiero-donar-RfInmV {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  width: auto;
+}
+
+.client-donate-page-1 .rectangle-1331-RfInmV {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 32px;
+  position: absolute;
+  top: 342px;
+  width: 60px;
+}
+
+.client-donate-page-1 .elige-el-regalo-RfInmV {
+  background-color: transparent;
+  height: auto;
+  left: 144px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  width: auto;
+}
+
+.client-donate-page-1 .x500-RfInmV {
+  background-color: transparent;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 404px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.client-donate-page-1 .x12000-RfInmV {
+  background-color: transparent;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 404px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.client-donate-page-1 .ellipse-82-RfInmV {
+  background-color: var(--amarillo);
+  border-radius: 11px;
+  height: 22px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 385px;
+  width: 22px;
+}
+
+.client-donate-page-1 .x2-RfInmV {
+  background-color: transparent;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: auto;
+}
+
+.client-donate-page-1 .rectangle-1332-RfInmV {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 109px;
+  position: absolute;
+  top: 342px;
+  width: 60px;
+}
+
+.client-donate-page-1 .ellipse-83-RfInmV {
+  background-color: var(--pink);
+  border-radius: 11px;
+  height: 22px;
+  left: 158px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 385px;
+  width: 22px;
+}
+
+.client-donate-page-1 .x1-RfInmV {
+  background-color: transparent;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: auto;
+}
+
+.client-donate-page-1 .si-no-tienes-el-regalo-que-ests-buscando-RfInmV {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 451px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.client-donate-page-1 .adquiere-aqu-ms-stickers-RfInmV {
+  background-color: transparent;
+  color: var(--star-dust);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 468px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.client-donate-page-1 .blinkcustom-RfInmV {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 555px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.client-donate-page-1 .x15000-RfInmV {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 594px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.client-donate-page-1 .confirma-tu-envo-RfInmV {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 509px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.client-donate-page-1 .cuenta-RfInmV {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 538px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.client-donate-page-1 .valor-de-tu-regalo-RfInmV {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 577px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.client-donate-page-1 .deja-tu-mensaje-RfInmV {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 624px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.client-donate-page-1 .deja-tu-mensaje-RfInmV::placeholder {
+  color: #4e4b6699;
+}
+
+.client-donate-page-1 .rectangle-1334-RfInmV {
+  background-color: var(--rosa-claro);
+  border-radius: 18px;
+  height: 4px;
+  left: 196px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 519px;
+  width: 153px;
+}
+
+.client-donate-page-1 .group-231-RfInmV {
+  background-color: transparent;
+  height: 38px;
+  left: 109px;
+  position: absolute;
+  top: 704px;
+  width: 163px;
+}
+
+.client-donate-page-1 .rectangle-6-SwJIh5 {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.client-donate-page-1 .enviar-SwJIh5 {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}
+
+.client-donate-page-1 .donar-img-RfInmV {
+  background-color: transparent;
+  height: 186px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 84px;
+  width: 390px;
+}
+
+.client-donate-page-1 .pexels-photo-by-antoni-shkraba-sxcd7J {
+  background-color: transparent;
+  height: 186px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-donate-page-1 .rectangle-1352-sxcd7J {
+  background-color: transparent;
+  height: 186px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-donate-page-1 .image00007-RfInmV {
+  background-color: transparent;
+  height: 64px;
+  left: 116px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 340px;
+  width: 42px;
+}
+
+.client-donate-page-1 .image00003-RfInmV {
+  background-color: transparent;
+  height: 45px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 350px;
+  width: 47px;
+}
+
+.client-donate-page-1 .nav-client-RfInmV {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 770px;
+  width: 390px;
+}
+
+.client-donate-page-1 .rectangle-1463-AIFdrH {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-donate-page-1 .union-AIFdrH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-donate-page-1 .union-zTFWQ2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-donate-page-1 .union-iQMhxR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-donate-page-1 .union-JZEVL8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-donate-page-1 .status-bar-i-phone-13-13-pro-RfInmV {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-donate-page-1 .indicators-FGD1w1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-donate-page-1 .elements-signal-mL7od1 {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-donate-page-1 .cellular-connection-sK1Foc {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-donate-page-1 .elements-connection-mL7od1 {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-donate-page-1 .wifi-jbWsDB {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-donate-page-1 .elements-battery-mL7od1 {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-donate-page-1 .border-Xmswup {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-donate-page-1 .cap-Xmswup {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-donate-page-1 .capacity-Xmswup {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-donate-page-1 .mic-cam-FGD1w1 {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-donate-page-1 .elements-time-FGD1w1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-donate-page-1 .time-iKQHIg {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-donate-page-1 .fondo-RfInmV {
+  background-color: transparent;
+  height: 844px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-donate-page-1 .mensaje-popup-sticker-RfInmV {
+  background-color: transparent;
+  height: 482px;
+  left: 29px;
+  position: absolute;
+  top: 181px;
+  width: 333px;
+}
+
+.client-donate-page-1 .group-102-g1lQDo {
+  background-color: transparent;
+  height: 482px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.client-donate-page-1 .rectangle-1325-Uz12h2 {
+  background-color: var(--hint-of-red);
+  border-radius: 10px;
+  height: 482px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.client-donate-page-1 .group-101-Uz12h2 {
+  background-color: transparent;
+  height: 209px;
+  left: 36px;
+  position: absolute;
+  top: 217px;
+  width: 264px;
+}
+
+.client-donate-page-1 .muchas-gracias-por-tu-apoyo-4ZILN1 {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 239px;
+}
+
+.client-donate-page-1 .el-comprobante-de-tu-4ZILN1 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+  width: 260px;
+}
+
+.client-donate-page-1 .group-100-4ZILN1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 50px;
+  left: 52px;
+  position: absolute;
+  top: 159px;
+  width: 158px;
+}
+
+.client-donate-page-1 .rectangle-1324-9GVP9y {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 156px;
+}
+
+.client-donate-page-1 .regresar-9GVP9y {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: 61px;
+}
+
+.client-donate-page-1 .rectangle-16-g1lQDo {
+  background-color: transparent;
+  height: 123px;
+  left: 105px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 123px;
+}

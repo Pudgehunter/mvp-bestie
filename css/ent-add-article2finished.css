@@ -1,0 +1,512 @@
+/* screen - ent-add-article2finished */
+
+.ent-add-article2finished {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-add-article2finished .status-bar-i-phone-13-13-pro-RIkws3 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-add-article2finished .indicators-KGkaEg {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-add-article2finished .elements-signal-5rsMUU {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-add-article2finished .cellular-connection-xLne9x {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-add-article2finished .elements-connection-5rsMUU {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-add-article2finished .wifi-mE9W6c {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-add-article2finished .elements-battery-5rsMUU {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-add-article2finished .border-5vNnoI {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-add-article2finished .cap-5vNnoI {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-add-article2finished .capacity-5vNnoI {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-add-article2finished .mic-cam-KGkaEg {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-add-article2finished .elements-time-KGkaEg {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-add-article2finished .time-l1qdHz {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-add-article2finished .admin-de-catlogo-RIkws3 {
+  background-color: transparent;
+  height: auto;
+  left: 131px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.ent-add-article2finished .vector-RIkws3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 19px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.ent-add-article2finished .nav-emprendimiento-RIkws3 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-add-article2finished .rectangle-1463-ESTdxc {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-add-article2finished .union-ESTdxc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 226px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-add-article2finished .union-w4cAZ1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-add-article2finished .union-EIr1eY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-add-article2finished .union-Sw7MxX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-add-article2finished .fotos-RIkws3::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.ent-add-article2finished .fotos-RIkws3 {
+  background-color: transparent;
+  height: 260px;
+  left: 10px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 106px;
+  width: 366px;
+}
+
+.ent-add-article2finished .group-274-Lk7hZ0 {
+  background-color: transparent;
+  height: 260px;
+  left: 120px;
+  position: absolute;
+  top: -0px;
+  width: 262px;
+}
+
+.ent-add-article2finished .rectangle-1338-EUm50S {
+  background-color: var(--cielo-claro);
+  border-radius: 15px;
+  height: 260px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.ent-add-article2finished .camera-EUm50S {
+  background-color: transparent;
+  border-radius: 14.83px;
+  height: 24px;
+  left: 118px;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.ent-add-article2finished .rectangle-354-xjbx5W {
+  background-color: transparent;
+  height: 20px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.ent-add-article2finished .ellipse-57-xjbx5W {
+  background-color: transparent;
+  border-radius: 5.06px;
+  height: 10px;
+  left: 7px;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
+
+.ent-add-article2finished .aadir-imgenes-EUm50S {
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 19.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 128px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.ent-add-article2finished .army-Lk7hZ0 {
+  background-color: transparent;
+  height: 260px;
+  left: -80px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 120px;
+}
+
+.ent-add-article2finished .enlace-RIkws3 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 600px;
+  width: 279px;
+}
+
+.ent-add-article2finished .line-5-RIkws3 {
+  background-color: transparent;
+  height: 1px;
+  left: 54px;
+  position: absolute;
+  top: 622px;
+  width: 294px;
+}
+
+.ent-add-article2finished .cdigo-del-artculo-RIkws3 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 648px;
+  width: 279px;
+}
+
+.ent-add-article2finished .line-6-RIkws3 {
+  background-color: transparent;
+  height: 1px;
+  left: 54px;
+  position: absolute;
+  top: 670px;
+  width: 294px;
+}
+
+.ent-add-article2finished .guardar-cambios-RIkws3 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 671px;
+  width: 360px;
+}
+
+.ent-add-article2finished .group-230-RIkws3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 114px;
+  position: absolute;
+  top: 692px;
+  width: 163px;
+}
+
+.ent-add-article2finished .rectangle-6-BeAPkh {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.ent-add-article2finished .enviar-BeAPkh {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}
+
+.ent-add-article2finished .group-404-RIkws3 {
+  background-color: transparent;
+  height: 95px;
+  left: 54px;
+  position: absolute;
+  top: 492px;
+  width: 296px;
+}
+
+.ent-add-article2finished .rectangle-1312-dAx6Kl {
+  background-color: var(--cararra);
+  border-radius: 7.5px;
+  height: 95px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.ent-add-article2finished .hermoso-conjunto-hec-dAx6Kl {
+  background-color: transparent;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: 262px;
+}
+
+.ent-add-article2finished .crear-producto2-RIkws3 {
+  background-color: transparent;
+  height: 22px;
+  left: 54px;
+  position: absolute;
+  top: 386px;
+  width: 294px;
+}
+
+.ent-add-article2finished .conjutno-army-3yLCaW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 279px;
+}
+
+.ent-add-article2finished .line-2-3yLCaW {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 22px;
+  width: 294px;
+}
+
+.ent-add-article2finished .crear-producto2-tvit1H {
+  background-color: transparent;
+  height: 22px;
+  left: 54px;
+  position: absolute;
+  top: 434px;
+  width: 294px;
+}
+
+.ent-add-article2finished .x13500-Xqlxkv {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 279px;
+}
+
+.ent-add-article2finished .line-2-Xqlxkv {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 22px;
+  width: 294px;
+}

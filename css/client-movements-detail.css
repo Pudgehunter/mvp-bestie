@@ -1,0 +1,266 @@
+/* screen - client-movements-detail */
+
+.client-movements-detail {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-movements-detail .rectangle-58-6cHDQK {
+  background-color: var(--cuadros-relleno);
+  border-radius: 17px;
+  height: 478px;
+  left: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 147px;
+  width: 318px;
+}
+
+.client-movements-detail .anita-vergara-6cHDQK {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 341px;
+  width: auto;
+}
+
+.client-movements-detail .x03042022-6cHDQK {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 574px;
+  width: auto;
+}
+
+.client-movements-detail .x100000-6cHDQK {
+  background-color: transparent;
+  color: var(--text);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 522px;
+  width: auto;
+}
+
+.client-movements-detail .te-envo-dinero-por-e-6cHDQK {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 397px;
+  width: 251px;
+}
+
+.client-movements-detail .prstamo-entre-besties-6cHDQK {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 468px;
+  width: 251px;
+}
+
+.client-movements-detail .de-6cHDQK {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 324px;
+  width: 18px;
+}
+
+.client-movements-detail .mensaje-6cHDQK {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 376px;
+  width: 48px;
+}
+
+.client-movements-detail .debido-a-6cHDQK {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 447px;
+  width: 48px;
+}
+
+.client-movements-detail .valor-6cHDQK {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 500px;
+  width: 48px;
+}
+
+.client-movements-detail .fecha-6cHDQK {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 553px;
+  width: 48px;
+}
+
+.client-movements-detail .rectangle-1325-6cHDQK {
+  background-color: transparent;
+  height: 136px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -3px;
+  width: 390px;
+}
+
+.client-movements-detail .detalles-6cHDQK {
+  background-color: transparent;
+  height: auto;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: auto;
+}
+
+.client-movements-detail .intersect-6cHDQK {
+  background-color: transparent;
+  height: 161px;
+  left: 36px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 318px;
+}
+
+.client-movements-detail .nav-client-6cHDQK {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-movements-detail .rectangle-1463-uVUISw {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-movements-detail .union-uVUISw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-movements-detail .union-CExEKW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-movements-detail .union-QE38Br {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-movements-detail .union-S2VLjO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-movements-detail .vector-6cHDQK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 30px;
+  position: absolute;
+  top: 42px;
+  width: 9px;
+}

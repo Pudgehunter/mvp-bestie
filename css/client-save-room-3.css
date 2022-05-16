@@ -1,0 +1,469 @@
+/* screen - client-save-room-3 */
+
+.client-save-room-3 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-save-room-3 .image-21-ArwEV3 {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.client-save-room-3 .vector-ArwEV3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.client-save-room-3 .status-bar-i-phone-13-13-pro-ArwEV3 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.client-save-room-3 .indicators-F58wVb {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-save-room-3 .elements-signal-toN382 {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-save-room-3 .cellular-connection-puiZWT {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-save-room-3 .elements-connection-toN382 {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-save-room-3 .wifi-zVtd9G {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-save-room-3 .elements-battery-toN382 {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-save-room-3 .border-cnMSQR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-save-room-3 .cap-cnMSQR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-save-room-3 .capacity-cnMSQR {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-save-room-3 .mic-cam-F58wVb {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-save-room-3 .elements-time-F58wVb {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-save-room-3 .time-WqFm8J {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-save-room-3 .de-dnde-saldr-el-dinero-ArwEV3 {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 331px;
+}
+
+.client-save-room-3 .nav-emprendimiento-ArwEV3 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-save-room-3 .rectangle-1463-aOZDrC {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-save-room-3 .union-aOZDrC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.client-save-room-3 .union-qms6nu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-save-room-3 .union-RmLpMo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-save-room-3 .union-ZXqnzL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-save-room-3 .bolsillos-300000-ArwEV3 {
+  background-color: transparent;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 311px;
+  width: 68px;
+}
+
+.client-save-room-3 .span0-7eGVx5 {
+}
+
+.client-save-room-3 .span1-7eGVx5 {
+}
+
+.client-save-room-3 .group-2057-ArwEV3 {
+  background-color: transparent;
+  height: 98px;
+  left: 160px;
+  position: absolute;
+  top: 248px;
+  width: 70px;
+}
+
+.client-save-room-3 .disponible-200000-PbRxhM {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 64px;
+  width: 68px;
+}
+
+.client-save-room-3 .span0-zUjZ4d {
+}
+
+.client-save-room-3 .span1-zUjZ4d {
+}
+
+.client-save-room-3 .rectangle-1415-PbRxhM {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 37px;
+  left: 8px;
+  position: absolute;
+  top: -2px;
+  width: 54px;
+}
+
+.client-save-room-3 .vector-136-PbRxhM {
+  background-color: transparent;
+  height: 2px;
+  left: 9px;
+  position: absolute;
+  top: 38px;
+  width: 51px;
+}
+
+.client-save-room-3 .vector-137-PbRxhM {
+  background-color: transparent;
+  height: 2px;
+  left: 13px;
+  position: absolute;
+  top: 42px;
+  width: 44px;
+}
+
+.client-save-room-3 .group-352-PbRxhM {
+  background-color: transparent;
+  height: 17px;
+  left: 27px;
+  position: absolute;
+  top: 8px;
+  width: 17px;
+}
+
+.client-save-room-3 .ellipse-93-nqpXOy {
+  background-color: transparent;
+  border-radius: 8.33px;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.client-save-room-3 .union-nqpXOy {
+  background-color: transparent;
+  height: 11px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.client-save-room-3 .rectangle-1416-ArwEV3 {
+  background-color: transparent;
+  height: 48px;
+  left: 64px;
+  position: absolute;
+  top: 245px;
+  width: 39px;
+}
+
+.client-save-room-3 .rectangle-1417-ArwEV3 {
+  background-color: transparent;
+  border-radius: 2px 2px 10px 10px;
+  height: 16px;
+  left: 64px;
+  position: absolute;
+  top: 246px;
+  width: 39px;
+}
+
+.client-save-room-3 .ellipse-104-ArwEV3 {
+  background-color: var(--cielo-claro);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 80px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 7px;
+}
+
+.client-save-room-3 .heart-ArwEV3 {
+  background-color: transparent;
+  height: 17px;
+  left: 75px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 267px;
+  width: 18px;
+}
+
+.client-save-room-3 .check-ArwEV3 {
+  background-color: transparent;
+  height: 18px;
+  left: 219px;
+  position: absolute;
+  top: 223px;
+  width: 18px;
+}
+
+.client-save-room-3 .ellipse-103-i07w4T {
+  background-color: var(--cielo-osc);
+  border-radius: 9px;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.client-save-room-3 .check-i07w4T {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 11px;
+}
+
+.client-save-room-3 .aadir-dinero-a-mi-ahorro-ArwEV3 {
+  background-color: transparent;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.client-save-room-3 .save-continue-button-ArwEV3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 19px;
+  position: absolute;
+  top: 711px;
+  width: 354px;
+}
+
+.client-save-room-3 .rectangle-6-Ny1z4u {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.client-save-room-3 .group-313-Ny1z4u {
+  background-color: transparent;
+  height: 14px;
+  left: 91px;
+  position: absolute;
+  top: 10px;
+  width: 187px;
+}
+
+.client-save-room-3 .continuar-9fxW73 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 185px;
+}

@@ -1,0 +1,597 @@
+/* screen - client-proyects-cohii-gif */
+
+.client-proyects-cohii-gif {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-proyects-cohii-gif .status-bar-i-phone-13-13-pro-dR6tje {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-proyects-cohii-gif .indicators-CkIDww {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-proyects-cohii-gif .elements-signal-GwyQtj {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-proyects-cohii-gif .cellular-connection-82AxcC {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-proyects-cohii-gif .elements-connection-GwyQtj {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-proyects-cohii-gif .wifi-bEpw8z {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-proyects-cohii-gif .elements-battery-GwyQtj {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-proyects-cohii-gif .border-w3ift4 {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-proyects-cohii-gif .cap-w3ift4 {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-proyects-cohii-gif .capacity-w3ift4 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-proyects-cohii-gif .mic-cam-CkIDww {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-proyects-cohii-gif .elements-time-CkIDww {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-proyects-cohii-gif .time-f8o7kG {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-proyects-cohii-gif .resultados-del-proyecto-dR6tje {
+  background-color: transparent;
+  height: auto;
+  left: 115px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.client-proyects-cohii-gif .vector-dR6tje {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.client-proyects-cohii-gif .image-25-dR6tje {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 98px;
+  width: 390px;
+}
+
+.client-proyects-cohii-gif .rectangle-1376-dR6tje {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 98px;
+  width: 390px;
+}
+
+.client-proyects-cohii-gif .resultado-del-proyecto-dR6tje {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 225px;
+  width: 334px;
+}
+
+.client-proyects-cohii-gif .progreso-dR6tje {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 334px;
+  width: 334px;
+}
+
+.client-proyects-cohii-gif .recompensas-dR6tje {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 456px;
+  width: 334px;
+}
+
+.client-proyects-cohii-gif .rectangle-1377-dR6tje {
+  background-color: var(--azul);
+  border-radius: 4px;
+  height: 16px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 290px;
+  width: 334px;
+}
+
+.client-proyects-cohii-gif .x100-completado-dR6tje {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 259px;
+  width: auto;
+}
+
+.client-proyects-cohii-gif .xito-dR6tje {
+  background-color: transparent;
+  height: auto;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 225px;
+  width: auto;
+}
+
+.client-proyects-cohii-gif .gracias-por-tu-apoyo-dR6tje {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 361px;
+  width: 334px;
+}
+
+.client-proyects-cohii-gif .elige-la-que-ms-te-guste-dR6tje {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 483px;
+  width: 334px;
+}
+
+.client-proyects-cohii-gif .rectangle-1428-dR6tje {
+  background-color: var(--cielo-claro);
+  border-radius: 15.87px;
+  height: 50px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 545px;
+  width: 101px;
+}
+
+.client-proyects-cohii-gif .rectangle-1429-dR6tje {
+  background-color: var(--amarillo-claro);
+  border-radius: 15.71px;
+  height: 50px;
+  left: 209px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 546px;
+  width: 100px;
+}
+
+.client-proyects-cohii-gif .x10-dR6tje {
+  background-color: transparent;
+  height: 50px;
+  left: 81px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 544px;
+  width: 101px;
+}
+
+.client-proyects-cohii-gif .regalo-dR6tje {
+  background-color: transparent;
+  height: 50px;
+  left: 209px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 544px;
+  width: 100px;
+}
+
+.client-proyects-cohii-gif .nav-client-dR6tje {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-proyects-cohii-gif .rectangle-1463-mAtKa8 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-proyects-cohii-gif .union-mAtKa8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-proyects-cohii-gif .union-V0J4Pm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-proyects-cohii-gif .union-Dz3EeK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-proyects-cohii-gif .union-PqS9Kg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-proyects-cohii-gif .fondo-dR6tje {
+  background-color: transparent;
+  height: 844px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-proyects-cohii-gif .gif-dR6tje {
+  background-color: transparent;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 400px;
+  left: 29px;
+  position: absolute;
+  top: 222px;
+  width: 333px;
+}
+
+.client-proyects-cohii-gif .rectangle-1432-XmFf7B {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 400px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.client-proyects-cohii-gif .recompenza-XmFf7B {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 170px;
+  width: 280px;
+}
+
+.client-proyects-cohii-gif .seguro-que-deseas-este-beneficio-XmFf7B {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 280px;
+  width: 280px;
+}
+
+.client-proyects-cohii-gif .regalo-XmFf7B {
+  background-color: transparent;
+  color: var(--pink);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 170px;
+  width: 280px;
+}
+
+.client-proyects-cohii-gif .con-este-beneficio-s-XmFf7B {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 208px;
+  width: 280px;
+}
+
+.client-proyects-cohii-gif .image-26-XmFf7B {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.client-proyects-cohii-gif .rectangle-1433-XmFf7B {
+  background-color: #ffc984ad;
+  border-radius: 10px;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.client-proyects-cohii-gif .regalo-PPPxo2 {
+  background-color: transparent;
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: 58px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  width: 280px;
+}
+
+.client-proyects-cohii-gif .group-339-XmFf7B {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 27px;
+  position: absolute;
+  top: 319px;
+  width: 135px;
+}
+
+.client-proyects-cohii-gif .rectangle-6-76oEtx {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.client-proyects-cohii-gif .enviar-76oEtx {
+  background-color: transparent;
+  height: 38px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 117px;
+}
+
+.client-proyects-cohii-gif .group-340-XmFf7B {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 170px;
+  position: absolute;
+  top: 319px;
+  width: 135px;
+}
+
+.client-proyects-cohii-gif .rectangle-6-RobH5x {
+  background-color: transparent;
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.client-proyects-cohii-gif .enviar-RobH5x {
+  background-color: transparent;
+  height: 38px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 117px;
+}

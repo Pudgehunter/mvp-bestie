@@ -1,0 +1,590 @@
+/* screen - ent-edit-profile */
+
+.ent-edit-profile {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-edit-profile .rectangle-1366-2l11C5 {
+  background-color: transparent;
+  height: 92px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 98px;
+  width: 390px;
+}
+
+.ent-edit-profile .status-bar-i-phone-13-13-pro-2l11C5 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-edit-profile .indicators-sOUNNg {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-edit-profile .elements-signal-FKqPlt {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-edit-profile .cellular-connection-ZrTRCw {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-edit-profile .elements-connection-FKqPlt {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-edit-profile .wifi-VPgTfz {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-edit-profile .elements-battery-FKqPlt {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-edit-profile .border-cR94vg {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-edit-profile .cap-cR94vg {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-edit-profile .capacity-cR94vg {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-edit-profile .mic-cam-sOUNNg {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-edit-profile .elements-time-sOUNNg {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-edit-profile .time-drWfxS {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-edit-profile .editar-mi-perfil-2l11C5 {
+  background-color: transparent;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  width: auto;
+}
+
+.ent-edit-profile .vector-2l11C5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 25px;
+  position: absolute;
+  top: 60px;
+  width: 9px;
+}
+
+.ent-edit-profile .reemplazar-imagen-banner-2l11C5 {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 112px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.ent-edit-profile .group-290-2l11C5 {
+  background-color: transparent;
+  height: 17px;
+  left: 102px;
+  position: absolute;
+  top: 141px;
+  width: 96px;
+}
+
+.ent-edit-profile .rectangle-6-yMusxE {
+  background-color: var(--cielo);
+  border-radius: 4.12px;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.ent-edit-profile .enviar-yMusxE {
+  background-color: transparent;
+  height: 17px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 83px;
+}
+
+.ent-edit-profile .group-2101-2l11C5 {
+  background-color: transparent;
+  height: 17px;
+  left: 217px;
+  position: absolute;
+  top: 141px;
+  width: 68px;
+}
+
+.ent-edit-profile .quitar-poHxnR {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 66px;
+}
+
+.ent-edit-profile .line-21-poHxnR {
+  background-color: transparent;
+  height: 1px;
+  left: 9px;
+  position: absolute;
+  top: 16px;
+  width: 49px;
+}
+
+.ent-edit-profile .frame-116-2l11C5 {
+  background-color: transparent;
+  height: 548px;
+  left: 15px;
+  overflow: hidden;
+  position: absolute;
+  top: 198px;
+  width: 360px;
+}
+
+.ent-edit-profile .rectangle-16-h7SexC {
+  background-color: transparent;
+  height: 110px;
+  left: 122px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 110px;
+}
+
+.ent-edit-profile .nombre-h7SexC {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  width: 316px;
+}
+
+.ent-edit-profile .username-h7SexC {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 206px;
+  width: 316px;
+}
+
+.ent-edit-profile .enlace-a-tu-pgina-web-h7SexC {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 342px;
+  width: 316px;
+}
+
+.ent-edit-profile .group-242-h7SexC {
+  background-color: transparent;
+  height: 38px;
+  left: 42px;
+  position: absolute;
+  top: 447px;
+  width: 276px;
+}
+
+.ent-edit-profile .rectangle-1308-d2fRxI {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 274px;
+}
+
+.ent-edit-profile .categora-d2fRxI {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 222px;
+}
+
+.ent-edit-profile .group-307-h7SexC {
+  background-color: transparent;
+  height: 38px;
+  left: 41px;
+  position: absolute;
+  top: 387px;
+  width: 276px;
+}
+
+.ent-edit-profile .rectangle-1308-dWF8xr {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 274px;
+}
+
+.ent-edit-profile .ciudad-dWF8xr {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 222px;
+}
+
+.ent-edit-profile .vector-h7SexC {
+  background-color: transparent;
+  height: 10px;
+  left: 279px;
+  position: absolute;
+  top: 464px;
+  width: 20px;
+}
+
+.ent-edit-profile .vector-X0wtqe {
+  background-color: transparent;
+  height: 10px;
+  left: 278px;
+  position: absolute;
+  top: 404px;
+  width: 20px;
+}
+
+.ent-edit-profile .ellipse-88-h7SexC {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 40px;
+  left: 203px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80px;
+  width: 40px;
+}
+
+.ent-edit-profile .camera-h7SexC {
+  background-color: transparent;
+  height: 24px;
+  left: 211px;
+  position: absolute;
+  top: 88px;
+  width: 24px;
+}
+
+.ent-edit-profile .rectangle-354-LNCrAq {
+  background-color: transparent;
+  height: 20px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.ent-edit-profile .ellipse-57-LNCrAq {
+  background-color: transparent;
+  border-radius: 5.06px;
+  height: 10px;
+  left: 7px;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
+
+.ent-edit-profile .line-2-h7SexC {
+  background-color: transparent;
+  height: 1px;
+  left: 41px;
+  position: absolute;
+  top: 180px;
+  width: 274px;
+}
+
+.ent-edit-profile .line-3-h7SexC {
+  background-color: transparent;
+  height: 1px;
+  left: 41px;
+  position: absolute;
+  top: 228px;
+  width: 274px;
+}
+
+.ent-edit-profile .line-5-h7SexC {
+  background-color: transparent;
+  height: 1px;
+  left: 41px;
+  position: absolute;
+  top: 364px;
+  width: 274px;
+}
+
+.ent-edit-profile .group-261-h7SexC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 40px;
+  position: absolute;
+  top: 510px;
+  width: 274px;
+}
+
+.ent-edit-profile .rectangle-6-wUcx6x {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 274px;
+}
+
+.ent-edit-profile .enviar-wUcx6x {
+  background-color: transparent;
+  height: 38px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 237px;
+}
+
+.ent-edit-profile .rectangle-1312-h7SexC {
+  background-color: var(--cararra);
+  border-radius: 7.5px;
+  height: 85px;
+  left: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 246px;
+  width: 275px;
+}
+
+.ent-edit-profile .descripcin-h7SexC {
+  background-color: transparent;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 253px;
+  width: 245px;
+}
+
+.ent-edit-profile .nav-emprendimiento-2l11C5 {
+  background-color: var(--white);
+  box-shadow: 0px -6px 13px #0000000a;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-edit-profile .rectangle-1463-rTabK7 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-edit-profile .union-rTabK7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-edit-profile .union-Cl0xZi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-edit-profile .union-4AqCWp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-edit-profile .union-HnBHld {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

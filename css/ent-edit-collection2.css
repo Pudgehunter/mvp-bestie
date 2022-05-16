@@ -1,0 +1,587 @@
+/* screen - ent-edit-collection2 */
+
+.ent-edit-collection2 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-edit-collection2 .nav-emprendimiento-oPGIGx {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-edit-collection2 .rectangle-1463-hH482Q {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-edit-collection2 .union-hH482Q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-edit-collection2 .union-buwpct {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-edit-collection2 .union-juLnMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-edit-collection2 .union-DPkdhI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-edit-collection2 .status-bar-i-phone-13-13-pro-oPGIGx {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-edit-collection2 .indicators-9CDL08 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-edit-collection2 .elements-signal-4CXLid {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-edit-collection2 .cellular-connection-x9p7u3 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-edit-collection2 .elements-connection-4CXLid {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-edit-collection2 .wifi-9vczeA {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-edit-collection2 .elements-battery-4CXLid {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-edit-collection2 .border-IrvrwA {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-edit-collection2 .cap-IrvrwA {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-edit-collection2 .capacity-IrvrwA {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-edit-collection2 .mic-cam-9CDL08 {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-edit-collection2 .elements-time-9CDL08 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-edit-collection2 .time-kG8Hbw {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-edit-collection2 .nombre-de-la-coleccin-oPGIGx {
+  background-color: transparent;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 51px;
+  width: auto;
+}
+
+.ent-edit-collection2 .vector-oPGIGx {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.ent-edit-collection2 .group-2093-oPGIGx {
+  background-color: transparent;
+  height: 83px;
+  left: 80px;
+  position: absolute;
+  top: 106px;
+  width: 329px;
+}
+
+.ent-edit-collection2 .anillos-golden-M0q3ju {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-edit-collection2 .cop-55000-M0q3ju {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-edit-collection2 .rectangle-1337-M0q3ju {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.ent-edit-collection2 .group-2094-oPGIGx {
+  background-color: transparent;
+  height: 83px;
+  left: 80px;
+  position: absolute;
+  top: 219px;
+  width: 329px;
+}
+
+.ent-edit-collection2 .cop-28000-UxVNlR {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-edit-collection2 .delicate-set-UxVNlR {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-edit-collection2 .rectangle-1338-UxVNlR {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.ent-edit-collection2 .group-2095-oPGIGx {
+  background-color: transparent;
+  height: 83px;
+  left: 80px;
+  position: absolute;
+  top: 332px;
+  width: 329px;
+}
+
+.ent-edit-collection2 .conjunto-army-PLbxdW {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-edit-collection2 .cop-135000-PLbxdW {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-edit-collection2 .rectangle-1339-PLbxdW {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.ent-edit-collection2 .group-2096-oPGIGx {
+  background-color: transparent;
+  height: 83px;
+  left: 80px;
+  position: absolute;
+  top: 444px;
+  width: 329px;
+}
+
+.ent-edit-collection2 .golden-queen-XZoCkf {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-edit-collection2 .cop-35000-XZoCkf {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-edit-collection2 .rectangle-1340-XZoCkf {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.ent-edit-collection2 .group-2097-oPGIGx {
+  background-color: transparent;
+  height: 83px;
+  left: 80px;
+  position: absolute;
+  top: 557px;
+  width: 329px;
+}
+
+.ent-edit-collection2 .star-shine-YUAzR0 {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-edit-collection2 .cop-67000-YUAzR0 {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-edit-collection2 .rectangle-1341-YUAzR0 {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.ent-edit-collection2 .rectangle-1347-oPGIGx {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 19px;
+  left: 46px;
+  position: absolute;
+  top: 476px;
+  width: 19px;
+}
+
+.ent-edit-collection2 .rectangle-1348-oPGIGx {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 19px;
+  left: 46px;
+  position: absolute;
+  top: 589px;
+  width: 19px;
+}
+
+.ent-edit-collection2 .group-279-oPGIGx {
+  background-color: transparent;
+  height: 19px;
+  left: 46px;
+  position: absolute;
+  top: 138px;
+  width: 19px;
+}
+
+.ent-edit-collection2 .rectangle-1344-6xtqXj {
+  background-color: var(--cielo-osc);
+  border-radius: 2px;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.ent-edit-collection2 .check-6xtqXj {
+  background-color: transparent;
+  height: 11px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.ent-edit-collection2 .group-281-oPGIGx {
+  background-color: transparent;
+  height: 19px;
+  left: 46px;
+  position: absolute;
+  top: 251px;
+  width: 19px;
+}
+
+.ent-edit-collection2 .rectangle-1344-DTCg1q {
+  background-color: var(--cielo-osc);
+  border-radius: 2px;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.ent-edit-collection2 .check-DTCg1q {
+  background-color: transparent;
+  height: 11px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.ent-edit-collection2 .group-280-oPGIGx {
+  background-color: transparent;
+  height: 19px;
+  left: 46px;
+  position: absolute;
+  top: 364px;
+  width: 19px;
+}
+
+.ent-edit-collection2 .rectangle-1344-ZNO6nV {
+  background-color: var(--cielo-osc);
+  border-radius: 2px;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.ent-edit-collection2 .check-ZNO6nV {
+  background-color: transparent;
+  height: 11px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.ent-edit-collection2 .listo-oPGIGx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 318px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 51px;
+  width: auto;
+}

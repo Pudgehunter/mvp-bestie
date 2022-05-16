@@ -1,0 +1,419 @@
+/* screen - client-pocket-create */
+
+.client-pocket-create {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-pocket-create .nav-client-oILrHl {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-pocket-create .rectangle-1463-jJK3Ag {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-pocket-create .union-jJK3Ag {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-pocket-create .union-G2KmiF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-pocket-create .union-jKwrct {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-pocket-create .union-KdeC8k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-pocket-create .group-2046-oILrHl {
+  background-color: transparent;
+  height: 143px;
+  left: 47px;
+  position: absolute;
+  top: 236px;
+  width: 101px;
+}
+
+.client-pocket-create .ahorro-previo-xPO5QM {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 110px;
+  width: 93px;
+}
+
+.client-pocket-create .image-21-xPO5QM {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.client-pocket-create .group-2045-oILrHl {
+  background-color: transparent;
+  height: 127px;
+  left: 242px;
+  position: absolute;
+  top: 236px;
+  width: 101px;
+}
+
+.client-pocket-create .viajes-FmQ41W {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 110px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.client-pocket-create .image-22-FmQ41W {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.client-pocket-create .group-2043-oILrHl {
+  background-color: transparent;
+  height: 127px;
+  left: 47px;
+  position: absolute;
+  top: 434px;
+  width: 101px;
+}
+
+.client-pocket-create .casa-D7TdEN {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 110px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.client-pocket-create .image-23-D7TdEN {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.client-pocket-create .group-2044-oILrHl {
+  background-color: transparent;
+  height: 127px;
+  left: 238px;
+  position: absolute;
+  top: 434px;
+  width: 107px;
+}
+
+.client-pocket-create .universidad-GzoM01 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 110px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.client-pocket-create .image-24-GzoM01 {
+  background-color: transparent;
+  height: 99px;
+  left: 4px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.client-pocket-create .aadir2-oILrHl {
+  background-color: transparent;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 696px;
+  width: 259px;
+}
+
+.client-pocket-create .rectangle-6-xhdyVY {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.client-pocket-create .enviar-xhdyVY {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.client-pocket-create .rectangle-1325-oILrHl {
+  background-color: transparent;
+  height: 190px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -3px;
+  width: 390px;
+}
+
+.client-pocket-create .rectangle-8-oILrHl {
+  background-color: transparent;
+  height: 72px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.client-pocket-create .status-bar-i-phone-13-13-pro-oILrHl {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.client-pocket-create .indicators-HYn5rZ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-pocket-create .elements-signal-Es4hqj {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-pocket-create .cellular-connection-xpxdpz {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-pocket-create .elements-connection-Es4hqj {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-pocket-create .wifi-DMki56 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-pocket-create .elements-battery-Es4hqj {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-pocket-create .border-71ypM8 {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-pocket-create .cap-71ypM8 {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-pocket-create .capacity-71ypM8 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-pocket-create .mic-cam-HYn5rZ {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-pocket-create .elements-time-HYn5rZ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-pocket-create .time-oGCRJy {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-pocket-create .bolsillos-oILrHl {
+  background-color: transparent;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: auto;
+}
+
+.client-pocket-create .vector-oILrHl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 30px;
+  position: absolute;
+  top: 102px;
+  width: 9px;
+}

@@ -1,0 +1,85 @@
+/* screen - overlay-history */
+
+.overlay-history {
+  background-color: transparent;
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+#overlay-overlay-history {
+  background-color: transparent;
+}
+
+.overlay .overlay-history {
+  background-color: #00000000;
+}
+
+#overlay-overlay-history .overlay-history {
+  left: 18.18201446533203px;
+  top: 198.84138870239258px;
+}
+
+#overlay-overlay-history .container-center-horizontal {
+  justify-content: normal;
+}
+
+.overlay-history .overlay-history-qszY1c {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 66px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 135px;
+}
+
+.overlay-history .vector-141-oltFBD {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.overlay-history .ir-al-perfil-oltFBD {
+  background-color: transparent;
+  color: var(--cielo-osc);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 33px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 133px;
+}
+
+.overlay-history .ver-historia-oltFBD {
+  background-color: transparent;
+  color: var(--cielo-osc);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 33px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  width: 132px;
+}

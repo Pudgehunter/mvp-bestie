@@ -1,0 +1,1388 @@
+/* screen - client-sticker-store */
+
+.client-sticker-store {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-sticker-store .vector-o582C6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 18px;
+  position: absolute;
+  top: 50px;
+  width: 12px;
+}
+
+.client-sticker-store .tienda-enva-un-regalo-o582C6 {
+  background-color: transparent;
+  height: auto;
+  left: 114px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.client-sticker-store .status-bar-i-phone-13-13-pro-o582C6 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-sticker-store .indicators-iqHmm5 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-sticker-store .elements-signal-dGZjfQ {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-sticker-store .cellular-connection-c8ynaf {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-sticker-store .elements-connection-dGZjfQ {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-sticker-store .wifi-1sawZp {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-sticker-store .elements-battery-dGZjfQ {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-sticker-store .border-2JAm1f {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-sticker-store .cap-2JAm1f {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-sticker-store .capacity-2JAm1f {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-sticker-store .mic-cam-iqHmm5 {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-sticker-store .elements-time-iqHmm5 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-sticker-store .time-59Zsch {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-sticker-store .frame-100-o582C6::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.client-sticker-store .frame-100-o582C6 {
+  background-color: transparent;
+  height: 673px;
+  left: 0px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 96px;
+  width: 390px;
+}
+
+.client-sticker-store .tus-stickers-FrSKhH {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: auto;
+}
+
+.client-sticker-store .quieres-dar-un-peque-FrSKhH {
+  background-color: transparent;
+  color: var(--text);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 880px;
+  width: auto;
+}
+
+.client-sticker-store .span0-xAQMRE {
+  font-style: normal;
+  font-weight: 500;
+}
+
+.client-sticker-store .span1-xAQMRE {
+  font-style: normal;
+  font-weight: 400;
+}
+
+.client-sticker-store .span2-xAQMRE {
+  font-style: normal;
+}
+
+.client-sticker-store .span3-xAQMRE {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.client-sticker-store .ms-stickers-que-podran-gustarte-FrSKhH {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 138px;
+  width: auto;
+}
+
+.client-sticker-store .nivel-3-frame-horizontal-FrSKhH::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.client-sticker-store .nivel-3-frame-horizontal-FrSKhH {
+  background-color: transparent;
+  height: 174px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 663px;
+  width: 390px;
+}
+
+.client-sticker-store .rectangle-1319-YEBIxa {
+  background-color: var(--amarillo-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 47px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1460-YEBIxa {
+  background-color: var(--white);
+  height: 153px;
+  left: 443px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 46px;
+}
+
+.client-sticker-store .group-240-YEBIxa {
+  background-color: transparent;
+  height: 54px;
+  left: 47px;
+  position: absolute;
+  top: 109px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1319-jZnul7 {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1320-jZnul7 {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1320-YEBIxa {
+  background-color: var(--amarillo-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 182px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 124px;
+}
+
+.client-sticker-store .x12000-YEBIxa {
+  background-color: transparent;
+  height: auto;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  width: auto;
+}
+
+.client-sticker-store .group-239-YEBIxa {
+  background-color: transparent;
+  height: 54px;
+  left: 182px;
+  position: absolute;
+  top: 109px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1319-F8Mu5P {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1320-F8Mu5P {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .x15000-YEBIxa {
+  background-color: transparent;
+  height: auto;
+  left: 195px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  width: auto;
+}
+
+.client-sticker-store .image00002-YEBIxa {
+  background-color: transparent;
+  height: 1px;
+  left: 71px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 61px;
+  width: 81px;
+}
+
+.client-sticker-store .image00001-1-YEBIxa {
+  background-color: transparent;
+  height: 3px;
+  left: 206px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 58px;
+  width: 89px;
+}
+
+.client-sticker-store .rectangle-1321-YEBIxa {
+  background-color: var(--amarillo-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 317px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 124px;
+}
+
+.client-sticker-store .group-241-YEBIxa {
+  background-color: transparent;
+  height: 54px;
+  left: 317px;
+  position: absolute;
+  top: 109px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1319-BGFWg5 {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1320-BGFWg5 {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .x22000-YEBIxa {
+  background-color: transparent;
+  height: auto;
+  left: 330px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  width: auto;
+}
+
+.client-sticker-store .image00002-E7Dqsf {
+  background-color: transparent;
+  height: 1px;
+  left: 375px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 61px;
+  width: 37px;
+}
+
+.client-sticker-store .image00001-2-YEBIxa {
+  background-color: transparent;
+  height: 3px;
+  left: 344px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 58px;
+  width: 60px;
+}
+
+.client-sticker-store .rose-coctail-YEBIxa {
+  background-color: transparent;
+  height: auto;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 115px;
+  width: auto;
+}
+
+.client-sticker-store .purple-coctail-YEBIxa {
+  background-color: transparent;
+  height: auto;
+  left: 195px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 115px;
+  width: auto;
+}
+
+.client-sticker-store .coctail-party-YEBIxa {
+  background-color: transparent;
+  height: auto;
+  left: 330px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 115px;
+  width: auto;
+}
+
+.client-sticker-store .nivel-3-FrSKhH {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 638px;
+  width: auto;
+}
+
+.client-sticker-store .nivel-2-frame-horizontal-FrSKhH::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.client-sticker-store .nivel-2-frame-horizontal-FrSKhH {
+  background-color: transparent;
+  height: 171px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 440px;
+  width: 390px;
+}
+
+.client-sticker-store .rectangle-1317-L7X6rt {
+  background-color: var(--cielo-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 124px;
+}
+
+.client-sticker-store .group-236-L7X6rt {
+  background-color: transparent;
+  height: 54px;
+  left: 46px;
+  position: absolute;
+  top: 105px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1319-pq7hak {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1320-pq7hak {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1459-L7X6rt {
+  background-color: var(--white);
+  height: 153px;
+  left: 442px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.client-sticker-store .rectangle-1316-L7X6rt {
+  background-color: var(--cielo-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 181px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 124px;
+}
+
+.client-sticker-store .x12000-L7X6rt {
+  background-color: transparent;
+  height: auto;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 131px;
+  width: auto;
+}
+
+.client-sticker-store .tequili-L7X6rt {
+  background-color: transparent;
+  height: auto;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 111px;
+  width: auto;
+}
+
+.client-sticker-store .group-237-L7X6rt {
+  background-color: transparent;
+  height: 54px;
+  left: 181px;
+  position: absolute;
+  top: 105px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1319-oJld5M {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1320-oJld5M {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1318-L7X6rt {
+  background-color: var(--cielo-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 316px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 124px;
+}
+
+.client-sticker-store .group-238-L7X6rt {
+  background-color: transparent;
+  height: 54px;
+  left: 316px;
+  position: absolute;
+  top: 105px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1319-xoPXO8 {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1320-xoPXO8 {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .image00007-L7X6rt {
+  background-color: transparent;
+  height: 108px;
+  left: 318px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 70px;
+}
+
+.client-sticker-store .image00006-L7X6rt {
+  background-color: transparent;
+  height: 98px;
+  left: 360px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 35px;
+}
+
+.client-sticker-store .x15000-L7X6rt {
+  background-color: transparent;
+  height: auto;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 131px;
+  width: auto;
+}
+
+.client-sticker-store .x15500-L7X6rt {
+  background-color: transparent;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 131px;
+  width: auto;
+}
+
+.client-sticker-store .x2-tequili-L7X6rt {
+  background-color: transparent;
+  height: auto;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 111px;
+  width: auto;
+}
+
+.client-sticker-store .color-tequili-L7X6rt {
+  background-color: transparent;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 111px;
+  width: auto;
+}
+
+.client-sticker-store .image00007-FO8Pxe {
+  background-color: transparent;
+  height: 108px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 70px;
+}
+
+.client-sticker-store .image00007-KxEbWT {
+  background-color: transparent;
+  height: 108px;
+  left: 193px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 70px;
+}
+
+.client-sticker-store .image00007-xLzS6a {
+  background-color: transparent;
+  height: 108px;
+  left: 224px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 70px;
+}
+
+.client-sticker-store .nivel-2-FrSKhH {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 412px;
+  width: auto;
+}
+
+.client-sticker-store .nivel-1-frame-horizontal-FrSKhH::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.client-sticker-store .nivel-1-frame-horizontal-FrSKhH {
+  background-color: transparent;
+  height: 177px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 210px;
+  width: 390px;
+}
+
+.client-sticker-store .rectangle-1313-aN7x8O {
+  background-color: var(--rosa-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1314-aN7x8O {
+  background-color: var(--rosa-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 182px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 124px;
+}
+
+.client-sticker-store .group-231-aN7x8O {
+  background-color: transparent;
+  height: 54px;
+  left: 46px;
+  position: absolute;
+  top: 109px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1319-XTTR5u {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1320-XTTR5u {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .group-232-aN7x8O {
+  background-color: transparent;
+  height: 54px;
+  left: 182px;
+  position: absolute;
+  top: 109px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1319-BANmhd {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1320-BANmhd {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .x3000-aN7x8O {
+  background-color: transparent;
+  height: auto;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  width: auto;
+}
+
+.client-sticker-store .x3500-aN7x8O {
+  background-color: transparent;
+  height: auto;
+  left: 195px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  width: auto;
+}
+
+.client-sticker-store .cofi-aN7x8O {
+  background-color: transparent;
+  height: auto;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 115px;
+  width: auto;
+}
+
+.client-sticker-store .happy-cofi-aN7x8O {
+  background-color: transparent;
+  height: auto;
+  left: 195px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 115px;
+  width: auto;
+}
+
+.client-sticker-store .group-326-aN7x8O {
+  background-color: transparent;
+  height: 91px;
+  left: 79px;
+  position: absolute;
+  top: 15px;
+  width: 59px;
+}
+
+.client-sticker-store .image00001-zWIntR {
+  background-color: transparent;
+  height: 91px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 59px;
+}
+
+.client-sticker-store .group-325-aN7x8O {
+  background-color: transparent;
+  height: 100px;
+  left: 198px;
+  position: absolute;
+  top: 15px;
+  width: 117px;
+}
+
+.client-sticker-store .image00001-WgsyuQ {
+  background-color: transparent;
+  height: 91px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 59px;
+}
+
+.client-sticker-store .image00004-WgsyuQ {
+  background-color: transparent;
+  height: 96px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 98px;
+}
+
+.client-sticker-store .regalo-1-aN7x8O {
+  background-color: transparent;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 341px;
+  width: auto;
+}
+
+.client-sticker-store .rectangle-1315-aN7x8O {
+  background-color: var(--rosa-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 318px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 124px;
+}
+
+.client-sticker-store .group-233-aN7x8O {
+  background-color: transparent;
+  height: 54px;
+  left: 318px;
+  position: absolute;
+  top: 109px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1319-hqymdY {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .rectangle-1320-hqymdY {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.client-sticker-store .x4000-aN7x8O {
+  background-color: transparent;
+  height: auto;
+  left: 331px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  width: auto;
+}
+
+.client-sticker-store .happiness-aN7x8O {
+  background-color: transparent;
+  height: auto;
+  left: 331px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 115px;
+  width: auto;
+}
+
+.client-sticker-store .group-324-aN7x8O {
+  background-color: transparent;
+  height: 94px;
+  left: 327px;
+  position: absolute;
+  top: 15px;
+  width: 105px;
+}
+
+.client-sticker-store .image00001-0nIE3c {
+  background-color: transparent;
+  height: 91px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 59px;
+}
+
+.client-sticker-store .image00005-0nIE3c {
+  background-color: transparent;
+  height: 72px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22px;
+  width: 34px;
+}
+
+.client-sticker-store .rectangle-1460-aN7x8O {
+  background-color: var(--white);
+  height: 153px;
+  left: 444px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 46px;
+}
+
+.client-sticker-store .nivel-1-FrSKhH {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 186px;
+  width: auto;
+}
+
+.client-sticker-store .sticker-500-FrSKhH {
+  background-color: transparent;
+  height: 80px;
+  left: 44px;
+  position: absolute;
+  top: 44px;
+  width: 76px;
+}
+
+.client-sticker-store .rectangle-1330-H5vGI6 {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+
+.client-sticker-store .x500-H5vGI6 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 63px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.client-sticker-store .ellipse-80-H5vGI6 {
+  background-color: var(--amarillo);
+  border-radius: 11px;
+  height: 22px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 22px;
+}
+
+.client-sticker-store .x2-H5vGI6 {
+  background-color: transparent;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  width: auto;
+}
+
+.client-sticker-store .image00003-H5vGI6 {
+  background-color: transparent;
+  height: 45px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 47px;
+}
+
+.client-sticker-store .sticker-12000-FrSKhH {
+  background-color: transparent;
+  height: 82px;
+  left: 122px;
+  position: absolute;
+  top: 42px;
+  width: 75px;
+}
+
+.client-sticker-store .x12000-amecFY {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 65px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.client-sticker-store .rectangle-1326-amecFY {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 60px;
+}
+
+.client-sticker-store .ellipse-81-amecFY {
+  background-color: var(--pink);
+  border-radius: 11px;
+  height: 22px;
+  left: 49px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 45px;
+  width: 22px;
+}
+
+.client-sticker-store .x1-amecFY {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 49px;
+  width: auto;
+}
+
+.client-sticker-store .image00007-amecFY {
+  background-color: transparent;
+  height: 64px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 42px;
+}
+
+.client-sticker-store .carrito-FrSKhH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 119px;
+  position: absolute;
+  top: 973px;
+  width: 165px;
+}
+
+.client-sticker-store .rectangle-6-PMALwh {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.client-sticker-store .ir-al-carrito-PMALwh {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 142px;
+}
+
+.client-sticker-store .nav-client-o582C6 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 770px;
+  width: 390px;
+}
+
+.client-sticker-store .rectangle-1463-fBiktn {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-sticker-store .union-fBiktn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-sticker-store .union-YJ1qGH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-sticker-store .union-Irui3A {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-sticker-store .union-RX7A5U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

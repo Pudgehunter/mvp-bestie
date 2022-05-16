@@ -1,0 +1,765 @@
+/* screen - ent-movements-seemore */
+
+.ent-movements-seemore {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-movements-seemore .movimientos-KvX75s {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.ent-movements-seemore .vector-KvX75s {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.ent-movements-seemore .rectangle-8-KvX75s {
+  background-color: transparent;
+  height: 72px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-movements-seemore .status-bar-i-phone-13-13-pro-KvX75s {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-movements-seemore .indicators-Y0ropQ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-movements-seemore .elements-signal-cC3aNM {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-movements-seemore .cellular-connection-cJYsM2 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-movements-seemore .elements-connection-cC3aNM {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-movements-seemore .wifi-kyOYNZ {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-movements-seemore .elements-battery-cC3aNM {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-movements-seemore .border-yduzYx {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-movements-seemore .cap-yduzYx {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-movements-seemore .capacity-yduzYx {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-movements-seemore .mic-cam-Y0ropQ {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-movements-seemore .elements-time-Y0ropQ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-movements-seemore .time-y7sKx9 {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-movements-seemore .group-2108-KvX75s {
+  background-color: transparent;
+  height: 31px;
+  left: 33px;
+  position: absolute;
+  top: 153px;
+  width: 335px;
+}
+
+.ent-movements-seemore .rectangle-1325-jdrQAF {
+  background-color: #f2f6fa;
+  border-radius: 58px;
+  height: 31px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.ent-movements-seemore .rectangle-1326-jdrQAF {
+  background-color: var(--cielo);
+  border-radius: 58px;
+  height: 27px;
+  left: 4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 110px;
+}
+
+.ent-movements-seemore .todo-jdrQAF {
+  background-color: transparent;
+  height: auto;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: 42px;
+}
+
+.ent-movements-seemore .pagos-jdrQAF {
+  background-color: transparent;
+  height: auto;
+  left: 138px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: 42px;
+}
+
+.ent-movements-seemore .donaciones-jdrQAF {
+  background-color: transparent;
+  height: auto;
+  left: 223px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: 82px;
+}
+
+.ent-movements-seemore .hoy-KvX75s {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 200px;
+  width: auto;
+}
+
+.ent-movements-seemore .ayer-KvX75s {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 410px;
+  width: auto;
+}
+
+.ent-movements-seemore .viernes-KvX75s {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 680px;
+  width: auto;
+}
+
+.ent-movements-seemore .group-2106-KvX75s {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 291px;
+  width: 280px;
+}
+
+.ent-movements-seemore .pagaste-12000-a-misbowlsss-0J0Kn5 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ent-movements-seemore .span0-uhDPgw {
+}
+
+.ent-movements-seemore .span1-uhDPgw {
+}
+
+.ent-movements-seemore .el-22032022-a-las-2038-0J0Kn5 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.ent-movements-seemore .rectangle-1327-0J0Kn5 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.ent-movements-seemore .group-2107-KvX75s {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 231px;
+  width: 311px;
+}
+
+.ent-movements-seemore .recibiste-180000-de-anitavergara-ui8xa4 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ent-movements-seemore .span0-7D1pax {
+}
+
+.ent-movements-seemore .span1-7D1pax {
+}
+
+.ent-movements-seemore .el-22032022-a-las-2038-ui8xa4 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.ent-movements-seemore .rectangle-16-ui8xa4 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.ent-movements-seemore .group-353-KvX75s {
+  background-color: transparent;
+  height: 40px;
+  left: 30px;
+  position: absolute;
+  top: 621px;
+  width: 293px;
+}
+
+.ent-movements-seemore .recibiste-120000-de-juanperez-vmaWVn {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ent-movements-seemore .span0-eQX6lf {
+}
+
+.ent-movements-seemore .span1-eQX6lf {
+}
+
+.ent-movements-seemore .el-22032022-a-las-2038-vmaWVn {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.ent-movements-seemore .rectangle-1331-vmaWVn {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.ent-movements-seemore .group-2105-KvX75s {
+  background-color: transparent;
+  height: 40px;
+  left: 30px;
+  position: absolute;
+  top: 351px;
+  width: 315px;
+}
+
+.ent-movements-seemore .recibiste-180000-de-alejandroppp-HDu49M {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ent-movements-seemore .span0-bJmEfx {
+}
+
+.ent-movements-seemore .span1-bJmEfx {
+}
+
+.ent-movements-seemore .el-22032022-a-las-2038-HDu49M {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.ent-movements-seemore .rectangle-1329-HDu49M {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.ent-movements-seemore .group-2104-KvX75s {
+  background-color: transparent;
+  height: 40px;
+  left: 30px;
+  position: absolute;
+  top: 711px;
+  width: 299px;
+}
+
+.ent-movements-seemore .recibiste-60000-de-misbowlsss-trxBmg {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ent-movements-seemore .span0-EOhqRx {
+}
+
+.ent-movements-seemore .span1-EOhqRx {
+}
+
+.ent-movements-seemore .el-22032022-a-las-2038-trxBmg {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.ent-movements-seemore .rectangle-1328-trxBmg {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.ent-movements-seemore .group-356-KvX75s {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 441px;
+  width: 299px;
+}
+
+.ent-movements-seemore .pagaste-350000-a-camiloduque-PCeqFT {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ent-movements-seemore .span0-K5aPXE {
+}
+
+.ent-movements-seemore .span1-K5aPXE {
+}
+
+.ent-movements-seemore .el-22032022-a-las-2038-PCeqFT {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.ent-movements-seemore .rectangle-1328-PCeqFT {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.ent-movements-seemore .group-355-KvX75s {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 501px;
+  width: 296px;
+}
+
+.ent-movements-seemore .pagaste-350000-a-lauracaotico-nhhbJp {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ent-movements-seemore .span0-AxkKsS {
+}
+
+.ent-movements-seemore .span1-AxkKsS {
+}
+
+.ent-movements-seemore .el-22032022-a-las-2038-nhhbJp {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.ent-movements-seemore .rectangle-1329-nhhbJp {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.ent-movements-seemore .group-354-KvX75s {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 561px;
+  width: 291px;
+}
+
+.ent-movements-seemore .pagaste-350000-a-juancaotico-89aYxD {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ent-movements-seemore .span0-3DBefi {
+}
+
+.ent-movements-seemore .span1-3DBefi {
+}
+
+.ent-movements-seemore .el-22032022-a-las-2038-89aYxD {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.ent-movements-seemore .rectangle-1330-89aYxD {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.ent-movements-seemore .nav-emprendimiento-KvX75s {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-movements-seemore .rectangle-1463-kQywqC {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-movements-seemore .union-kQywqC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-movements-seemore .union-Vsh7hF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-movements-seemore .union-c4YixC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-movements-seemore .union-2uUBP3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

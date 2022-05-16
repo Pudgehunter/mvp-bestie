@@ -1,0 +1,556 @@
+/* screen - ent-pendient-contact-3 */
+
+.ent-pendient-contact-3 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-pendient-contact-3 .nav-emprendimiento-wnKfyB {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-pendient-contact-3 .rectangle-1463-iZrPgW {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-pendient-contact-3 .union-iZrPgW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-pendient-contact-3 .union-zGxjBG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-pendient-contact-3 .union-bxjLav {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-pendient-contact-3 .union-74Rp0V {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-pendient-contact-3 .abonar-a-pago-pendiente-wnKfyB {
+  background-color: transparent;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.ent-pendient-contact-3 .vector-wnKfyB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.ent-pendient-contact-3 .rectangle-8-wnKfyB {
+  background-color: transparent;
+  height: 72px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-pendient-contact-3 .status-bar-i-phone-13-13-pro-wnKfyB {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-pendient-contact-3 .indicators-gBme0x {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-pendient-contact-3 .elements-signal-YCgvZk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-pendient-contact-3 .cellular-connection-BVKwMS {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-pendient-contact-3 .elements-connection-YCgvZk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-pendient-contact-3 .wifi-Oap9xd {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-pendient-contact-3 .elements-battery-YCgvZk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-pendient-contact-3 .border-ycn0Jw {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-pendient-contact-3 .cap-ycn0Jw {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-pendient-contact-3 .capacity-ycn0Jw {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-pendient-contact-3 .mic-cam-gBme0x {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-pendient-contact-3 .elements-time-gBme0x {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-pendient-contact-3 .time-SKXabD {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-pendient-contact-3 .line-13-wnKfyB {
+  background-color: transparent;
+  height: 1px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 237px;
+  width: 262px;
+}
+
+.ent-pendient-contact-3 .ingresa-el-monto-que-vas-a-abonar-wnKfyB {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 212px;
+  width: 262px;
+}
+
+.ent-pendient-contact-3 .a-ana-paredes-le-deb-wnKfyB {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 244px;
+}
+
+.ent-pendient-contact-3 .group-2158-wnKfyB {
+  background-color: transparent;
+  height: 38px;
+  left: 113px;
+  position: absolute;
+  top: 658px;
+  width: 165px;
+}
+
+.ent-pendient-contact-3 .rectangle-6-3x64HH {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.ent-pendient-contact-3 .enviar-3x64HH {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 141px;
+}
+
+.ent-pendient-contact-3 .de-dnde-saldr-el-dinero-wnKfyB {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 324px;
+  width: 331px;
+}
+
+.ent-pendient-contact-3 .group-2156-wnKfyB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 98px;
+  left: 160px;
+  position: absolute;
+  top: 375px;
+  width: 70px;
+}
+
+.ent-pendient-contact-3 .disponible-200000-DxqZHC {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 64px;
+  width: 68px;
+}
+
+.ent-pendient-contact-3 .span0-QXc0og {
+}
+
+.ent-pendient-contact-3 .span1-QXc0og {
+}
+
+.ent-pendient-contact-3 .rectangle-1415-DxqZHC {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 37px;
+  left: 8px;
+  position: absolute;
+  top: -2px;
+  width: 54px;
+}
+
+.ent-pendient-contact-3 .vector-136-DxqZHC {
+  background-color: transparent;
+  height: 2px;
+  left: 9px;
+  position: absolute;
+  top: 38px;
+  width: 51px;
+}
+
+.ent-pendient-contact-3 .vector-137-DxqZHC {
+  background-color: transparent;
+  height: 2px;
+  left: 13px;
+  position: absolute;
+  top: 42px;
+  width: 44px;
+}
+
+.ent-pendient-contact-3 .group-352-DxqZHC {
+  background-color: transparent;
+  height: 17px;
+  left: 27px;
+  position: absolute;
+  top: 8px;
+  width: 17px;
+}
+
+.ent-pendient-contact-3 .ellipse-93-lanx6T {
+  background-color: transparent;
+  border-radius: 8.33px;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.ent-pendient-contact-3 .union-lanx6T {
+  background-color: transparent;
+  height: 11px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.ent-pendient-contact-3 .group-2157-wnKfyB {
+  background-color: transparent;
+  height: 104px;
+  left: 271px;
+  position: absolute;
+  top: 369px;
+  width: 70px;
+}
+
+.ent-pendient-contact-3 .ahorros-50000-a4BVnR {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  width: 68px;
+}
+
+.ent-pendient-contact-3 .span0-KJ9Stw {
+}
+
+.ent-pendient-contact-3 .span1-KJ9Stw {
+}
+
+.ent-pendient-contact-3 .group-341-a4BVnR {
+  background-color: transparent;
+  height: 46px;
+  left: 10px;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.ent-pendient-contact-3 .ellipse-93-OKwBjV {
+  background-color: transparent;
+  border: 1.5px solid var(--cielo-osc);
+  border-radius: 13.06px;
+  height: 26px;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+
+.ent-pendient-contact-3 .rectangle-1406-OKwBjV {
+  background-color: transparent;
+  border: 1.5px solid var(--cielo-osc);
+  border-radius: 1px;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  top: 28px;
+  width: 9px;
+}
+
+.ent-pendient-contact-3 .vector-133-OKwBjV {
+  background-color: transparent;
+  height: 17px;
+  left: 7px;
+  position: absolute;
+  top: 28px;
+  width: 41px;
+}
+
+.ent-pendient-contact-3 .union-OKwBjV {
+  background-color: transparent;
+  height: 17px;
+  left: 23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 8px;
+}
+
+.ent-pendient-contact-3 .group-2155-wnKfyB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100px;
+  left: 51px;
+  position: absolute;
+  top: 373px;
+  width: 70px;
+}
+
+.ent-pendient-contact-3 .bolsillos-300000-LYFo1i {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 66px;
+  width: 68px;
+}
+
+.ent-pendient-contact-3 .span0-4bSbMi {
+}
+
+.ent-pendient-contact-3 .span1-4bSbMi {
+}
+
+.ent-pendient-contact-3 .rectangle-1416-LYFo1i {
+  background-color: transparent;
+  height: 48px;
+  left: 13px;
+  position: absolute;
+  top: -0px;
+  width: 39px;
+}
+
+.ent-pendient-contact-3 .rectangle-1417-LYFo1i {
+  background-color: transparent;
+  border-radius: 2px 2px 10px 10px;
+  height: 16px;
+  left: 14px;
+  position: absolute;
+  top: 0px;
+  width: 39px;
+}
+
+.ent-pendient-contact-3 .ellipse-104-LYFo1i {
+  background-color: var(--cielo-claro);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.ent-pendient-contact-3 .heart-LYFo1i {
+  background-color: transparent;
+  height: 17px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22px;
+  width: 18px;
+}

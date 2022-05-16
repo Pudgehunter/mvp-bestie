@@ -1,0 +1,659 @@
+/* screen - ent-chat-providers */
+
+.ent-chat-providers {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 392px;
+}
+
+.ent-chat-providers .nav-emprendimiento-6ZWOAC {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-chat-providers .rectangle-1463-x1sfUu {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-chat-providers .union-x1sfUu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-chat-providers .union-IxJeDy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-chat-providers .union-6jpy4M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-chat-providers .union-r1bYzl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-chat-providers .group-2069-6ZWOAC {
+  background-color: transparent;
+  height: 79px;
+  left: 29px;
+  position: absolute;
+  top: 135px;
+  width: 341px;
+}
+
+.ent-chat-providers .rectangle-355-DIjxq4 {
+  background-color: var(--cielo-claro);
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #0000001a;
+  height: 79px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 335px;
+}
+
+.ent-chat-providers .x1023-am-DIjxq4 {
+  background-color: transparent;
+  height: auto;
+  left: 279px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+
+.ent-chat-providers .claro-que-s-cuntos-kg-le-mando-DIjxq4 {
+  background-color: transparent;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 202px;
+}
+
+.ent-chat-providers .frutas-y-verduras-DIjxq4 {
+  background-color: transparent;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.ent-chat-providers .ellipse-88-DIjxq4 {
+  background-color: transparent;
+  height: 19px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 33px;
+  width: 19px;
+}
+
+.ent-chat-providers .mask-group-DIjxq4 {
+  background-color: transparent;
+  height: 50px;
+  left: 16px;
+  position: absolute;
+  top: 15px;
+  width: 50px;
+}
+
+.ent-chat-providers .ellipse-35-DIjxq4 {
+  background-color: var(--text);
+  border-radius: 5px;
+  height: 10px;
+  left: 54px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 52px;
+  width: 10px;
+}
+
+.ent-chat-providers .group-2070-6ZWOAC {
+  background-color: transparent;
+  height: 79px;
+  left: 29px;
+  position: absolute;
+  top: 234px;
+  width: 341px;
+}
+
+.ent-chat-providers .rectangle-356-VH2czf {
+  background-color: var(--cielo-claro);
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #0000001a;
+  height: 79px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 335px;
+}
+
+.ent-chat-providers .x1050-pm-VH2czf {
+  background-color: transparent;
+  height: auto;
+  left: 279px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+
+.ent-chat-providers .recuerda-por-favor-los-sabores-tropical-VH2czf {
+  background-color: transparent;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 202px;
+}
+
+.ent-chat-providers .helados-VH2czf {
+  background-color: transparent;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.ent-chat-providers .group-342-VH2czf {
+  background-color: transparent;
+  height: 11px;
+  left: 297px;
+  position: absolute;
+  top: 59px;
+  width: 21px;
+}
+
+.ent-chat-providers .group-340-erW8lV {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.ent-chat-providers .line-21-cKpixq {
+  background-color: transparent;
+  height: 6px;
+  left: -1px;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.ent-chat-providers .line-22-cKpixq {
+  background-color: transparent;
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.ent-chat-providers .line-21-erW8lV {
+  background-color: transparent;
+  height: 4px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 4px;
+}
+
+.ent-chat-providers .line-22-erW8lV {
+  background-color: transparent;
+  height: 10px;
+  left: 10px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.ent-chat-providers .mask-group-VH2czf {
+  background-color: transparent;
+  height: 50px;
+  left: 16px;
+  position: absolute;
+  top: 15px;
+  width: 50px;
+}
+
+.ent-chat-providers .group-2071-6ZWOAC {
+  background-color: transparent;
+  height: 79px;
+  left: 29px;
+  position: absolute;
+  top: 333px;
+  width: 341px;
+}
+
+.ent-chat-providers .rectangle-357-1FFI6h {
+  background-color: var(--cielo-claro);
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #0000001a;
+  height: 79px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 335px;
+}
+
+.ent-chat-providers .x203-pm-1FFI6h {
+  background-color: transparent;
+  height: auto;
+  left: 279px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+
+.ent-chat-providers .escribiendo-1FFI6h {
+  background-color: transparent;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 215px;
+}
+
+.ent-chat-providers .panadera-1FFI6h {
+  background-color: transparent;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.ent-chat-providers .mask-group-1FFI6h {
+  background-color: transparent;
+  height: 50px;
+  left: 16px;
+  position: absolute;
+  top: 15px;
+  width: 50px;
+}
+
+.ent-chat-providers .group-2072-6ZWOAC {
+  background-color: transparent;
+  height: 79px;
+  left: 29px;
+  position: absolute;
+  top: 432px;
+  width: 341px;
+}
+
+.ent-chat-providers .rectangle-358-mdH3U4 {
+  background-color: var(--cielo-claro);
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #0000001a;
+  height: 79px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 335px;
+}
+
+.ent-chat-providers .x1030-pm-mdH3U4 {
+  background-color: transparent;
+  height: auto;
+  left: 280px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+
+.ent-chat-providers .si-ya-llegaron-los-primeros-para-cundo-mdH3U4 {
+  background-color: transparent;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 202px;
+}
+
+.ent-chat-providers .distribuidor-mdH3U4 {
+  background-color: transparent;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.ent-chat-providers .group-341-mdH3U4 {
+  background-color: transparent;
+  height: 11px;
+  left: 297px;
+  position: absolute;
+  top: 52px;
+  width: 21px;
+}
+
+.ent-chat-providers .group-340-yQ4dZA {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.ent-chat-providers .line-21-7OObkA {
+  background-color: transparent;
+  height: 6px;
+  left: -1px;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.ent-chat-providers .line-22-7OObkA {
+  background-color: transparent;
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.ent-chat-providers .line-21-yQ4dZA {
+  background-color: transparent;
+  height: 4px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 4px;
+}
+
+.ent-chat-providers .line-22-yQ4dZA {
+  background-color: transparent;
+  height: 10px;
+  left: 10px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.ent-chat-providers .mask-group-mdH3U4 {
+  background-color: transparent;
+  height: 50px;
+  left: 16px;
+  position: absolute;
+  top: 15px;
+  width: 50px;
+}
+
+.ent-chat-providers .ellipse-36-mdH3U4 {
+  background-color: var(--text);
+  border-radius: 5px;
+  height: 10px;
+  left: 56px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 52px;
+  width: 10px;
+}
+
+.ent-chat-providers .clientes-proveedores-6ZWOAC {
+  background-color: transparent;
+  color: transparent;
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.ent-chat-providers .span0-uyCZMl {
+  font-style: normal;
+}
+
+.ent-chat-providers .span1-uyCZMl {
+  font-style: normal;
+}
+
+.ent-chat-providers .vector-6ZWOAC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 20px;
+  position: absolute;
+  top: 61px;
+  width: 9px;
+}
+
+.ent-chat-providers .status-bar-i-phone-13-13-pro-6ZWOAC {
+  background-color: transparent;
+  height: 47px;
+  left: 2px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-chat-providers .indicators-5ZVIr8 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-chat-providers .elements-signal-7LAztD {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-chat-providers .cellular-connection-vSOs0g {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-chat-providers .elements-connection-7LAztD {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-chat-providers .wifi-4yDJhR {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-chat-providers .elements-battery-7LAztD {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-chat-providers .border-2kk1kP {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-chat-providers .cap-2kk1kP {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-chat-providers .capacity-2kk1kP {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-chat-providers .mic-cam-5ZVIr8 {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-chat-providers .elements-time-5ZVIr8 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-chat-providers .time-MLFocR {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}

@@ -1,0 +1,448 @@
+/* screen - ent-new-save */
+
+.ent-new-save {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-new-save .status-bar-i-phone-13-13-pro-YDqxyK {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-new-save .indicators-4YUxck {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-new-save .elements-signal-y4xbeC {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-new-save .cellular-connection-9AQfPa {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-new-save .elements-connection-y4xbeC {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-new-save .wifi-6kZnfv {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-new-save .elements-battery-y4xbeC {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-new-save .border-bYQEvM {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-new-save .cap-bYQEvM {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-new-save .capacity-bYQEvM {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-new-save .mic-cam-4YUxck {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-new-save .elements-time-4YUxck {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-new-save .time-9ZvFpm {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-new-save .rectangle-1337-YDqxyK {
+  background-color: var(--cielo-claro);
+  cursor: pointer;
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 106px;
+  width: 390px;
+}
+
+.ent-new-save .camera-YDqxyK {
+  background-color: transparent;
+  height: 24px;
+  left: 183px;
+  position: absolute;
+  top: 200px;
+  width: 24px;
+}
+
+.ent-new-save .rectangle-354-rxomhj {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.ent-new-save .ellipse-57-rxomhj {
+  background-color: transparent;
+  border-radius: 5.06px;
+  height: 10px;
+  left: 7px;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
+
+.ent-new-save .aadir-nueva-imagen-YDqxyK {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 19.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 233px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.ent-new-save .nombre-del-plan-YDqxyK {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 364px;
+  width: 285px;
+}
+
+.ent-new-save .ej-para-mi-nueva-nevera-YDqxyK {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.2;
+  position: absolute;
+  text-align: left;
+  top: 387px;
+  width: 285px;
+}
+
+.ent-new-save .line-2-YDqxyK {
+  background-color: transparent;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 408px;
+  width: 354px;
+}
+
+.ent-new-save .cantidad-a-ahorrar-YDqxyK {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 427px;
+  width: 285px;
+}
+
+.ent-new-save .ej-1340000-YDqxyK {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.2;
+  position: absolute;
+  text-align: left;
+  top: 450px;
+  width: 285px;
+}
+
+.ent-new-save .line-3-YDqxyK {
+  background-color: transparent;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 472px;
+  width: 354px;
+}
+
+.ent-new-save .tiempo-lmite-estimado-YDqxyK {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 488px;
+  width: 285px;
+}
+
+.ent-new-save .ej-12072021-YDqxyK {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.2;
+  position: absolute;
+  text-align: left;
+  top: 511px;
+  width: 285px;
+}
+
+.ent-new-save .line-4-YDqxyK {
+  background-color: transparent;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 532px;
+  width: 354px;
+}
+
+.ent-new-save .group-293-YDqxyK {
+  background-color: transparent;
+  height: 38px;
+  left: 18px;
+  position: absolute;
+  top: 714px;
+  width: 354px;
+}
+
+.ent-new-save .rectangle-6-jFxMRJ {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.ent-new-save .group-313-jFxMRJ {
+  background-color: transparent;
+  height: 14px;
+  left: 77px;
+  position: absolute;
+  top: 10px;
+  width: 201px;
+}
+
+.ent-new-save .crear-nuevo-plan-de-ahorro-4PrgGC {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 185px;
+}
+
+.ent-new-save .union-4PrgGC {
+  background-color: transparent;
+  height: 10px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.ent-new-save .blink-custom-jewels-nuevo-ahorro-YDqxyK {
+  background-color: transparent;
+  height: auto;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.ent-new-save .span0-ZIjpxB {
+}
+
+.ent-new-save .span1-ZIjpxB {
+}
+
+.ent-new-save .nav-emprendimiento-YDqxyK {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-new-save .rectangle-1463-dQdqEt {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-new-save .union-dQdqEt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-new-save .union-VtxMGt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-new-save .union-kgpJZu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-new-save .union-WGH1GJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-new-save .vector-YDqxyK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 61px;
+  width: 9px;
+}

@@ -1,0 +1,388 @@
+/* screen - ent-pendient-pay-4 */
+
+.ent-pendient-pay-4 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-pendient-pay-4 .proveedores-gzQ0Zt {
+  background-color: transparent;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 328px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.ent-pendient-pay-4 .empleados-gzQ0Zt {
+  background-color: transparent;
+  height: auto;
+  left: 253px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 328px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.ent-pendient-pay-4 .deudas-gzQ0Zt {
+  background-color: transparent;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 526px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.ent-pendient-pay-4 .image-22-gzQ0Zt {
+  background-color: transparent;
+  height: 99px;
+  left: 250px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 218px;
+  width: 99px;
+}
+
+.ent-pendient-pay-4 .image-23-gzQ0Zt {
+  background-color: transparent;
+  height: 99px;
+  left: 55px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 99px;
+}
+
+.ent-pendient-pay-4 .image-25-gzQ0Zt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 99px;
+  left: 55px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 218px;
+  width: 99px;
+}
+
+.ent-pendient-pay-4 .otros-gzQ0Zt {
+  background-color: transparent;
+  height: auto;
+  left: 246px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 526px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.ent-pendient-pay-4 .image-24-gzQ0Zt {
+  background-color: transparent;
+  height: 99px;
+  left: 250px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 99px;
+}
+
+.ent-pendient-pay-4 .pagos-pendientes-gzQ0Zt {
+  background-color: transparent;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.ent-pendient-pay-4 .rectangle-8-gzQ0Zt {
+  background-color: transparent;
+  height: 72px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-pendient-pay-4 .status-bar-i-phone-13-13-pro-gzQ0Zt {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-pendient-pay-4 .indicators-enTYFx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-pendient-pay-4 .elements-signal-cwSu2W {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-pendient-pay-4 .cellular-connection-UzR9cd {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-pendient-pay-4 .elements-connection-cwSu2W {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-pendient-pay-4 .wifi-71LI95 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-pendient-pay-4 .elements-battery-cwSu2W {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-pendient-pay-4 .border-LJByEk {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-pendient-pay-4 .cap-LJByEk {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-pendient-pay-4 .capacity-LJByEk {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-pendient-pay-4 .mic-cam-enTYFx {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-pendient-pay-4 .elements-time-enTYFx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-pendient-pay-4 .time-beOJGA {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-pendient-pay-4 .selecciona-un-bolsillo-gzQ0Zt {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 331px;
+}
+
+.ent-pendient-pay-4 .nav-emprendimiento-gzQ0Zt {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-pendient-pay-4 .rectangle-1463-QzXcIe {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-pendient-pay-4 .union-QzXcIe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-pendient-pay-4 .union-HWlYQH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-pendient-pay-4 .union-wfHLA5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-pendient-pay-4 .union-6xsqvN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-pendient-pay-4 .vector-gzQ0Zt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.ent-pendient-pay-4 .group-2145-gzQ0Zt {
+  background-color: transparent;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 712px;
+  width: 261px;
+}
+
+.ent-pendient-pay-4 .rectangle-6-4JWAGt {
+  background-color: var(--cielo-claro);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.ent-pendient-pay-4 .enviar-4JWAGt {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 224px;
+}

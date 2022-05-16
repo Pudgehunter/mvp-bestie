@@ -1,0 +1,408 @@
+/* screen - ent-save-view-2 */
+
+.ent-save-view-2 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-save-view-2 .aadir-dinero-a-mi-ahorro-gyoNHt {
+  background-color: transparent;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.ent-save-view-2 .vector-gyoNHt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.ent-save-view-2 .image-20-gyoNHt {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-save-view-2 .status-bar-i-phone-13-13-pro-gyoNHt {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-save-view-2 .indicators-Duix1d {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-save-view-2 .elements-signal-YeQ6PW {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-save-view-2 .cellular-connection-xuCtsi {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-save-view-2 .elements-connection-YeQ6PW {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-save-view-2 .wifi-KE1V9s {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-save-view-2 .elements-battery-YeQ6PW {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-save-view-2 .border-Oc8pXI {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-save-view-2 .cap-Oc8pXI {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-save-view-2 .capacity-Oc8pXI {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-save-view-2 .mic-cam-Duix1d {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-save-view-2 .elements-time-Duix1d {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-save-view-2 .time-AyiZLS {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-save-view-2 .de-dnde-saldr-el-dinero-gyoNHt {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 331px;
+}
+
+.ent-save-view-2 .nav-emprendimiento-gyoNHt {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-save-view-2 .rectangle-1463-yBdiOY {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-save-view-2 .union-yBdiOY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-save-view-2 .union-VJLlQU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-save-view-2 .union-4TwYtY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-save-view-2 .union-uxNdxn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-save-view-2 .group-357-gyoNHt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 98px;
+  left: 160px;
+  position: absolute;
+  top: 248px;
+  width: 70px;
+}
+
+.ent-save-view-2 .disponible-200000-X6JXEI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 64px;
+  width: 68px;
+}
+
+.ent-save-view-2 .span0-mCcB8t {
+}
+
+.ent-save-view-2 .span1-mCcB8t {
+}
+
+.ent-save-view-2 .rectangle-1415-X6JXEI {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 37px;
+  left: 8px;
+  position: absolute;
+  top: -2px;
+  width: 54px;
+}
+
+.ent-save-view-2 .vector-136-X6JXEI {
+  background-color: transparent;
+  height: 2px;
+  left: 9px;
+  position: absolute;
+  top: 38px;
+  width: 51px;
+}
+
+.ent-save-view-2 .vector-137-X6JXEI {
+  background-color: transparent;
+  height: 2px;
+  left: 13px;
+  position: absolute;
+  top: 42px;
+  width: 44px;
+}
+
+.ent-save-view-2 .group-352-X6JXEI {
+  background-color: transparent;
+  height: 17px;
+  left: 27px;
+  position: absolute;
+  top: 8px;
+  width: 17px;
+}
+
+.ent-save-view-2 .ellipse-93-H3A42O {
+  background-color: transparent;
+  border-radius: 8.33px;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.ent-save-view-2 .union-H3A42O {
+  background-color: transparent;
+  height: 11px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.ent-save-view-2 .group-2127-gyoNHt {
+  background-color: transparent;
+  height: 100px;
+  left: 51px;
+  position: absolute;
+  top: 246px;
+  width: 74px;
+}
+
+.ent-save-view-2 .bolsillos-300000-j7YKgN {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 66px;
+  width: 72px;
+}
+
+.ent-save-view-2 .span0-TQ5LO0 {
+}
+
+.ent-save-view-2 .span1-TQ5LO0 {
+}
+
+.ent-save-view-2 .rectangle-1416-j7YKgN {
+  background-color: transparent;
+  height: 48px;
+  left: 15px;
+  position: absolute;
+  top: -0px;
+  width: 42px;
+}
+
+.ent-save-view-2 .rectangle-1417-j7YKgN {
+  background-color: transparent;
+  border-radius: 2px 2px 10px 10px;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.ent-save-view-2 .ellipse-104-j7YKgN {
+  background-color: var(--cielo-claro);
+  border-radius: 3.73px/3.5px;
+  height: 7px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.ent-save-view-2 .heart-j7YKgN {
+  background-color: transparent;
+  height: 17px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22px;
+  width: 19px;
+}

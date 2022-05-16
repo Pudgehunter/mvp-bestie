@@ -1,0 +1,500 @@
+/* screen - ent-admin-completed */
+
+.ent-admin-completed {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-admin-completed .frame-108-f2lvGl::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.ent-admin-completed .frame-108-f2lvGl {
+  background-color: transparent;
+  height: 393px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow-y: scroll;
+  position: absolute;
+  top: 376px;
+  width: 390px;
+}
+
+.ent-admin-completed .plus-oNUE0A {
+  background-color: transparent;
+  height: 83px;
+  left: 28px;
+  position: absolute;
+  top: 17px;
+  width: 83px;
+}
+
+.ent-admin-completed .plus-pho8G9 {
+  background-color: transparent;
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 29px;
+  width: 24px;
+}
+
+.ent-admin-completed .rectangle-1338-pho8G9 {
+  background-color: transparent;
+  border-radius: 13px;
+  height: 83px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.ent-admin-completed .plus-25BLm7 {
+  background-color: transparent;
+  height: 83px;
+  left: 28px;
+  position: absolute;
+  top: 130px;
+  width: 83px;
+}
+
+.ent-admin-completed .plus-I6BFlJ {
+  background-color: transparent;
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 28px;
+  width: 24px;
+}
+
+.ent-admin-completed .rectangle-1338-I6BFlJ {
+  background-color: transparent;
+  border-radius: 13px;
+  height: 83px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.ent-admin-completed .aadir-un-artculo-nuevo-oNUE0A {
+  background-color: transparent;
+  height: 25px;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-admin-completed .aadir-una-coleccin-nueva-oNUE0A {
+  background-color: transparent;
+  height: 25px;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-admin-completed .group-281-oNUE0A {
+  background-color: transparent;
+  height: 83px;
+  left: 28px;
+  position: absolute;
+  top: 365px;
+  width: 329px;
+}
+
+.ent-admin-completed .conjunto-army-ZbF2yH {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-admin-completed .cop-135000-ZbF2yH {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-admin-completed .rectangle-1339-ZbF2yH {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.ent-admin-completed .golden-set-oNUE0A {
+  background-color: transparent;
+  cursor: pointer;
+  height: 83px;
+  left: 28px;
+  position: absolute;
+  top: 247px;
+  width: 329px;
+}
+
+.ent-admin-completed .golden-set-fEj8rP {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-admin-completed .artculos-2-fEj8rP {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-admin-completed .rectangle-1337-fEj8rP {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.ent-admin-completed .line-6-oNUE0A {
+  background-color: transparent;
+  height: 1px;
+  left: 28px;
+  position: absolute;
+  top: 344px;
+  width: 334px;
+}
+
+.ent-admin-completed .line-7-oNUE0A {
+  background-color: transparent;
+  height: 1px;
+  left: 28px;
+  position: absolute;
+  top: 231px;
+  width: 334px;
+}
+
+.ent-admin-completed .group-272-f2lvGl {
+  background-color: transparent;
+  height: 237px;
+  left: 0px;
+  position: absolute;
+  top: 106px;
+  width: 390px;
+}
+
+.ent-admin-completed .rectangle-31-zMev9N {
+  background-color: transparent;
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-admin-completed .rectangle-1337-zMev9N {
+  background-color: var(--osc-intermedio);
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-admin-completed .status-bar-i-phone-13-13-pro-f2lvGl {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-admin-completed .indicators-dikD9c {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-admin-completed .elements-signal-asDex7 {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-admin-completed .cellular-connection-1P3tJF {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-admin-completed .elements-connection-asDex7 {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-admin-completed .wifi-xZI9jx {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-admin-completed .elements-battery-asDex7 {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-admin-completed .border-gzTIB0 {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-admin-completed .cap-gzTIB0 {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-admin-completed .capacity-gzTIB0 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-admin-completed .mic-cam-dikD9c {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-admin-completed .elements-time-dikD9c {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-admin-completed .time-CL10Z0 {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-admin-completed .admin-de-catlogo-f2lvGl {
+  background-color: transparent;
+  height: auto;
+  left: 131px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.ent-admin-completed .vector-f2lvGl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.ent-admin-completed .nav-emprendimiento-f2lvGl {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-admin-completed .rectangle-1463-GNvKMf {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-admin-completed .union-GNvKMf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-admin-completed .union-IwxGmx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-admin-completed .union-l2v41Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-admin-completed .union-Dy7xi5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-admin-completed .somos-una-empresa-su-f2lvGl {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 240px;
+  width: 303px;
+}
+
+.ent-admin-completed .blink-custom-jewels-f2lvGl {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 210px;
+  white-space: nowrap;
+  width: 257px;
+}

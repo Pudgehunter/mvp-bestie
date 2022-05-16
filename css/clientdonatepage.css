@@ -1,0 +1,571 @@
+/* screen - clientdonatepage */
+
+.clientdonatepage {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.clientdonatepage .union-o3Ja3T {
+  background-color: transparent;
+  height: 70px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 619px;
+  width: 321px;
+}
+
+.clientdonatepage .vector-o3Ja3T {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 19px;
+  position: absolute;
+  top: 46px;
+  width: 12px;
+}
+
+.clientdonatepage .quiero-donar-o3Ja3T {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  width: auto;
+}
+
+.clientdonatepage .rectangle-1331-o3Ja3T {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 32px;
+  position: absolute;
+  top: 342px;
+  width: 60px;
+}
+
+.clientdonatepage .elige-el-regalo-o3Ja3T {
+  background-color: transparent;
+  height: auto;
+  left: 144px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  width: auto;
+}
+
+.clientdonatepage .x500-o3Ja3T {
+  background-color: transparent;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 404px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.clientdonatepage .x12000-o3Ja3T {
+  background-color: transparent;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 404px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.clientdonatepage .ellipse-82-o3Ja3T {
+  background-color: var(--amarillo);
+  border-radius: 11px;
+  height: 22px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 385px;
+  width: 22px;
+}
+
+.clientdonatepage .x2-o3Ja3T {
+  background-color: transparent;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: auto;
+}
+
+.clientdonatepage .rectangle-1332-o3Ja3T {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 109px;
+  position: absolute;
+  top: 342px;
+  width: 60px;
+}
+
+.clientdonatepage .ellipse-83-o3Ja3T {
+  background-color: var(--pink);
+  border-radius: 11px;
+  height: 22px;
+  left: 158px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 385px;
+  width: 22px;
+}
+
+.clientdonatepage .x1-o3Ja3T {
+  background-color: transparent;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: auto;
+}
+
+.clientdonatepage .si-no-tienes-el-regalo-que-ests-buscando-o3Ja3T {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 451px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.clientdonatepage .adquiere-aqu-ms-stickers-o3Ja3T {
+  background-color: transparent;
+  color: var(--star-dust);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 468px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.clientdonatepage .blinkcustom-o3Ja3T {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 555px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.clientdonatepage .x15000-o3Ja3T {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 594px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.clientdonatepage .confirma-tu-envo-o3Ja3T {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 509px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.clientdonatepage .cuenta-o3Ja3T {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 538px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.clientdonatepage .valor-de-tu-regalo-o3Ja3T {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 577px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.clientdonatepage .deja-tu-mensaje-o3Ja3T {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 624px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.clientdonatepage .deja-tu-mensaje-o3Ja3T::placeholder {
+  color: #4e4b6699;
+}
+
+.clientdonatepage .rectangle-1334-o3Ja3T {
+  background-color: var(--rosa-claro);
+  border-radius: 18px;
+  height: 4px;
+  left: 196px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 519px;
+  width: 153px;
+}
+
+.clientdonatepage .group-231-o3Ja3T {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 109px;
+  position: absolute;
+  top: 704px;
+  width: 163px;
+}
+
+.clientdonatepage .rectangle-6-u7rxFt {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.clientdonatepage .enviar-u7rxFt {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}
+
+.clientdonatepage .donar-img-o3Ja3T {
+  background-color: transparent;
+  height: 186px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 84px;
+  width: 390px;
+}
+
+.clientdonatepage .pexels-photo-by-antoni-shkraba-IELCkK {
+  background-color: transparent;
+  height: 186px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.clientdonatepage .rectangle-1352-IELCkK {
+  background-color: transparent;
+  height: 186px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.clientdonatepage .image00007-o3Ja3T {
+  background-color: transparent;
+  height: 64px;
+  left: 116px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 340px;
+  width: 42px;
+}
+
+.clientdonatepage .image00003-o3Ja3T {
+  background-color: transparent;
+  height: 45px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 350px;
+  width: 47px;
+}
+
+.clientdonatepage .nav-client-o3Ja3T {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 770px;
+  width: 390px;
+}
+
+.clientdonatepage .rectangle-1463-pKBz8g {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.clientdonatepage .union-pKBz8g {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.clientdonatepage .union-DaKdUX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.clientdonatepage .union-zyTRli {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.clientdonatepage .union-kfAKJ3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.clientdonatepage .status-bar-i-phone-13-13-pro-o3Ja3T {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.clientdonatepage .indicators-8zYO3S {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.clientdonatepage .elements-signal-XXYBV8 {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.clientdonatepage .cellular-connection-20uakR {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.clientdonatepage .elements-connection-XXYBV8 {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.clientdonatepage .wifi-kFzL8s {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.clientdonatepage .elements-battery-XXYBV8 {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.clientdonatepage .border-E2h9cU {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.clientdonatepage .cap-E2h9cU {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.clientdonatepage .capacity-E2h9cU {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.clientdonatepage .mic-cam-8zYO3S {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.clientdonatepage .elements-time-8zYO3S {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.clientdonatepage .time-xsun6F {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}

@@ -1,0 +1,512 @@
+/* screen - client-phone-overlay */
+
+.client-phone-overlay {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-phone-overlay .rectangle-1325-nPjKvE {
+  background-color: transparent;
+  height: 174px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -3px;
+  width: 390px;
+}
+
+.client-phone-overlay .group-119-nPjKvE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: 35px;
+  position: absolute;
+  top: 108px;
+  width: 7px;
+}
+
+.client-phone-overlay .group-98-FQZBni {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+
+.client-phone-overlay .line-10-lKE8HG {
+  background-color: transparent;
+  height: 8px;
+  left: -1px;
+  position: absolute;
+  top: -0px;
+  width: 8px;
+}
+
+.client-phone-overlay .line-11-lKE8HG {
+  background-color: transparent;
+  height: 8px;
+  left: -0px;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+
+.client-phone-overlay .line-12-FQZBni {
+  background-color: transparent;
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  top: 5px;
+  width: 3px;
+}
+
+.client-phone-overlay .recarga-celular-nPjKvE {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 101px;
+  width: auto;
+}
+
+.client-phone-overlay .nav-client-nPjKvE {
+  background-color: var(--white);
+  height: 75px;
+  left: -1px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-phone-overlay .rectangle-1463-8xdF37 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-phone-overlay .union-8xdF37 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-phone-overlay .union-g4Xbbh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-phone-overlay .union-ClqQBx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-phone-overlay .union-nrv0XU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-phone-overlay .group-233-nPjKvE {
+  background-color: transparent;
+  height: 38px;
+  left: 114px;
+  position: absolute;
+  top: 623px;
+  width: 163px;
+}
+
+.client-phone-overlay .rectangle-6-nHeFZp {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.client-phone-overlay .enviar-nHeFZp {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}
+
+.client-phone-overlay .component-18-nPjKvE {
+  background-color: transparent;
+  height: 19px;
+  left: 56px;
+  position: absolute;
+  top: 232px;
+  width: 280px;
+}
+
+.client-phone-overlay .line-27-zqUotc {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 19px;
+  width: 280px;
+}
+
+.client-phone-overlay .celular-zqUotc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 254px;
+}
+
+.client-phone-overlay .component-18-QOIY0k {
+  background-color: transparent;
+  height: 23px;
+  left: 55px;
+  position: absolute;
+  top: 358px;
+  width: 281px;
+}
+
+.client-phone-overlay .line-15-LDtU5P {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 280px;
+}
+
+.client-phone-overlay .cunto-LDtU5P {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 254px;
+}
+
+.client-phone-overlay .operador-selector-nPjKvE {
+  background-color: transparent;
+  height: 23px;
+  left: 55px;
+  position: absolute;
+  top: 293px;
+  width: 281px;
+}
+
+.client-phone-overlay .line-14-scvf6p {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 280px;
+}
+
+.client-phone-overlay .operador-scvf6p {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 254px;
+}
+
+.client-phone-overlay .vector-scvf6p {
+  background-color: transparent;
+  height: 12px;
+  left: 252px;
+  position: absolute;
+  top: 4px;
+  width: 24px;
+}
+
+.client-phone-overlay .intersect-nPjKvE {
+  background-color: transparent;
+  height: 73px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-phone-overlay .status-bar-i-phone-13-13-pro-nPjKvE {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.client-phone-overlay .indicators-UNJ1cG {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-phone-overlay .elements-signal-H8qQBu {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-phone-overlay .cellular-connection-Uj5Z2o {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-phone-overlay .elements-connection-H8qQBu {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-phone-overlay .wifi-xqFHyf {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-phone-overlay .elements-battery-H8qQBu {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-phone-overlay .border-jV3aPb {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-phone-overlay .cap-jV3aPb {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-phone-overlay .capacity-jV3aPb {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-phone-overlay .mic-cam-UNJ1cG {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-phone-overlay .elements-time-UNJ1cG {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-phone-overlay .time-SWxjra {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-phone-overlay .fondo-nPjKvE {
+  background-color: transparent;
+  height: 844px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-phone-overlay .recarga-ready-nPjKvE {
+  background-color: transparent;
+  height: 179px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 333px;
+  width: 330px;
+}
+
+.client-phone-overlay .group-1971-fElzbF {
+  background-color: transparent;
+  height: 179px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 334px;
+}
+
+.client-phone-overlay .rectangle-1465-voVkGI {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 179px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 330px;
+}
+
+.client-phone-overlay .bestie-voVkGI {
+  background-color: transparent;
+  height: 25px;
+  left: 121px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 53px;
+  width: 88px;
+}
+
+.client-phone-overlay .recarga-exitosa-sigue-disfrutando-voVkGI {
+  background-color: transparent;
+  height: 42px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 91px;
+  width: 210px;
+}
+
+.client-phone-overlay .group-2041-fElzbF {
+  background-color: transparent;
+  height: 26px;
+  left: 284px;
+  position: absolute;
+  top: 15px;
+  width: 26px;
+}
+
+.client-phone-overlay .rectangle-71-FZRUQ2 {
+  background-color: var(--cielo);
+  border-radius: 4.94px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+
+.client-phone-overlay .group-1981-FZRUQ2 {
+  background-color: transparent;
+  height: 12px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 13px;
+}

@@ -1,0 +1,373 @@
+/* screen - client-withdraw1 */
+
+.client-withdraw1 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-withdraw1 .status-bar-i-phone-13-13-pro-5Ka7rZ {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-withdraw1 .indicators-MTDYO4 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-withdraw1 .elements-signal-XOkIxI {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-withdraw1 .cellular-connection-iVEmYx {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-withdraw1 .elements-connection-XOkIxI {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-withdraw1 .wifi-6hn3KB {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-withdraw1 .elements-battery-XOkIxI {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-withdraw1 .border-99NySB {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-withdraw1 .cap-99NySB {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-withdraw1 .capacity-99NySB {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-withdraw1 .mic-cam-MTDYO4 {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-withdraw1 .elements-time-MTDYO4 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-withdraw1 .time-txOaMY {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-withdraw1 .group-293-5Ka7rZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 18px;
+  position: absolute;
+  top: 714px;
+  width: 354px;
+}
+
+.client-withdraw1 .rectangle-6-1MB5dq {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.client-withdraw1 .group-313-1MB5dq {
+  background-color: transparent;
+  height: 14px;
+  left: 123px;
+  position: absolute;
+  top: 10px;
+  width: 123px;
+}
+
+.client-withdraw1 .retirar-dinero-0wjQdk {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 121px;
+}
+
+.client-withdraw1 .vector-5Ka7rZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 61px;
+  width: 9px;
+}
+
+.client-withdraw1 .vamos-por-1560000-5Ka7rZ {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  width: 157px;
+}
+
+.client-withdraw1 .meta-1560000-5Ka7rZ {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 389px;
+  width: 125px;
+}
+
+.client-withdraw1 .span0-8OnGqy {
+}
+
+.client-withdraw1 .span1-8OnGqy {
+}
+
+.client-withdraw1 .rectangle-34-5Ka7rZ {
+  background-color: transparent;
+  height: 5px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 381px;
+  width: 352px;
+}
+
+.client-withdraw1 .mi-prximo-celu-5Ka7rZ {
+  background-color: transparent;
+  color: var(--text);
+  font-family: var(--font-family-inter);
+  font-size: 15.5px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  width: 199px;
+}
+
+.client-withdraw1 .felicitaciones-compl-5Ka7rZ {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 422px;
+  width: 324px;
+}
+
+.client-withdraw1 .ahora-es-momento-de-5Ka7rZ {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 448px;
+  width: 345px;
+}
+
+.client-withdraw1 .nav-client-5Ka7rZ {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-withdraw1 .rectangle-1463-Q5ExMb {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-withdraw1 .union-Q5ExMb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-withdraw1 .union-ahNDqr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-withdraw1 .union-OzNki4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-withdraw1 .union-N7FHSg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-withdraw1 .image-19-5Ka7rZ {
+  background-color: transparent;
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 123px;
+  width: 390px;
+}
+
+.client-withdraw1 .camila-montoya-retirar-5Ka7rZ {
+  background-color: transparent;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.client-withdraw1 .span0-NNCqSC {
+}
+
+.client-withdraw1 .span1-NNCqSC {
+}

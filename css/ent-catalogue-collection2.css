@@ -1,0 +1,633 @@
+/* screen - ent-catalogue-collection2 */
+
+.ent-catalogue-collection2 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-catalogue-collection2 .group-272-G4xdT9 {
+  background-color: transparent;
+  height: 237px;
+  left: 0px;
+  position: absolute;
+  top: 106px;
+  width: 390px;
+}
+
+.ent-catalogue-collection2 .rectangle-31-qxUptj {
+  background-color: transparent;
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-catalogue-collection2 .rectangle-1337-qxUptj {
+  background-color: var(--osc-intermedio);
+  height: 237px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-catalogue-collection2 .nav-emprendimiento-variant2-G4xdT9 {
+  background-color: transparent;
+  box-shadow: 0px -6px 13px #0000000a;
+  height: 75px;
+  left: 0px;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-catalogue-collection2 .rectangle-1307-UYQ0xJ {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-catalogue-collection2 .group-32-UYQ0xJ {
+  background-color: transparent;
+  height: 17px;
+  left: 15px;
+  position: absolute;
+  top: 40px;
+  width: 70px;
+}
+
+.ent-catalogue-collection2 .home-FHfxVk {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.ent-catalogue-collection2 .group-34-UYQ0xJ {
+  background-color: transparent;
+  height: 12px;
+  left: 117px;
+  position: absolute;
+  top: 40px;
+  width: 64px;
+}
+
+.ent-catalogue-collection2 .estadsticas-2TxcJZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.ent-catalogue-collection2 .group-35-UYQ0xJ {
+  background-color: transparent;
+  height: 12px;
+  left: 212px;
+  position: absolute;
+  top: 40px;
+  width: 64px;
+}
+
+.ent-catalogue-collection2 .proyectos-DivIFe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.ent-catalogue-collection2 .home-UYQ0xJ {
+  background-color: transparent;
+  height: 24px;
+  left: 37px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.ent-catalogue-collection2 .chart-pie-UYQ0xJ {
+  background-color: transparent;
+  height: 24px;
+  left: 136px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.ent-catalogue-collection2 .ellipse-41-sx4tm0 {
+  background-color: transparent;
+  height: 21px;
+  left: -0px;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.ent-catalogue-collection2 .ellipse-42-sx4tm0 {
+  background-color: transparent;
+  height: 12px;
+  left: 11px;
+  position: absolute;
+  top: -0px;
+  width: 12px;
+}
+
+.ent-catalogue-collection2 .paste-UYQ0xJ {
+  background-color: transparent;
+  height: 24px;
+  left: 231px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.ent-catalogue-collection2 .rectangle-337-OPLEtl {
+  background-color: transparent;
+  height: 22px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+
+.ent-catalogue-collection2 .rectangle-338-OPLEtl {
+  background-color: transparent;
+  border: 2.0px solid var(--gray-icon);
+  border-radius: 2.02px;
+  height: 7px;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.ent-catalogue-collection2 .group-36-UYQ0xJ {
+  background-color: transparent;
+  height: 17px;
+  left: 307px;
+  position: absolute;
+  top: 40px;
+  width: 70px;
+}
+
+.ent-catalogue-collection2 .perfil-ftklrC {
+  background-color: transparent;
+  color: #389bec;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.ent-catalogue-collection2 .profile-UYQ0xJ {
+  background-color: transparent;
+  height: 24px;
+  left: 329px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.ent-catalogue-collection2 .rectangle-1322-UYQ0xJ {
+  background-color: var(--cielo);
+  height: 2px;
+  left: 301px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.ent-catalogue-collection2 .status-bar-i-phone-13-13-pro-G4xdT9 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-catalogue-collection2 .indicators-JpxFTS {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-catalogue-collection2 .elements-signal-pm9xjB {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-catalogue-collection2 .cellular-connection-GNeJes {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-catalogue-collection2 .elements-connection-pm9xjB {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-catalogue-collection2 .wifi-RUs4ym {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-catalogue-collection2 .elements-battery-pm9xjB {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-catalogue-collection2 .border-p4RDuJ {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-catalogue-collection2 .cap-p4RDuJ {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-catalogue-collection2 .capacity-p4RDuJ {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-catalogue-collection2 .mic-cam-JpxFTS {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-catalogue-collection2 .elements-time-JpxFTS {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-catalogue-collection2 .time-7x0TH0 {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-catalogue-collection2 .admin-de-catlogo-G4xdT9 {
+  background-color: transparent;
+  height: auto;
+  left: 131px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.ent-catalogue-collection2 .vector-G4xdT9 {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.ent-catalogue-collection2 .plus-G4xdT9 {
+  background-color: transparent;
+  height: 83px;
+  left: 28px;
+  position: absolute;
+  top: 393px;
+  width: 83px;
+}
+
+.ent-catalogue-collection2 .plus-ZC5g8b {
+  background-color: transparent;
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 29px;
+  width: 24px;
+}
+
+.ent-catalogue-collection2 .rectangle-1338-ZC5g8b {
+  background-color: transparent;
+  border-radius: 13px;
+  height: 83px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.ent-catalogue-collection2 .plus-SHjpgg {
+  background-color: transparent;
+  height: 83px;
+  left: 28px;
+  position: absolute;
+  top: 506px;
+  width: 83px;
+}
+
+.ent-catalogue-collection2 .plus-c181s8 {
+  background-color: transparent;
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 28px;
+  width: 24px;
+}
+
+.ent-catalogue-collection2 .rectangle-1338-c181s8 {
+  background-color: transparent;
+  border-radius: 13px;
+  height: 83px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.ent-catalogue-collection2 .aadir-un-artculo-nuevo-G4xdT9 {
+  background-color: transparent;
+  height: 25px;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 421px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-catalogue-collection2 .aadir-una-coleccin-nueva-G4xdT9 {
+  background-color: transparent;
+  height: 25px;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 533px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-catalogue-collection2 .blink-custom-jewels-G4xdT9 {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 210px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.ent-catalogue-collection2 .somos-una-empresa-su-G4xdT9 {
+  background-color: transparent;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 240px;
+  width: 303px;
+}
+
+.ent-catalogue-collection2 .rectangle-1315-G4xdT9 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: #c4c4c433;
+  height: 810px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 47px;
+  width: 390px;
+}
+
+.ent-catalogue-collection2 .rectangle-1316-G4xdT9 {
+  background-color: var(--cielo);
+  border-radius: 10px 10px 0px 0px;
+  height: 325px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 519px;
+  width: 390px;
+}
+
+.ent-catalogue-collection2 .nombre-de-la-coleccin-G4xdT9 {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 558px;
+  width: 316px;
+}
+
+.ent-catalogue-collection2 .golden-set-G4xdT9 {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 598px;
+  width: 316px;
+}
+
+.ent-catalogue-collection2 .line-4-G4xdT9 {
+  background-color: transparent;
+  height: 1px;
+  left: 34px;
+  position: absolute;
+  top: 618px;
+  width: 334px;
+}
+
+.ent-catalogue-collection2 .group-2171-G4xdT9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  left: 212px;
+  position: absolute;
+  top: 670px;
+  width: 159px;
+}
+
+.ent-catalogue-collection2 .rectangle-1321-zx9x6g {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 157px;
+}
+
+.ent-catalogue-collection2 .siguiente-zx9x6g {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 157px;
+}
+
+.ent-catalogue-collection2 .cancelar-btn-G4xdT9 {
+  background-color: transparent;
+  height: 42px;
+  left: 35px;
+  position: absolute;
+  top: 670px;
+  width: 157px;
+}
+
+.ent-catalogue-collection2 .rectangle-1320-I9bEUy {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 157px;
+}
+
+.ent-catalogue-collection2 .cancelar-I9bEUy {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 157px;
+}

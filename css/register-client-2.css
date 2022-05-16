@@ -1,0 +1,206 @@
+/* screen - register-client-2 */
+
+.register-client-2 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.register-client-2 .te-enviaremos-un-cdi-oWbWWD {
+  background-color: transparent;
+  height: auto;
+  left: 58px;
+  letter-spacing: -0.48px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 211px;
+  width: 284px;
+}
+
+.register-client-2 .vector-1-oWbWWD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 24px;
+  position: absolute;
+  top: 48px;
+  width: 10px;
+}
+
+.register-client-2 .rectangle-34-oWbWWD {
+  background-color: transparent;
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  position: absolute;
+  top: 50px;
+  width: 298px;
+}
+
+.register-client-2 .rectangle-35-oWbWWD {
+  background-color: var(--cielo);
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 135px;
+}
+
+.register-client-2 .verificacin-oWbWWD {
+  background-color: transparent;
+  height: auto;
+  left: 148px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 91px;
+  width: auto;
+}
+
+.register-client-2 .group-232-oWbWWD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 618px;
+  width: 259px;
+}
+
+.register-client-2 .rectangle-6-BnhmAo {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.register-client-2 .enviar-BnhmAo {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.register-client-2 .reenviar-cdigo-oWbWWD {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 459px;
+  width: 336px;
+}
+
+.register-client-2 .utilizar-otro-medio-de-verificacin-oWbWWD {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 481px;
+  width: 336px;
+}
+
+.register-client-2 .cdigo-verificacin-oWbWWD {
+  background-color: transparent;
+  height: 84px;
+  left: 28px;
+  overflow: hidden;
+  position: absolute;
+  top: 319px;
+  width: 336px;
+}
+
+.register-client-2 .rectangle-31-Y0Izio {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 84px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 52px;
+}
+
+.register-client-2 .rectangle-36-Y0Izio {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 84px;
+  left: 57px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 52px;
+}
+
+.register-client-2 .rectangle-37-Y0Izio {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 84px;
+  left: 114px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 52px;
+}
+
+.register-client-2 .rectangle-38-Y0Izio {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 84px;
+  left: 171px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 52px;
+}
+
+.register-client-2 .rectangle-39-Y0Izio {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 84px;
+  left: 227px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 52px;
+}
+
+.register-client-2 .rectangle-40-Y0Izio {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 84px;
+  left: 284px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 52px;
+}

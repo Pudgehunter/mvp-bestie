@@ -1,0 +1,280 @@
+/* screen - home-client-history */
+
+.home-client-history {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.home-client-history .rectangle-1337-ZPsyQR {
+  background-color: transparent;
+  height: 844px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -196px;
+  width: 390px;
+}
+
+.home-client-history .rectangle-16-ZPsyQR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 18px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 36px;
+}
+
+.home-client-history .status-bar-i-phone-13-13-pro-ZPsyQR {
+  background-color: var(--black);
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.home-client-history .indicators-xnY37D {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.home-client-history .elements-signal-DAagah {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.home-client-history .cellular-connection-t3K3bZ {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.home-client-history .elements-connection-DAagah {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.home-client-history .wifi-8l3xq4 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.home-client-history .elements-battery-DAagah {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.home-client-history .border-r40VwF {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.home-client-history .cap-r40VwF {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.home-client-history .capacity-r40VwF {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.home-client-history .mic-cam-xnY37D {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.home-client-history .elements-time-xnY37D {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.home-client-history .time-UEdoiq {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home-client-history .blink-custom-jewels-ZPsyQR {
+  background-color: transparent;
+  height: auto;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 69px;
+  width: 163px;
+}
+
+.home-client-history .x20-min-ZPsyQR {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 86px;
+  width: 39px;
+}
+
+.home-client-history .barrita-historia-ZPsyQR {
+  background-color: transparent;
+  height: 3px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 58px;
+  width: 359px;
+}
+
+.home-client-history .entrepreneur-enter-button-ZPsyQR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 18px;
+  position: absolute;
+  top: 709px;
+  width: 356px;
+}
+
+.home-client-history .rectangle-6-eHZSII {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 354px;
+}
+
+.home-client-history .ir-al-perfil-de-blink-jewels-eHZSII {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 297px;
+}
+
+.home-client-history .group-40-ZPsyQR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: 348px;
+  position: absolute;
+  top: 71px;
+  width: 26px;
+}
+
+.home-client-history .rectangle-71-Wbp1ma {
+  background-color: var(--cielo);
+  border-radius: 4.94px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+
+.home-client-history .vector-10-Wbp1ma {
+  background-color: transparent;
+  height: 12px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 13px;
+}
+
+.home-client-history .vector-11-Wbp1ma {
+  background-color: transparent;
+  height: 12px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 13px;
+}

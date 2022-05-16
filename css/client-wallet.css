@@ -1,0 +1,832 @@
+/* screen - client-wallet */
+
+.client-wallet {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-wallet .rectangle-1325-QYPv8w {
+  background-color: transparent;
+  height: 313px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -3px;
+  width: 390px;
+}
+
+.client-wallet .billetera-QYPv8w {
+  background-color: transparent;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 92px;
+  width: auto;
+}
+
+.client-wallet .saldo-actual-QYPv8w {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 139px;
+  width: auto;
+}
+
+.client-wallet .x200000-QYPv8w {
+  background-color: transparent;
+  height: auto;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 159px;
+  width: auto;
+}
+
+.client-wallet .group-2030-QYPv8w {
+  background-color: transparent;
+  height: 35px;
+  left: 213px;
+  position: absolute;
+  top: 218px;
+  width: 118px;
+}
+
+.client-wallet .rectangle-1326-G8JV30 {
+  background-color: var(--rosa-claro);
+  border-radius: 12px;
+  cursor: pointer;
+  height: 35px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 116px;
+}
+
+.client-wallet .bolsillos-G8JV30 {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: 59px;
+}
+
+.client-wallet .group-119-QYPv8w {
+  background-color: transparent;
+  height: 14px;
+  left: 32px;
+  position: absolute;
+  top: 44px;
+  width: 23px;
+}
+
+.client-wallet .group-98-bJD7qK {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+
+.client-wallet .line-10-iGxFGn {
+  background-color: transparent;
+  height: 8px;
+  left: -1px;
+  position: absolute;
+  top: -0px;
+  width: 8px;
+}
+
+.client-wallet .line-11-iGxFGn {
+  background-color: transparent;
+  height: 8px;
+  left: -0px;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+
+.client-wallet .line-12-bJD7qK {
+  background-color: transparent;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 5px;
+  width: 21px;
+}
+
+.client-wallet .nav-client-QYPv8w {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-wallet .rectangle-1463-X9c1wt {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-wallet .union-X9c1wt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-wallet .union-0KvGed {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-wallet .union-3l6CHQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-wallet .union-jYG7iU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-wallet .group-2031-QYPv8w {
+  background-color: transparent;
+  height: 35px;
+  left: 66px;
+  position: absolute;
+  top: 218px;
+  width: 118px;
+}
+
+.client-wallet .rectangle-1321-kls8v1 {
+  background-color: var(--rosa-claro);
+  border-radius: 12px;
+  cursor: pointer;
+  height: 35px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 116px;
+}
+
+.client-wallet .movimientos-kls8v1 {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 95px;
+}
+
+.client-wallet .group-2015-QYPv8w {
+  background-color: transparent;
+  height: 102px;
+  left: 39px;
+  position: absolute;
+  top: 334px;
+  width: 82px;
+}
+
+.client-wallet .rectangle-1466-KxlkqV {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.client-wallet .transferencia-KxlkqV {
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 85px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.client-wallet .group-KxlkqV {
+  background-color: transparent;
+  height: 38px;
+  left: 26px;
+  position: absolute;
+  top: 19px;
+  width: 34px;
+}
+
+.client-wallet .group-2022-QYPv8w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 120px;
+  left: 155px;
+  position: absolute;
+  top: 580px;
+  width: 82px;
+}
+
+.client-wallet .rectangle-1474-MpnxJ9 {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.client-wallet .vector-MpnxJ9 {
+  background-color: transparent;
+  height: 38px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 20px;
+  width: 23px;
+}
+
+.client-wallet .vector-I05cBl {
+  background-color: transparent;
+  height: 2px;
+  left: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 54px;
+  width: 4px;
+}
+
+.client-wallet .recarga-de-celular-MpnxJ9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 87px;
+  width: 80px;
+}
+
+.client-wallet .group-MpnxJ9 {
+  background-color: transparent;
+  height: 20px;
+  left: 32px;
+  position: absolute;
+  top: 31px;
+  width: 26px;
+}
+
+.client-wallet .group-2017-QYPv8w {
+  background-color: transparent;
+  height: 101px;
+  left: 268px;
+  position: absolute;
+  top: 335px;
+  width: 89px;
+}
+
+.client-wallet .rectangle-1469-QNqmcz {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.client-wallet .servicios-pblicos-QNqmcz {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 87px;
+  white-space: nowrap;
+  width: 87px;
+}
+
+.client-wallet .group-QNqmcz {
+  background-color: transparent;
+  height: 42px;
+  left: 24px;
+  position: absolute;
+  top: 17px;
+  width: 45px;
+}
+
+.client-wallet .group-2020-QYPv8w {
+  background-color: transparent;
+  height: 123px;
+  left: 39px;
+  position: absolute;
+  top: 455px;
+  width: 82px;
+}
+
+.client-wallet .rectangle-1470-2XyN6o {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.client-wallet .energa-prepago-2XyN6o {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  width: 80px;
+}
+
+.client-wallet .group-2XyN6o {
+  background-color: transparent;
+  height: 46px;
+  left: 22px;
+  position: absolute;
+  top: 15px;
+  width: 36px;
+}
+
+.client-wallet .group-2018-QYPv8w {
+  background-color: transparent;
+  height: 123px;
+  left: 155px;
+  position: absolute;
+  top: 455px;
+  width: 82px;
+}
+
+.client-wallet .rectangle-1471-cTUjcd {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.client-wallet .tv-internet-y-telefona-cTUjcd {
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  width: 68px;
+}
+
+.client-wallet .group-cTUjcd {
+  background-color: transparent;
+  height: 34px;
+  left: 19px;
+  position: absolute;
+  top: 23px;
+  width: 41px;
+}
+
+.client-wallet .group-2019-QYPv8w {
+  background-color: transparent;
+  height: 107px;
+  left: 271px;
+  position: absolute;
+  top: 455px;
+  width: 82px;
+}
+
+.client-wallet .rectangle-1472-TnGD0r {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.client-wallet .pago-admin-TnGD0r {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.client-wallet .group-TnGD0r {
+  background-color: transparent;
+  height: 34px;
+  left: 22px;
+  position: absolute;
+  top: 23px;
+  width: 41px;
+}
+
+.client-wallet .group-2021-QYPv8w {
+  background-color: transparent;
+  height: 120px;
+  left: 39px;
+  position: absolute;
+  top: 580px;
+  width: 82px;
+}
+
+.client-wallet .rectangle-1473-0XBfZx {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.client-wallet .pago-tarjetas-de-crdito-0XBfZx {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 87px;
+  width: 68px;
+}
+
+.client-wallet .group-0XBfZx {
+  background-color: transparent;
+  height: 34px;
+  left: 20px;
+  position: absolute;
+  top: 23px;
+  width: 43px;
+}
+
+.client-wallet .group-2023-QYPv8w {
+  background-color: transparent;
+  height: 121px;
+  left: 271px;
+  position: absolute;
+  top: 579px;
+  width: 82px;
+}
+
+.client-wallet .rectangle-1475-ZqTyGk {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.client-wallet .recarga-tu-pasaje-mio-ZqTyGk {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 88px;
+  width: 79px;
+}
+
+.client-wallet .vector-ZqTyGk {
+  background-color: transparent;
+  height: 36px;
+  left: 23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22px;
+  width: 37px;
+}
+
+.client-wallet .rectangle-8-QYPv8w {
+  background-color: transparent;
+  height: 72px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.client-wallet .status-bar-i-phone-13-13-pro-QYPv8w {
+  background-color: transparent;
+  height: 47px;
+  left: -1px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-wallet .indicators-hUWTlr {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-wallet .elements-signal-NH6OJw {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-wallet .cellular-connection-qMLmCE {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-wallet .elements-connection-NH6OJw {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-wallet .wifi-vbEzvt {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-wallet .elements-battery-NH6OJw {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-wallet .border-3LFxFY {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-wallet .cap-3LFxFY {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-wallet .capacity-3LFxFY {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-wallet .mic-cam-hUWTlr {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-wallet .elements-time-hUWTlr {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-wallet .time-lGAZox {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-wallet .group-2016-QYPv8w {
+  background-color: transparent;
+  height: 102px;
+  left: 155px;
+  position: absolute;
+  top: 334px;
+  width: 80px;
+}
+
+.client-wallet .rectangle-1468-ucfVJn {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.client-wallet .group-360-ucfVJn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 84px;
+  left: 6px;
+  position: absolute;
+  top: 18px;
+  width: 70px;
+}
+
+.client-wallet .ahorrar-Wx2iMX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 67px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.client-wallet .group-341-Wx2iMX {
+  background-color: transparent;
+  height: 40px;
+  left: 13px;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.client-wallet .ellipse-93-xAChI9 {
+  background-color: transparent;
+  border-radius: 11.26px;
+  height: 23px;
+  left: 13px;
+  position: absolute;
+  top: 0px;
+  width: 23px;
+}
+
+.client-wallet .rectangle-1406-xAChI9 {
+  background-color: transparent;
+  border-radius: 1.15px;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  top: 24px;
+  width: 8px;
+}
+
+.client-wallet .vector-133-xAChI9 {
+  background-color: transparent;
+  height: 15px;
+  left: 6px;
+  position: absolute;
+  top: 24px;
+  width: 36px;
+}
+
+.client-wallet .union-xAChI9 {
+  background-color: transparent;
+  height: 15px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}

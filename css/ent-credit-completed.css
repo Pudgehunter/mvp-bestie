@@ -1,0 +1,522 @@
+/* screen - ent-credit-completed */
+
+.ent-credit-completed {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-credit-completed .rectangle-8-Z28xhK {
+  background-color: transparent;
+  height: 72px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-credit-completed .status-bar-i-phone-13-13-pro-Z28xhK {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-credit-completed .indicators-Ug6XFy {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-credit-completed .elements-signal-MIboZS {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-credit-completed .cellular-connection-86nMAD {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-credit-completed .elements-connection-MIboZS {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-credit-completed .wifi-Y0Sbe2 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-credit-completed .elements-battery-MIboZS {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-credit-completed .border-mcjvKh {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-credit-completed .cap-mcjvKh {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-credit-completed .capacity-mcjvKh {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-credit-completed .mic-cam-Ug6XFy {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-credit-completed .elements-time-Ug6XFy {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-credit-completed .time-RAw1xr {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-credit-completed .monto-a-pedir-Z28xhK {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 167px;
+  width: auto;
+}
+
+.ent-credit-completed .cuotas-a-pagar-Z28xhK {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 344px;
+  width: auto;
+}
+
+.ent-credit-completed .intereses-a-pagar-Z28xhK {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 480px;
+  width: auto;
+}
+
+.ent-credit-completed .rectangle-1400-Z28xhK {
+  background-color: transparent;
+  border-radius: 6px;
+  height: 38px;
+  left: 26px;
+  position: absolute;
+  top: 200px;
+  width: 338px;
+}
+
+.ent-credit-completed .component-52-Z28xhK {
+  background-color: transparent;
+  height: 55px;
+  left: 115px;
+  position: absolute;
+  top: 377px;
+  width: 159px;
+}
+
+.ent-credit-completed .group-338-QY1FHz {
+  background-color: transparent;
+  height: 38px;
+  left: 121px;
+  position: absolute;
+  top: 9px;
+  width: 38px;
+}
+
+.ent-credit-completed .group-261-BnQUjl {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 38px;
+}
+
+.ent-credit-completed .rectangle-6-yKbjKA {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.ent-credit-completed .enviar-yKbjKA {
+  background-color: transparent;
+  height: 38px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 33px;
+}
+
+.ent-credit-completed .x1-QY1FHz {
+  background-color: transparent;
+  height: 38px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 45px;
+}
+
+.ent-credit-completed .rectangle-1403-QY1FHz {
+  background-color: transparent;
+  border-radius: 6px;
+  height: 55px;
+  left: 52px;
+  position: absolute;
+  top: -0px;
+  width: 55px;
+}
+
+.ent-credit-completed .x12-Z28xhK {
+  background-color: transparent;
+  color: var(--cielo);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  height: 33px;
+  left: 164px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 512px;
+  width: 62px;
+}
+
+.ent-credit-completed .esta-deacuerdo-que-s-Z28xhK {
+  background-color: transparent;
+  height: 30px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 575px;
+  width: 306px;
+}
+
+.ent-credit-completed .sabe-usted-que-cada-Z28xhK {
+  background-color: transparent;
+  height: 29px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 618px;
+  width: 306px;
+}
+
+.ent-credit-completed .group-261-Z28xhK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 27px;
+  position: absolute;
+  top: 682px;
+  width: 337px;
+}
+
+.ent-credit-completed .rectangle-6-C9k4xD {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 337px;
+}
+
+.ent-credit-completed .enviar-C9k4xD {
+  background-color: transparent;
+  height: 38px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 292px;
+}
+
+.ent-credit-completed .vector-132-Z28xhK {
+  background-color: transparent;
+  height: 2px;
+  left: 161px;
+  position: absolute;
+  top: 548px;
+  width: 68px;
+}
+
+.ent-credit-completed .lmite-crediticio-Z28xhK {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 253px;
+  width: auto;
+}
+
+.ent-credit-completed .x2000000-de-cop-Z28xhK {
+  background-color: transparent;
+  height: auto;
+  left: 162px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+
+.ent-credit-completed .x1000000-de-cop-Z28xhK {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 210px;
+  width: auto;
+}
+
+.ent-credit-completed .pedir-crdito-Z28xhK {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.ent-credit-completed .back-Z28xhK {
+  background-color: transparent;
+  height: 14px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 110px;
+  width: 7px;
+}
+
+.ent-credit-completed .vector-c6BSHJ {
+  background-color: transparent;
+  height: 16px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 9px;
+}
+
+.ent-credit-completed .nav-emprendimiento-Z28xhK {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-credit-completed .rectangle-1463-pdsTFZ {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-credit-completed .union-pdsTFZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-credit-completed .union-sHDbt4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-credit-completed .union-xkwmuf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-credit-completed .union-oHluiD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-credit-completed .rect-Z28xhK {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 18px;
+  left: 28px;
+  position: absolute;
+  top: 576px;
+  width: 18px;
+}
+
+.ent-credit-completed .rect-inj94k {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 18px;
+  left: 28px;
+  position: absolute;
+  top: 619px;
+  width: 18px;
+}

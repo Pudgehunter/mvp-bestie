@@ -1,0 +1,494 @@
+/* screen - client-entrepreneur-product-1 */
+
+.client-entrepreneur-product-1 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-entrepreneur-product-1 .group-272-390b7E {
+  background-color: transparent;
+  height: 152px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-1 .rectangle-31-Fsc8lv {
+  background-color: transparent;
+  height: 152px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-1 .status-bar-i-phone-13-13-pro-390b7E {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-1 .indicators-HcjIj4 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-entrepreneur-product-1 .elements-signal-WFxrzu {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-entrepreneur-product-1 .cellular-connection-oEvxJt {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-entrepreneur-product-1 .elements-connection-WFxrzu {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-entrepreneur-product-1 .wifi-ijVu4z {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-entrepreneur-product-1 .elements-battery-WFxrzu {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-entrepreneur-product-1 .border-t9xvxT {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-entrepreneur-product-1 .cap-t9xvxT {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-entrepreneur-product-1 .capacity-t9xvxT {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-entrepreneur-product-1 .mic-cam-HcjIj4 {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-entrepreneur-product-1 .elements-time-HcjIj4 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-entrepreneur-product-1 .time-RgWgTI {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-entrepreneur-product-1 .anillo-curvy-390b7E {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 511px;
+  width: 316px;
+}
+
+.client-entrepreneur-product-1 .cop-45000-390b7E {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 577px;
+  white-space: nowrap;
+  width: 316px;
+}
+
+.client-entrepreneur-product-1 .anillo-de-plata-ajus-390b7E {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 538px;
+  width: 316px;
+}
+
+.client-entrepreneur-product-1 .group-230-390b7E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 28px;
+  position: absolute;
+  top: 633px;
+  width: 334px;
+}
+
+.client-entrepreneur-product-1 .rectangle-6-RZs3hW {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 334px;
+}
+
+.client-entrepreneur-product-1 .enviar-RZs3hW {
+  background-color: transparent;
+  height: 38px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 289px;
+}
+
+.client-entrepreneur-product-1 .group-275-390b7E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 28px;
+  position: absolute;
+  top: 681px;
+  width: 334px;
+}
+
+.client-entrepreneur-product-1 .rectangle-6-8xVVtM {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 334px;
+}
+
+.client-entrepreneur-product-1 .enviar-8xVVtM {
+  background-color: transparent;
+  height: 38px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 289px;
+}
+
+.client-entrepreneur-product-1 .vector-390b7E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 178px;
+  width: 9px;
+}
+
+.client-entrepreneur-product-1 .productos-390b7E {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 19.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.client-entrepreneur-product-1 .blink-custom-jewels-390b7E {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.client-entrepreneur-product-1 .somos-una-empresa-su-390b7E {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 101px;
+  width: 301px;
+}
+
+.client-entrepreneur-product-1 .cart-390b7E {
+  background-color: transparent;
+  height: 24px;
+  left: 338px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 175px;
+  width: 24px;
+}
+
+.client-entrepreneur-product-1 .vector-39-hm4DsJ {
+  background-color: transparent;
+  height: 18px;
+  left: -0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.client-entrepreneur-product-1 .ellipse-36-hm4DsJ {
+  background-color: transparent;
+  border-radius: 2.02px;
+  height: 4px;
+  left: 7px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.client-entrepreneur-product-1 .ellipse-37-hm4DsJ {
+  background-color: transparent;
+  border-radius: 2.02px;
+  height: 4px;
+  left: 19px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.client-entrepreneur-product-1 .frame-83-390b7E::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.client-entrepreneur-product-1 .frame-83-390b7E {
+  background-color: transparent;
+  height: 280px;
+  left: 18px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 209px;
+  width: 372px;
+}
+
+.client-entrepreneur-product-1 .group-274-KqlLw4 {
+  background-color: transparent;
+  height: 260px;
+  left: 280px;
+  position: absolute;
+  top: 8px;
+  width: 260px;
+}
+
+.client-entrepreneur-product-1 .rectangle-1338-1kq7gw {
+  background-color: transparent;
+  height: 260px;
+  left: 84px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 92px;
+}
+
+.client-entrepreneur-product-1 .rectangle-1342-KqlLw4 {
+  background-color: transparent;
+  height: 260px;
+  left: 9px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 261px;
+}
+
+.client-entrepreneur-product-1 .nav-client-390b7E {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-1 .frame-110-sNrx9c {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-1 .rectangle-1462-H06RVu {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-1 .union-sNrx9c {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-entrepreneur-product-1 .union-mlxUte {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-entrepreneur-product-1 .union-G3yQxG {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-entrepreneur-product-1 .union-FNxjSw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-entrepreneur-product-1 .union-UfT2tt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

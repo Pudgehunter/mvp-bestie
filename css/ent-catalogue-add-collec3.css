@@ -1,0 +1,568 @@
+/* screen - ent-catalogue-add-collec3 */
+
+.ent-catalogue-add-collec3 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-catalogue-add-collec3 .nav-emprendimiento-nlRX8k {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-catalogue-add-collec3 .rectangle-1463-eiLXxn {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-catalogue-add-collec3 .union-eiLXxn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-catalogue-add-collec3 .union-SdvxSQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-catalogue-add-collec3 .union-U9P3xr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-catalogue-add-collec3 .union-wOCR8Q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-catalogue-add-collec3 .status-bar-i-phone-13-13-pro-nlRX8k {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-catalogue-add-collec3 .indicators-5UsADx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-catalogue-add-collec3 .elements-signal-Sd4QO5 {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-catalogue-add-collec3 .cellular-connection-XYxW1H {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-catalogue-add-collec3 .elements-connection-Sd4QO5 {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-catalogue-add-collec3 .wifi-RDt446 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-catalogue-add-collec3 .elements-battery-Sd4QO5 {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-catalogue-add-collec3 .border-Glq3wY {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-catalogue-add-collec3 .cap-Glq3wY {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-catalogue-add-collec3 .capacity-Glq3wY {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-catalogue-add-collec3 .mic-cam-5UsADx {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-catalogue-add-collec3 .elements-time-5UsADx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-catalogue-add-collec3 .time-csrTzx {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-catalogue-add-collec3 .aade-artculos-nlRX8k {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.ent-catalogue-add-collec3 .vector-nlRX8k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.ent-catalogue-add-collec3 .group-2083-nlRX8k {
+  background-color: transparent;
+  height: 83px;
+  left: 80px;
+  position: absolute;
+  top: 106px;
+  width: 329px;
+}
+
+.ent-catalogue-add-collec3 .anillos-golden-6zjlLC {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-catalogue-add-collec3 .cop-55000-6zjlLC {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-catalogue-add-collec3 .rectangle-1337-6zjlLC {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.ent-catalogue-add-collec3 .group-2084-nlRX8k {
+  background-color: transparent;
+  height: 83px;
+  left: 80px;
+  position: absolute;
+  top: 219px;
+  width: 329px;
+}
+
+.ent-catalogue-add-collec3 .cop-28000-ygu9YO {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-catalogue-add-collec3 .delicate-set-ygu9YO {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-catalogue-add-collec3 .rectangle-1338-ygu9YO {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.ent-catalogue-add-collec3 .group-2085-nlRX8k {
+  background-color: transparent;
+  height: 83px;
+  left: 80px;
+  position: absolute;
+  top: 332px;
+  width: 329px;
+}
+
+.ent-catalogue-add-collec3 .conjunto-army-53yWd4 {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-catalogue-add-collec3 .cop-135000-53yWd4 {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-catalogue-add-collec3 .rectangle-1339-53yWd4 {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.ent-catalogue-add-collec3 .group-2086-nlRX8k {
+  background-color: transparent;
+  height: 83px;
+  left: 80px;
+  position: absolute;
+  top: 444px;
+  width: 329px;
+}
+
+.ent-catalogue-add-collec3 .golden-queen-PyflIu {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-catalogue-add-collec3 .cop-35000-PyflIu {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-catalogue-add-collec3 .rectangle-1340-PyflIu {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.ent-catalogue-add-collec3 .group-2087-nlRX8k {
+  background-color: transparent;
+  height: 83px;
+  left: 80px;
+  position: absolute;
+  top: 557px;
+  width: 329px;
+}
+
+.ent-catalogue-add-collec3 .star-shine-Sck1XS {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-catalogue-add-collec3 .cop-67000-Sck1XS {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ent-catalogue-add-collec3 .rectangle-1341-Sck1XS {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.ent-catalogue-add-collec3 .rectangle-1345-nlRX8k {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 19px;
+  left: 46px;
+  position: absolute;
+  top: 251px;
+  width: 19px;
+}
+
+.ent-catalogue-add-collec3 .rectangle-1347-nlRX8k {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 19px;
+  left: 46px;
+  position: absolute;
+  top: 476px;
+  width: 19px;
+}
+
+.ent-catalogue-add-collec3 .rectangle-1348-nlRX8k {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 19px;
+  left: 46px;
+  position: absolute;
+  top: 589px;
+  width: 19px;
+}
+
+.ent-catalogue-add-collec3 .group-279-nlRX8k {
+  background-color: transparent;
+  height: 19px;
+  left: 46px;
+  position: absolute;
+  top: 138px;
+  width: 19px;
+}
+
+.ent-catalogue-add-collec3 .rectangle-1344-PzXUX9 {
+  background-color: var(--cielo-osc);
+  border-radius: 2px;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.ent-catalogue-add-collec3 .check-PzXUX9 {
+  background-color: transparent;
+  height: 11px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.ent-catalogue-add-collec3 .group-280-nlRX8k {
+  background-color: transparent;
+  height: 19px;
+  left: 46px;
+  position: absolute;
+  top: 364px;
+  width: 19px;
+}
+
+.ent-catalogue-add-collec3 .rectangle-1344-6xDMom {
+  background-color: var(--cielo-osc);
+  border-radius: 2px;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.ent-catalogue-add-collec3 .check-6xDMom {
+  background-color: transparent;
+  height: 11px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.ent-catalogue-add-collec3 .listo-nlRX8k {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 318px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 51px;
+  width: auto;
+}

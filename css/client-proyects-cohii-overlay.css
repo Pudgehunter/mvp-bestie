@@ -1,0 +1,945 @@
+/* screen - client-proyects-cohii-overlay */
+
+.client-proyects-cohii-overlay {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-proyects-cohii-overlay .image-25-KHnaYC {
+  background-color: transparent;
+  height: 129px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 98px;
+  width: 390px;
+}
+
+.client-proyects-cohii-overlay .rectangle-1376-KHnaYC {
+  background-color: transparent;
+  height: 129px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 98px;
+  width: 390px;
+}
+
+.client-proyects-cohii-overlay .status-bar-i-phone-13-13-pro-KHnaYC {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-proyects-cohii-overlay .indicators-c0z2li {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-proyects-cohii-overlay .elements-signal-gXMFAX {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-proyects-cohii-overlay .cellular-connection-RflxsD {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-proyects-cohii-overlay .elements-connection-gXMFAX {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-proyects-cohii-overlay .wifi-x7teZg {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-proyects-cohii-overlay .elements-battery-gXMFAX {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-proyects-cohii-overlay .border-Fkj7mL {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-proyects-cohii-overlay .cap-Fkj7mL {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-proyects-cohii-overlay .capacity-Fkj7mL {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-proyects-cohii-overlay .mic-cam-c0z2li {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-proyects-cohii-overlay .elements-time-c0z2li {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-proyects-cohii-overlay .time-X4btwJ {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-proyects-cohii-overlay .proyectos-activos-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: auto;
+}
+
+.client-proyects-cohii-overlay .vector-KHnaYC {
+  background-color: transparent;
+  height: 16px;
+  left: 25px;
+  position: absolute;
+  top: 64px;
+  width: 9px;
+}
+
+.client-proyects-cohii-overlay .vector-xWbRY4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 25px;
+  position: absolute;
+  top: 64px;
+  width: 9px;
+}
+
+.client-proyects-cohii-overlay .as-va-el-proyecto-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 369px;
+  width: 309px;
+}
+
+.client-proyects-cohii-overlay .x20-completado-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 400px;
+  width: 118px;
+}
+
+.client-proyects-cohii-overlay .rectangle-1377-KHnaYC {
+  background-color: var(--cuadros-relleno);
+  border-radius: 4px;
+  height: 16px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 423px;
+  width: 326px;
+}
+
+.client-proyects-cohii-overlay .rectangle-1378-KHnaYC {
+  background-color: var(--pink);
+  border-radius: 4px;
+  height: 16px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 423px;
+  width: 66px;
+}
+
+.client-proyects-cohii-overlay .recaudado-hasta-ahora-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 455px;
+  width: 309px;
+}
+
+.client-proyects-cohii-overlay .meta-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 512px;
+  width: 309px;
+}
+
+.client-proyects-cohii-overlay .fecha-de-finalizacin-del-proyecto-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 569px;
+  width: 309px;
+}
+
+.client-proyects-cohii-overlay .quieres-aportar-a-este-proyecto-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 645px;
+  width: 309px;
+}
+
+.client-proyects-cohii-overlay .x127500-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 478px;
+  width: 118px;
+}
+
+.client-proyects-cohii-overlay .x470000-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 535px;
+  width: 118px;
+}
+
+.client-proyects-cohii-overlay .x22-05-2022-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 591px;
+  width: 118px;
+}
+
+.client-proyects-cohii-overlay .group-318-KHnaYC {
+  background-color: var(--cielo);
+  border-radius: 10px;
+  height: 38px;
+  left: 66px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 674px;
+  width: 259px;
+}
+
+.client-proyects-cohii-overlay .rectangle-6-1AIOzM {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.client-proyects-cohii-overlay .enviar-1AIOzM {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.client-proyects-cohii-overlay .cohii-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 162px;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.client-proyects-cohii-overlay .cali-colombia-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 186px;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.client-proyects-cohii-overlay .iconly-bold-location-KHnaYC {
+  background-color: transparent;
+  height: 16px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 187px;
+  width: 16px;
+}
+
+.client-proyects-cohii-overlay .location-8gewEM {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  position: relative;
+  top: 1px;
+  width: 11px;
+}
+
+.client-proyects-cohii-overlay .location-TYagat {
+  background-color: transparent;
+  height: 13px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 11px;
+}
+
+.client-proyects-cohii-overlay .este-mes-a-causa-de-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 271px;
+  width: 326px;
+}
+
+.client-proyects-cohii-overlay .arriendo-este-mes-KHnaYC {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 246px;
+  width: 334px;
+}
+
+.client-proyects-cohii-overlay .nav-client-KHnaYC {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-proyects-cohii-overlay .rectangle-1463-lM2JoG {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-proyects-cohii-overlay .union-lM2JoG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-proyects-cohii-overlay .union-8Dhaor {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-proyects-cohii-overlay .union-QLRKLa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-proyects-cohii-overlay .union-fzZIJN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-proyects-cohii-overlay .fondo-KHnaYC {
+  background-color: transparent;
+  height: 844px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-proyects-cohii-overlay .confirmacion-donar-proyectos-KHnaYC {
+  background-color: transparent;
+  height: 345px;
+  left: 31px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 299px;
+  width: 336px;
+}
+
+.client-proyects-cohii-overlay .group-315-OzbGzx {
+  background-color: transparent;
+  height: 345px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 346px;
+}
+
+.client-proyects-cohii-overlay .line-14-TRyI1c {
+  background-color: transparent;
+  height: 1px;
+  left: 43px;
+  position: absolute;
+  top: 141px;
+  width: 224px;
+}
+
+.client-proyects-cohii-overlay .contrasea-TRyI1c {
+  background-color: transparent;
+  color: #ada8a8;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 118px;
+  width: 134px;
+}
+
+.client-proyects-cohii-overlay .olvide-mi-contrasea-TRyI1c {
+  background-color: transparent;
+  color: var(--cielo);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 164px;
+  width: 169px;
+}
+
+.client-proyects-cohii-overlay .vector-40-TRyI1c {
+  background-color: transparent;
+  height: 1px;
+  left: 148px;
+  position: absolute;
+  top: 182px;
+  width: 119px;
+}
+
+.client-proyects-cohii-overlay .group-261-TRyI1c {
+  background-color: transparent;
+  height: 38px;
+  left: 74px;
+  position: absolute;
+  top: 219px;
+  width: 163px;
+}
+
+.client-proyects-cohii-overlay .rectangle-6-mf2RFs {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.client-proyects-cohii-overlay .enviar-mf2RFs {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}
+
+.client-proyects-cohii-overlay .group-260-TRyI1c {
+  background-color: transparent;
+  height: 38px;
+  left: 74px;
+  position: absolute;
+  top: 284px;
+  width: 163px;
+}
+
+.client-proyects-cohii-overlay .rectangle-6-EJ6Cl4 {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.client-proyects-cohii-overlay .enviar-EJ6Cl4 {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}
+
+.client-proyects-cohii-overlay .rectangle-1316-TRyI1c {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 345px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 336px;
+}
+
+.client-proyects-cohii-overlay .ests-seguro-TRyI1c {
+  background-color: transparent;
+  color: var(--cielo);
+  font-family: var(--font-family-inter);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: 279px;
+}
+
+.client-proyects-cohii-overlay .estos-son-los-benefi-TRyI1c {
+  background-color: transparent;
+  color: var(--text);
+  font-family: var(--font-family-inter);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 50px;
+  width: 279px;
+}
+
+.client-proyects-cohii-overlay .rectangle-1321-TRyI1c {
+  background-color: var(--cielo);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 42px;
+  left: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 254px;
+  width: 269px;
+}
+
+.client-proyects-cohii-overlay .confirmar-TRyI1c {
+  background-color: transparent;
+  height: 44px;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 251px;
+  width: 279px;
+}
+
+.client-proyects-cohii-overlay .component-42-KHnaYC {
+  background-color: transparent;
+  height: 135px;
+  left: 87px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 404px;
+  width: 224px;
+}
+
+.client-proyects-cohii-overlay .component-21-mAz0OG {
+  background-color: transparent;
+  height: 135px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 224px;
+}
+
+.client-proyects-cohii-overlay .group-380-mxsR76 {
+  background-color: transparent;
+  height: 110px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 228px;
+}
+
+.client-proyects-cohii-overlay .rectangle-1446-ANhLAB {
+  background-color: var(--white);
+  border-radius: 7.5px;
+  height: 110px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.client-proyects-cohii-overlay .x5-descuento-en-capuccino-ANhLAB {
+  background-color: transparent;
+  color: var(--text);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 104px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 94px;
+}
+
+.client-proyects-cohii-overlay .group-378-ANhLAB {
+  background-color: transparent;
+  height: 22px;
+  left: 102px;
+  position: absolute;
+  top: 79px;
+  width: 85px;
+}
+
+.client-proyects-cohii-overlay .rectangle-1324-mzFISg {
+  background-color: var(--orange);
+  border-radius: 7px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.client-proyects-cohii-overlay .x1000-mzFISg {
+  background-color: transparent;
+  height: auto;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  width: 72px;
+}
+
+.client-proyects-cohii-overlay .en-cohii-ANhLAB {
+  background-color: transparent;
+  height: auto;
+  left: 104px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 61px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.client-proyects-cohii-overlay .span0-Tc6DMD {
+}
+
+.client-proyects-cohii-overlay .span1-Tc6DMD {
+}
+
+.client-proyects-cohii-overlay .rectangle-1447-ANhLAB {
+  background-color: transparent;
+  height: 93px;
+  left: 9px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 80px;
+}
+
+.client-proyects-cohii-overlay .group-379-ANhLAB {
+  background-color: transparent;
+  height: 16px;
+  left: 102px;
+  position: absolute;
+  top: 10px;
+  width: 78px;
+}
+
+.client-proyects-cohii-overlay .rectangle-1334-D847xz {
+  background-color: var(--limon);
+  border-radius: 12.79px;
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 76px;
+}
+
+.client-proyects-cohii-overlay .cliente-parcero-D847xz {
+  background-color: transparent;
+  color: var(--osc-intermedio);
+  font-family: var(--font-family-inter);
+  font-size: 8.5px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  width: auto;
+}
+
+.client-proyects-cohii-overlay .ellipse-93-mxsR76 {
+  background-color: var(--mist-gray);
+  border-radius: 5px;
+  height: 10px;
+  left: 77px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 125px;
+  width: 10px;
+}
+
+.client-proyects-cohii-overlay .ellipse-94-mxsR76 {
+  background-color: var(--mercury);
+  border-radius: 5px;
+  height: 10px;
+  left: 97px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 125px;
+  width: 10px;
+}
+
+.client-proyects-cohii-overlay .ellipse-95-mxsR76 {
+  background-color: var(--mercury);
+  border-radius: 5px;
+  height: 10px;
+  left: 117px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 125px;
+  width: 10px;
+}
+
+.client-proyects-cohii-overlay .ellipse-96-mxsR76 {
+  background-color: var(--mercury);
+  border-radius: 5px;
+  height: 10px;
+  left: 137px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 125px;
+  width: 10px;
+}

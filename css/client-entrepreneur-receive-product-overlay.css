@@ -1,0 +1,497 @@
+/* screen - client-entrepreneur-receive-product-overlay */
+
+.client-entrepreneur-receive-product-overlay {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-entrepreneur-receive-product-overlay .nav-client-yvi35A {
+  background-color: var(--white);
+  height: 75px;
+  left: -0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 772px;
+  width: 390px;
+}
+
+.client-entrepreneur-receive-product-overlay .frame-110-BNfx2X {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-receive-product-overlay .rectangle-1462-ixPjwy {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-receive-product-overlay .union-BNfx2X {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-entrepreneur-receive-product-overlay .union-EdQo44 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-entrepreneur-receive-product-overlay .union-ZUaJtQ {
+  background-color: transparent;
+  height: 35px;
+  left: 226px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-entrepreneur-receive-product-overlay .union-Y5KxDc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 226px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-entrepreneur-receive-product-overlay .union-4zCIkC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-entrepreneur-receive-product-overlay .rectangle-1325-yvi35A {
+  background-color: transparent;
+  height: 438px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -3px;
+  width: 390px;
+}
+
+.client-entrepreneur-receive-product-overlay .status-bar-i-phone-13-13-pro-yvi35A {
+  background-color: transparent;
+  height: 47px;
+  left: -0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-receive-product-overlay .indicators-54f9v3 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-entrepreneur-receive-product-overlay .elements-signal-zUxmGf {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-entrepreneur-receive-product-overlay .cellular-connection-k97H5J {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-entrepreneur-receive-product-overlay .elements-connection-zUxmGf {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-entrepreneur-receive-product-overlay .wifi-YX2vuR {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-entrepreneur-receive-product-overlay .elements-battery-zUxmGf {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-entrepreneur-receive-product-overlay .border-w8kru4 {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-entrepreneur-receive-product-overlay .cap-w8kru4 {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-entrepreneur-receive-product-overlay .capacity-w8kru4 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-entrepreneur-receive-product-overlay .mic-cam-54f9v3 {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-entrepreneur-receive-product-overlay .elements-time-54f9v3 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-entrepreneur-receive-product-overlay .time-2rb5J2 {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-entrepreneur-receive-product-overlay .rectangle-16-yvi35A {
+  background-color: transparent;
+  height: 123px;
+  left: 133px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 123px;
+}
+
+.client-entrepreneur-receive-product-overlay .frame-107-yvi35A::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.client-entrepreneur-receive-product-overlay .frame-107-yvi35A {
+  background-color: transparent;
+  height: 350px;
+  left: 28px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 422px;
+  width: 343px;
+}
+
+.client-entrepreneur-receive-product-overlay .x45000-OqjbwQ {
+  background-color: transparent;
+  height: 19px;
+  left: 286px;
+  letter-spacing: 0.00px;
+  line-height: 19.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.client-entrepreneur-receive-product-overlay .x180000-OqjbwQ {
+  background-color: transparent;
+  height: 20px;
+  left: 259px;
+  letter-spacing: 0.00px;
+  line-height: 19.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 182px;
+  white-space: nowrap;
+  width: 83px;
+}
+
+.client-entrepreneur-receive-product-overlay .x135000-OqjbwQ {
+  background-color: transparent;
+  height: 20px;
+  left: 267px;
+  letter-spacing: 0.00px;
+  line-height: 19.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 108px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.client-entrepreneur-receive-product-overlay .rectangle-1324-OqjbwQ {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 49px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 315px;
+  width: 327px;
+}
+
+.client-entrepreneur-receive-product-overlay .finalizar-OqjbwQ {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 330px;
+  width: auto;
+}
+
+.client-entrepreneur-receive-product-overlay .nmero-de-autorizacin-1234567890-OqjbwQ {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 241px;
+  width: 351px;
+}
+
+.client-entrepreneur-receive-product-overlay .span0-IshmXf {
+}
+
+.client-entrepreneur-receive-product-overlay .span1-IshmXf {
+}
+
+.client-entrepreneur-receive-product-overlay .group-98-yvi35A {
+  background-color: transparent;
+  height: 21px;
+  left: 32px;
+  position: absolute;
+  top: 52px;
+  width: 11px;
+}
+
+.client-entrepreneur-receive-product-overlay .line-10-wUvEGM {
+  background-color: transparent;
+  height: 11px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.client-entrepreneur-receive-product-overlay .line-11-wUvEGM {
+  background-color: transparent;
+  height: 11px;
+  left: -1px;
+  position: absolute;
+  top: 10px;
+  width: 11px;
+}
+
+.client-entrepreneur-receive-product-overlay .fondo-yvi35A {
+  background-color: transparent;
+  height: 844px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-receive-product-overlay .group-287-yvi35A {
+  background-color: transparent;
+  height: 482px;
+  left: 28px;
+  position: absolute;
+  top: 181px;
+  width: 333px;
+}
+
+.client-entrepreneur-receive-product-overlay .group-102-MJQIUg {
+  background-color: transparent;
+  height: 482px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.client-entrepreneur-receive-product-overlay .rectangle-1325-MPV0JT {
+  background-color: var(--hint-of-red);
+  border-radius: 7px;
+  height: 482px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.client-entrepreneur-receive-product-overlay .group-101-MPV0JT {
+  background-color: transparent;
+  height: 209px;
+  left: 36px;
+  position: absolute;
+  top: 217px;
+  width: 264px;
+}
+
+.client-entrepreneur-receive-product-overlay .muchas-gracias-por-tu-apoyo-jDSKPg {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 239px;
+}
+
+.client-entrepreneur-receive-product-overlay .el-comprobante-de-tu-jDSKPg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+  width: 260px;
+}
+
+.client-entrepreneur-receive-product-overlay .group-100-jDSKPg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 50px;
+  left: 52px;
+  position: absolute;
+  top: 159px;
+  width: 158px;
+}
+
+.client-entrepreneur-receive-product-overlay .rectangle-1324-I6TFJg {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 156px;
+}
+
+.client-entrepreneur-receive-product-overlay .regresar-I6TFJg {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: 61px;
+}
+
+.client-entrepreneur-receive-product-overlay .rectangle-16-MJQIUg {
+  background-color: transparent;
+  height: 123px;
+  left: 105px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 123px;
+}

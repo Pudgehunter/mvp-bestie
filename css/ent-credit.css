@@ -1,0 +1,748 @@
+/* screen - ent-credit */
+
+.ent-credit {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-credit .rectangle-8-SSm1PA {
+  background-color: transparent;
+  height: 72px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-credit .status-bar-i-phone-13-13-pro-SSm1PA {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-credit .indicators-2Goqod {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-credit .elements-signal-YeYuWc {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-credit .cellular-connection-C0T28F {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-credit .elements-connection-YeYuWc {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-credit .wifi-xIxhAQ {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-credit .elements-battery-YeYuWc {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-credit .border-j5z4Ju {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-credit .cap-j5z4Ju {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-credit .capacity-j5z4Ju {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-credit .mic-cam-2Goqod {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-credit .elements-time-2Goqod {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-credit .time-hhxxRe {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-credit .status-bar-i-phone-13-13-pro-5NNhec {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-credit .indicators-ohEeof {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-credit .elements-signal-fYp5DP {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-credit .cellular-connection-mwSA7G {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-credit .elements-connection-fYp5DP {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-credit .wifi-3YlVqc {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-credit .elements-battery-fYp5DP {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-credit .border-Zoj7m3 {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-credit .cap-Zoj7m3 {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-credit .capacity-Zoj7m3 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-credit .mic-cam-ohEeof {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-credit .elements-time-ohEeof {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-credit .time-WokbU0 {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-credit .group-331-SSm1PA {
+  background-color: transparent;
+  height: 231px;
+  left: 732px;
+  position: absolute;
+  top: 123px;
+  width: 356px;
+}
+
+.ent-credit .group-322-qsWONt {
+  background-color: transparent;
+  height: 231px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 350px;
+}
+
+.ent-credit .rectangle-2-qKOt0o {
+  background-color: var(--cielo);
+  border-radius: 25px;
+  box-shadow: 2.6602046489715576px 2.6602046489715576px 36.577816009521484px #00000040;
+  height: 231px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 350px;
+}
+
+.ent-credit .vector-qKOt0o {
+  background-color: transparent;
+  height: 1px;
+  left: 311px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 190px;
+  width: 1px;
+}
+
+.ent-credit .image-31-qKOt0o {
+  background-color: transparent;
+  height: 1px;
+  left: 292px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.ent-credit .jewelry-icesi-qsWONt {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 185px;
+  width: auto;
+}
+
+.ent-credit .x5783-5320-4361-6324-qsWONt {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 159px;
+  width: auto;
+}
+
+.ent-credit .bestie-bank-qsWONt {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: auto;
+}
+
+.ent-credit .monto-a-pedir-SSm1PA {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 167px;
+  width: auto;
+}
+
+.ent-credit .cuotas-a-pagar-SSm1PA {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 344px;
+  width: auto;
+}
+
+.ent-credit .intereses-a-pagar-SSm1PA {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 480px;
+  width: auto;
+}
+
+.ent-credit .rectangle-1400-SSm1PA {
+  background-color: transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  height: 38px;
+  left: 26px;
+  position: absolute;
+  top: 200px;
+  width: 338px;
+}
+
+.ent-credit .group-338-SSm1PA {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 386px;
+  width: 38px;
+}
+
+.ent-credit .group-261-yDfyOq {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 38px;
+}
+
+.ent-credit .rectangle-6-y1xhKg {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.ent-credit .enviar-y1xhKg {
+  background-color: transparent;
+  height: 38px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 33px;
+}
+
+.ent-credit .group-2118-SSm1PA {
+  background-color: transparent;
+  height: 55px;
+  left: 167px;
+  position: absolute;
+  top: 377px;
+  width: 57px;
+}
+
+.ent-credit .x1-UShYx4 {
+  background-color: transparent;
+  height: 38px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 45px;
+}
+
+.ent-credit .rectangle-1403-UShYx4 {
+  background-color: transparent;
+  border-radius: 6px;
+  height: 55px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 55px;
+}
+
+.ent-credit .esta-deacuerdo-que-s-SSm1PA {
+  background-color: transparent;
+  height: 30px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 575px;
+  width: 306px;
+}
+
+.ent-credit .sabe-usted-que-cada-SSm1PA {
+  background-color: transparent;
+  height: 29px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 618px;
+  width: 306px;
+}
+
+.ent-credit .rect-SSm1PA {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 18px;
+  left: 28px;
+  position: absolute;
+  top: 576px;
+  width: 18px;
+}
+
+.ent-credit .rect-5NNhec {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 18px;
+  left: 28px;
+  position: absolute;
+  top: 619px;
+  width: 18px;
+}
+
+.ent-credit .group-2120-SSm1PA {
+  background-color: transparent;
+  height: 38px;
+  left: 27px;
+  position: absolute;
+  top: 682px;
+  width: 339px;
+}
+
+.ent-credit .rectangle-6-7h5Usr {
+  background-color: var(--cielo-claro);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 337px;
+}
+
+.ent-credit .enviar-7h5Usr {
+  background-color: transparent;
+  height: 38px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 292px;
+}
+
+.ent-credit .group-2119-SSm1PA {
+  background-color: transparent;
+  height: 36px;
+  left: 161px;
+  position: absolute;
+  top: 513px;
+  width: 70px;
+}
+
+.ent-credit .x12-DPf0oQ {
+  background-color: transparent;
+  color: var(--cielo);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  height: 33px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 62px;
+}
+
+.ent-credit .vector-132-DPf0oQ {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 35px;
+  width: 68px;
+}
+
+.ent-credit .lmite-crediticio-SSm1PA {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 253px;
+  width: auto;
+}
+
+.ent-credit .x2000000-de-cop-SSm1PA {
+  background-color: transparent;
+  height: auto;
+  left: 162px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+
+.ent-credit .pedir-crdito-SSm1PA {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.ent-credit .back-SSm1PA {
+  background-color: transparent;
+  height: 14px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 110px;
+  width: 7px;
+}
+
+.ent-credit .vector-xNGrtZ {
+  background-color: transparent;
+  height: 16px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 9px;
+}
+
+.ent-credit .nav-emprendimiento-SSm1PA {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-credit .rectangle-1463-4gMIwp {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-credit .union-4gMIwp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-credit .union-82zpnh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-credit .union-2VBjuI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-credit .union-FVeRge {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

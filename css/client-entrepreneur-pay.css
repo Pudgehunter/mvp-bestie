@@ -1,0 +1,773 @@
+/* screen - client-entrepreneur-pay */
+
+.client-entrepreneur-pay {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-entrepreneur-pay .rectangle-1325-xAsTkm {
+  background-color: transparent;
+  height: 199px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -3px;
+  width: 390px;
+}
+
+.client-entrepreneur-pay .total-a-pagar-xAsTkm {
+  background-color: transparent;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 57px;
+  width: auto;
+}
+
+.client-entrepreneur-pay .x180000-xAsTkm {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 118px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 81px;
+  width: auto;
+}
+
+.client-entrepreneur-pay .group-98-xAsTkm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 32px;
+  position: absolute;
+  top: 52px;
+  width: 11px;
+}
+
+.client-entrepreneur-pay .line-10-J2JzoJ {
+  background-color: transparent;
+  height: 11px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.client-entrepreneur-pay .line-11-J2JzoJ {
+  background-color: transparent;
+  height: 11px;
+  left: -1px;
+  position: absolute;
+  top: 10px;
+  width: 11px;
+}
+
+.client-entrepreneur-pay .para-wearecaotic-xAsTkm {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 125px;
+  width: 351px;
+}
+
+.client-entrepreneur-pay .status-bar-i-phone-13-13-pro-xAsTkm {
+  background-color: transparent;
+  height: 47px;
+  left: -0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-pay .indicators-pDsEuv {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-entrepreneur-pay .elements-signal-X4AvMP {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-entrepreneur-pay .cellular-connection-vY82SY {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-entrepreneur-pay .elements-connection-X4AvMP {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-entrepreneur-pay .wifi-faldaL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-entrepreneur-pay .elements-battery-X4AvMP {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-entrepreneur-pay .border-IV4Aa2 {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-entrepreneur-pay .cap-IV4Aa2 {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-entrepreneur-pay .capacity-IV4Aa2 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-entrepreneur-pay .mic-cam-pDsEuv {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-entrepreneur-pay .elements-time-pDsEuv {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-entrepreneur-pay .time-KLkT0U {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-entrepreneur-pay .continue-pay-button-xAsTkm {
+  background-color: transparent;
+  height: 49px;
+  left: 33px;
+  position: absolute;
+  top: 688px;
+  width: 329px;
+}
+
+.client-entrepreneur-pay .rectangle-1324-JHAtF0 {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.client-entrepreneur-pay .continuar-JHAtF0 {
+  background-color: transparent;
+  height: auto;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: auto;
+}
+
+.client-entrepreneur-pay .group-313-xAsTkm {
+  background-color: transparent;
+  height: 75px;
+  left: 34px;
+  position: absolute;
+  top: 412px;
+  width: 330px;
+}
+
+.client-entrepreneur-pay .rectangle-1329-D21ChP {
+  background-color: var(--white);
+  border-radius: 7.5px;
+  box-shadow: 0px 9px 15px #a7b2bb4c;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 326px;
+}
+
+.client-entrepreneur-pay .mtodo-de-pago-tarjeta-8201-D21ChP {
+  background-color: transparent;
+  height: 50px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 243px;
+}
+
+.client-entrepreneur-pay .span0-yAGcCT {
+}
+
+.client-entrepreneur-pay .span1-yAGcCT {
+}
+
+.client-entrepreneur-pay .cambiar-D21ChP {
+  background-color: transparent;
+  color: var(--rosa-osc);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: 254px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 11px;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.client-entrepreneur-pay .group-318-xAsTkm {
+  background-color: transparent;
+  height: 45px;
+  left: 34px;
+  position: absolute;
+  top: 496px;
+  width: 328px;
+}
+
+.client-entrepreneur-pay .rectangle-1329-FxyTLx {
+  background-color: var(--white);
+  border-radius: 7.5px;
+  box-shadow: 0px 9px 15px #a7b2bb4c;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 326px;
+}
+
+.client-entrepreneur-pay .agregar-cupn-FxyTLx {
+  background-color: transparent;
+  height: 15px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  white-space: nowrap;
+  width: 243px;
+}
+
+.client-entrepreneur-pay .group-317-xAsTkm {
+  background-color: transparent;
+  height: 129px;
+  left: 32px;
+  position: absolute;
+  top: 274px;
+  width: 332px;
+}
+
+.client-entrepreneur-pay .rectangle-1327-au6TJC {
+  background-color: var(--white);
+  border-radius: 7.5px;
+  box-shadow: 0px 9px 15px #a7b2bb4c;
+  height: 129px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 326px;
+}
+
+.client-entrepreneur-pay .datos-de-envo-au6TJC {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  width: auto;
+}
+
+.client-entrepreneur-pay .envo-para-camila-mon-au6TJC {
+  background-color: transparent;
+  height: 78px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 19.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: 233px;
+}
+
+.client-entrepreneur-pay .cambiar-au6TJC {
+  background-color: transparent;
+  color: var(--rosa-osc);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: 256px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 18px;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.client-entrepreneur-pay .group-319-xAsTkm {
+  background-color: transparent;
+  height: 72px;
+  left: 32px;
+  position: absolute;
+  top: 193px;
+  width: 328px;
+}
+
+.client-entrepreneur-pay .rectangle-1327-7xi7Bv {
+  background-color: var(--white);
+  border-radius: 7.5px;
+  box-shadow: 0px 9px 15px #a7b2bb4c;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 326px;
+}
+
+.client-entrepreneur-pay .rectangle-1328-7xi7Bv {
+  background-color: transparent;
+  height: 50px;
+  left: 15px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 50px;
+}
+
+.client-entrepreneur-pay .compra-en-blinkcustomjewwels-7xi7Bv {
+  background-color: transparent;
+  height: 44px;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 21.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  width: 243px;
+}
+
+.client-entrepreneur-pay .span0-VH0oEx {
+}
+
+.client-entrepreneur-pay .span1-VH0oEx {
+}
+
+.client-entrepreneur-pay .agrega-un-regalo-xAsTkm {
+  background-color: transparent;
+  height: auto;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 563px;
+  width: auto;
+}
+
+.client-entrepreneur-pay .group-1990-xAsTkm {
+  background-color: transparent;
+  height: 80px;
+  left: 189px;
+  position: absolute;
+  top: 591px;
+  width: 62px;
+}
+
+.client-entrepreneur-pay .ver-tienda-z8Xscx {
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 63px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.client-entrepreneur-pay .group-1987-z8Xscx {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+
+.client-entrepreneur-pay .arrow-5-3PHcVz {
+  background-color: transparent;
+  height: 15px;
+  left: 18px;
+  position: absolute;
+  top: 22px;
+  width: 24px;
+}
+
+.client-entrepreneur-pay .rectangle-1328-3PHcVz {
+  background-color: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+
+.client-entrepreneur-pay .nav-client-xAsTkm {
+  background-color: var(--white);
+  height: 75px;
+  left: -0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-entrepreneur-pay .frame-110-x1ywOJ {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-pay .rectangle-1462-oS6eEA {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-pay .union-x1ywOJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-entrepreneur-pay .union-6xQMPv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-entrepreneur-pay .union-xpcjTq {
+  background-color: transparent;
+  height: 35px;
+  left: 226px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-entrepreneur-pay .union-Xq0boH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 226px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-entrepreneur-pay .union-wBamDT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-entrepreneur-pay .group-1989-xAsTkm {
+  background-color: transparent;
+  height: 82px;
+  left: 112px;
+  position: absolute;
+  top: 589px;
+  width: 73px;
+}
+
+.client-entrepreneur-pay .x12000-iaGIuB {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 65px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.client-entrepreneur-pay .group-1986-iaGIuB {
+  background-color: transparent;
+  height: 67px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 73px;
+}
+
+.client-entrepreneur-pay .rectangle-1332-DgOL6G {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 60px;
+}
+
+.client-entrepreneur-pay .ellipse-83-DgOL6G {
+  background-color: var(--pink);
+  border-radius: 11px;
+  height: 22px;
+  left: 49px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 45px;
+  width: 22px;
+}
+
+.client-entrepreneur-pay .x1-DgOL6G {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 49px;
+  width: auto;
+}
+
+.client-entrepreneur-pay .image00007-DgOL6G {
+  background-color: transparent;
+  height: 64px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 42px;
+}
+
+.client-entrepreneur-pay .group-1988-xAsTkm {
+  background-color: transparent;
+  height: 80px;
+  left: 34px;
+  position: absolute;
+  top: 591px;
+  width: 74px;
+}
+
+.client-entrepreneur-pay .x500-mfzst4 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 63px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.client-entrepreneur-pay .group-1985-mfzst4 {
+  background-color: transparent;
+  height: 65px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 73px;
+}
+
+.client-entrepreneur-pay .rectangle-1331-3TnVeH {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+
+.client-entrepreneur-pay .ellipse-82-3TnVeH {
+  background-color: var(--amarillo);
+  border-radius: 11px;
+  height: 22px;
+  left: 49px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 22px;
+}
+
+.client-entrepreneur-pay .x2-3TnVeH {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  width: auto;
+}
+
+.client-entrepreneur-pay .image00003-3TnVeH {
+  background-color: transparent;
+  height: 45px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 47px;
+}

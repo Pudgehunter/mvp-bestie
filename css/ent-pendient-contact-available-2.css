@@ -1,0 +1,341 @@
+/* screen - ent-pendient-contact-available-2 */
+
+.ent-pendient-contact-available-2 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-pendient-contact-available-2 .group-232-jOqDUI {
+  background-color: transparent;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 646px;
+  width: 259px;
+}
+
+.ent-pendient-contact-available-2 .rectangle-6-HshWGX {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.ent-pendient-contact-available-2 .enviar-HshWGX {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.ent-pendient-contact-available-2 .pagos-pendientes-jOqDUI {
+  background-color: transparent;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.ent-pendient-contact-available-2 .vector-jOqDUI {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.ent-pendient-contact-available-2 .rectangle-8-jOqDUI {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-pendient-contact-available-2 .status-bar-i-phone-13-13-pro-jOqDUI {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-pendient-contact-available-2 .indicators-0XOBqd {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-pendient-contact-available-2 .elements-signal-zAxyPx {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-pendient-contact-available-2 .cellular-connection-xMKpxf {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-pendient-contact-available-2 .elements-connection-zAxyPx {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-pendient-contact-available-2 .wifi-rT5RU1 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-pendient-contact-available-2 .elements-battery-zAxyPx {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-pendient-contact-available-2 .border-5LQxx9 {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-pendient-contact-available-2 .cap-5LQxx9 {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-pendient-contact-available-2 .capacity-5LQxx9 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-pendient-contact-available-2 .mic-cam-0XOBqd {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-pendient-contact-available-2 .elements-time-0XOBqd {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-pendient-contact-available-2 .time-FyYNjt {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-pendient-contact-available-2 .resumen-de-tu-pago-jOqDUI {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 331px;
+}
+
+.ent-pendient-contact-available-2 .fondo-jOqDUI {
+  background-color: transparent;
+  height: 844px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-pendient-contact-available-2 .group-287-jOqDUI {
+  background-color: transparent;
+  height: 428px;
+  left: 28px;
+  position: absolute;
+  top: 207px;
+  width: 333px;
+}
+
+.ent-pendient-contact-available-2 .group-102-4gnBZS {
+  background-color: transparent;
+  height: 428px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.ent-pendient-contact-available-2 .rectangle-1325-JuFkuf {
+  background-color: var(--hint-of-red);
+  border-radius: 10px;
+  height: 428px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.ent-pendient-contact-available-2 .group-101-JuFkuf {
+  background-color: transparent;
+  height: 181px;
+  left: 36px;
+  position: absolute;
+  top: 195px;
+  width: 264px;
+}
+
+.ent-pendient-contact-available-2 .todo-sali-bien-3FENj4 {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 239px;
+}
+
+.ent-pendient-contact-available-2 .el-pago-ha-sido-real-3FENj4 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+  width: 260px;
+}
+
+.ent-pendient-contact-available-2 .group-100-3FENj4 {
+  background-color: transparent;
+  height: 50px;
+  left: 52px;
+  position: absolute;
+  top: 131px;
+  width: 158px;
+}
+
+.ent-pendient-contact-available-2 .rectangle-1324-O23xlG {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 156px;
+}
+
+.ent-pendient-contact-available-2 .regresar-O23xlG {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: 61px;
+}
+
+.ent-pendient-contact-available-2 .rectangle-16-4gnBZS {
+  background-color: transparent;
+  height: 123px;
+  left: 105px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 123px;
+}

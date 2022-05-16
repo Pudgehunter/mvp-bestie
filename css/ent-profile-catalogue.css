@@ -1,0 +1,1188 @@
+/* screen - ent-profile-catalogue */
+
+.ent-profile-catalogue {
+  background-color: var(--white);
+  height: 843px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ent-profile-catalogue .vertical-QOv8BY::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.ent-profile-catalogue .vertical-QOv8BY {
+  background-color: transparent;
+  height: 347px;
+  left: 0px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 422px;
+  width: 390px;
+}
+
+.ent-profile-catalogue .group-276-vw2hRC {
+  background-color: transparent;
+  height: 167px;
+  left: 20px;
+  position: absolute;
+  top: 476px;
+  width: 202px;
+}
+
+.ent-profile-catalogue .rectangle-1342-MSGzaA {
+  background-color: transparent;
+  height: 1px;
+  left: 83px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 83px;
+  width: 1px;
+}
+
+.ent-profile-catalogue .x45000-MSGzaA {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 143px;
+  width: 186px;
+}
+
+.ent-profile-catalogue .anillo-curvy-MSGzaA {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 123px;
+  width: 156px;
+}
+
+.ent-profile-catalogue .group-2100-vw2hRC {
+  background-color: transparent;
+  height: 168px;
+  left: 202px;
+  position: absolute;
+  top: 298px;
+  width: 203px;
+}
+
+.ent-profile-catalogue .rectangle-1343-ZuMuA6 {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 168px;
+}
+
+.ent-profile-catalogue .aretes-wave-ZuMuA6 {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 123px;
+  width: 156px;
+}
+
+.ent-profile-catalogue .x55000-ZuMuA6 {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 144px;
+  width: 186px;
+}
+
+.ent-profile-catalogue .group-275-vw2hRC {
+  background-color: transparent;
+  height: 168px;
+  left: 20px;
+  position: absolute;
+  top: 298px;
+  width: 172px;
+}
+
+.ent-profile-catalogue .rectangle-1342-77vLyH {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 168px;
+}
+
+.ent-profile-catalogue .anillo-curvy-77vLyH {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 124px;
+  width: 155px;
+}
+
+.ent-profile-catalogue .x45000-77vLyH {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 144px;
+  width: 155px;
+}
+
+.ent-profile-catalogue .group-277-vw2hRC {
+  background-color: transparent;
+  height: 168px;
+  left: 201px;
+  position: absolute;
+  top: 476px;
+  width: 201px;
+}
+
+.ent-profile-catalogue .rectangle-1342-ufqSWR {
+  background-color: transparent;
+  height: 1px;
+  left: 84px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 84px;
+  width: 1px;
+}
+
+.ent-profile-catalogue .anillo-curvy-ufqSWR {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 124px;
+  width: 156px;
+}
+
+.ent-profile-catalogue .group-271-ufqSWR {
+  background-color: transparent;
+  height: 23px;
+  left: 13px;
+  position: absolute;
+  top: 144px;
+  width: 188px;
+}
+
+.ent-profile-catalogue .x45000-k14kx0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 186px;
+}
+
+.ent-profile-catalogue .productos-vw2hRC {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 270px;
+  width: auto;
+}
+
+.ent-profile-catalogue .frame-104-vw2hRC::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.ent-profile-catalogue .frame-104-vw2hRC {
+  background-color: transparent;
+  height: 185px;
+  left: 20px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 86px;
+  width: 350px;
+}
+
+.ent-profile-catalogue .rectangle-1340-biRgOn {
+  background-color: transparent;
+  height: 126px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 212px;
+}
+
+.ent-profile-catalogue .coleccin-anillo-biRgOn {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 119px;
+  width: 156px;
+}
+
+.ent-profile-catalogue .group-243-biRgOn {
+  background-color: transparent;
+  height: 23px;
+  left: 15px;
+  position: absolute;
+  top: 140px;
+  width: 194px;
+}
+
+.ent-profile-catalogue .x15-productos-ZWAvY7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 192px;
+}
+
+.ent-profile-catalogue .rectangle-1341-biRgOn {
+  background-color: transparent;
+  height: 126px;
+  left: 269px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 125px;
+}
+
+.ent-profile-catalogue .conjunto-bestie-biRgOn {
+  background-color: transparent;
+  height: auto;
+  left: 238px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 118px;
+  width: 156px;
+}
+
+.ent-profile-catalogue .group-270-biRgOn {
+  background-color: transparent;
+  height: 12px;
+  left: 238px;
+  position: absolute;
+  top: 139px;
+  width: 65px;
+}
+
+.ent-profile-catalogue .x15-productos-KpPy89 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ent-profile-catalogue .colecciones-vw2hRC {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 99px;
+  width: auto;
+}
+
+.ent-profile-catalogue .catalogo-vw2hRC {
+  background-color: transparent;
+  height: 76px;
+  left: 25px;
+  position: absolute;
+  top: 8px;
+  width: 210px;
+}
+
+.ent-profile-catalogue .catlogo-OUw4tp {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ent-profile-catalogue .rectangle-1327-OUw4tp {
+  background-color: transparent;
+  border-radius: 7.5px;
+  height: 26px;
+  left: 1px;
+  position: absolute;
+  top: 50px;
+  width: 128px;
+}
+
+.ent-profile-catalogue .httpsbitlink828-OUw4tp {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 55px;
+  width: auto;
+}
+
+.ent-profile-catalogue .comparte-el-link-de-tu-catlogo-OUw4tp {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.ent-profile-catalogue .group-273-OUw4tp {
+  background-color: transparent;
+  height: 26px;
+  left: 134px;
+  position: absolute;
+  top: 50px;
+  width: 70px;
+}
+
+.ent-profile-catalogue .rectangle-6-qZStD2 {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.ent-profile-catalogue .enviar-qZStD2 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+  height: 26px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 61px;
+}
+
+.ent-profile-catalogue .rectangle-8-QOv8BY {
+  background-color: transparent;
+  height: 72px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.ent-profile-catalogue .siguiendo-QOv8BY {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 261px;
+  width: auto;
+}
+
+.ent-profile-catalogue .x29-emprendimientos-QOv8BY {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 282px;
+  width: auto;
+}
+
+.ent-profile-catalogue .span0-5WbxeE {
+}
+
+.ent-profile-catalogue .span1-5WbxeE {
+}
+
+.ent-profile-catalogue .group-266-QOv8BY {
+  background-color: transparent;
+  height: 38px;
+  left: 329px;
+  position: absolute;
+  top: 312px;
+  width: 42px;
+}
+
+.ent-profile-catalogue .iconly-bold-setting-ZrP7AI {
+  background-color: transparent;
+  height: 24px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+
+.ent-profile-catalogue .setting-4QfcaM {
+  background-color: transparent;
+  height: 20px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 19px;
+}
+
+.ent-profile-catalogue .setting-wdUFhO {
+  background-color: transparent;
+  height: 20px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.ent-profile-catalogue .rectangle-1327-ZrP7AI {
+  background-color: transparent;
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.ent-profile-catalogue .emprendedor-arreglado-QOv8BY {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 366px;
+  width: 390px;
+}
+
+.ent-profile-catalogue .vector-7-M3fym3 {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.ent-profile-catalogue .rectangle-1336-M3fym3 {
+  background-color: var(--white);
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-profile-catalogue .group-1977-M3fym3 {
+  background-color: transparent;
+  height: 36px;
+  left: 59px;
+  position: absolute;
+  top: 6px;
+  width: 35px;
+}
+
+.ent-profile-catalogue .iconly-bold-category-yqKVIs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 23px;
+}
+
+.ent-profile-catalogue .category-qmmP9x {
+  background-color: transparent;
+  height: 20px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 19px;
+}
+
+.ent-profile-catalogue .category-fxyvdg {
+  background-color: transparent;
+  height: 20px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+
+.ent-profile-catalogue .subido-yqKVIs {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: auto;
+}
+
+.ent-profile-catalogue .group-1978-M3fym3 {
+  background-color: transparent;
+  height: 36px;
+  left: 124px;
+  position: absolute;
+  top: 6px;
+  width: 54px;
+}
+
+.ent-profile-catalogue .vector-pUOxDD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 16px;
+  position: absolute;
+  top: -0px;
+  width: 21px;
+}
+
+.ent-profile-catalogue .feedbacks-pUOxDD {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: auto;
+}
+
+.ent-profile-catalogue .group-1980-M3fym3 {
+  background-color: transparent;
+  height: 36px;
+  left: 288px;
+  position: absolute;
+  top: 6px;
+  width: 45px;
+}
+
+.ent-profile-catalogue .icon-T8x06u {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 24px;
+}
+
+.ent-profile-catalogue .catalogo-T8x06u {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: auto;
+}
+
+.ent-profile-catalogue .group-1979-M3fym3 {
+  background-color: transparent;
+  height: 36px;
+  left: 208px;
+  position: absolute;
+  top: 6px;
+  width: 50px;
+}
+
+.ent-profile-catalogue .icon-4tcwVH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 18px;
+}
+
+.ent-profile-catalogue .proyectos-4tcwVH {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: auto;
+}
+
+.ent-profile-catalogue .editar-QOv8BY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 177px;
+  position: absolute;
+  top: 312px;
+  width: 145px;
+}
+
+.ent-profile-catalogue .rectangle-1457-Hvx17B {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 145px;
+}
+
+.ent-profile-catalogue .editar-catlogo-Hvx17B {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 145px;
+}
+
+.ent-profile-catalogue .status-bar-i-phone-13-13-pro-QOv8BY {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-profile-catalogue .indicators-698P3H {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ent-profile-catalogue .elements-signal-VSZIF8 {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ent-profile-catalogue .cellular-connection-lqQ2eF {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ent-profile-catalogue .elements-connection-VSZIF8 {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ent-profile-catalogue .wifi-EbBupu {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ent-profile-catalogue .elements-battery-VSZIF8 {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ent-profile-catalogue .border-yWMm6R {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ent-profile-catalogue .cap-yWMm6R {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ent-profile-catalogue .capacity-yWMm6R {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ent-profile-catalogue .mic-cam-698P3H {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ent-profile-catalogue .elements-time-698P3H {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ent-profile-catalogue .time-Ha6gil {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ent-profile-catalogue .group-261-QOv8BY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 25px;
+  position: absolute;
+  top: 312px;
+  width: 145px;
+}
+
+.ent-profile-catalogue .rectangle-6-vb1Ffu {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 145px;
+}
+
+.ent-profile-catalogue .enviar-vb1Ffu {
+  background-color: transparent;
+  height: 38px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 125px;
+}
+
+.ent-profile-catalogue .nav-emprendimiento-QOv8BY {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ent-profile-catalogue .rectangle-1463-t7nyGp {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ent-profile-catalogue .union-t7nyGp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ent-profile-catalogue .union-GPmvE9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ent-profile-catalogue .union-zVC9OZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ent-profile-catalogue .union-gRykBd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ent-profile-catalogue .rectangle-16-QOv8BY {
+  background-color: transparent;
+  height: 76px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 97px;
+  width: 76px;
+}
+
+.ent-profile-catalogue .rectangle-18-QOv8BY {
+  background-color: var(--amarillo);
+  border-radius: 45.29px;
+  height: 25px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 149px;
+  width: 25px;
+}
+
+.ent-profile-catalogue .blink-custom-jewels-QOv8BY {
+  background-color: transparent;
+  height: auto;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 98px;
+  width: auto;
+}
+
+.ent-profile-catalogue .blinkcustomjewels-QOv8BY {
+  background-color: transparent;
+  height: auto;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  width: auto;
+}
+
+.ent-profile-catalogue .cali-colombia-somos-QOv8BY {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  position: absolute;
+  text-align: left;
+  top: 198px;
+  width: 328px;
+}
+
+.ent-profile-catalogue .span0-mLnykL {
+}
+
+.ent-profile-catalogue .span1-mLnykL {
+}
+
+.ent-profile-catalogue .iconly-bold-location-QOv8BY {
+  background-color: transparent;
+  height: 16px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 199px;
+  width: 15px;
+}
+
+.ent-profile-catalogue .location-xJzm6s {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  position: relative;
+  top: 1px;
+  width: 11px;
+}
+
+.ent-profile-catalogue .location-WZm1od {
+  background-color: transparent;
+  height: 13px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 11px;
+}
+
+.ent-profile-catalogue .group-269-QOv8BY {
+  background-color: transparent;
+  height: 20px;
+  left: 124px;
+  position: absolute;
+  top: 163px;
+  width: 63px;
+}
+
+.ent-profile-catalogue .rectangle-6-fBMwdi {
+  background-color: var(--amarillo);
+  border-radius: 7px;
+  height: 20px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 63px;
+}
+
+.ent-profile-catalogue .enviar-fBMwdi {
+  background-color: transparent;
+  height: 20px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 54px;
+}
+
+.ent-profile-catalogue .x233-seguidores-QOv8BY {
+  background-color: transparent;
+  height: auto;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 140px;
+  width: auto;
+}
+
+.ent-profile-catalogue .span0-5P19cM {
+}
+
+.ent-profile-catalogue .span1-5P19cM {
+}
+
+.ent-profile-catalogue .star-1-QOv8BY {
+  background-color: transparent;
+  height: 12px;
+  left: 87px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 155px;
+  width: 13px;
+}
+
+.ent-profile-catalogue .group-268-QOv8BY {
+  background-color: transparent;
+  height: 11px;
+  left: 124px;
+  position: absolute;
+  top: 85px;
+  width: 95px;
+}
+
+.ent-profile-catalogue .usuario-verificado-fIDHTt {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ent-profile-catalogue .group-267-fIDHTt {
+  background-color: transparent;
+  height: 9px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+
+.ent-profile-catalogue .subtract-mfDPvk {
+  background-color: transparent;
+  height: 9px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.ent-profile-catalogue .chat-1-QOv8BY {
+  background-color: transparent;
+  height: 27px;
+  left: 344px;
+  position: absolute;
+  top: 93px;
+  width: 27px;
+}

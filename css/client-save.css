@@ -1,0 +1,652 @@
+/* screen - client-save */
+
+.client-save {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-save .status-bar-i-phone-13-13-pro-FrsIU1 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-save .indicators-m6gpPV {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-save .elements-signal-YmaiHm {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-save .cellular-connection-TYt8ju {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-save .elements-connection-YmaiHm {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-save .wifi-GYRxjC {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-save .elements-battery-YmaiHm {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-save .border-N3UgME {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-save .cap-N3UgME {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-save .capacity-N3UgME {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-save .mic-cam-m6gpPV {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-save .elements-time-m6gpPV {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-save .time-sNoi8a {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-save .camila-montoya-tus-ahorros-FrsIU1 {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.client-save .span0-50glEg {
+}
+
+.client-save .span1-50glEg {
+}
+
+.client-save .nav-client-FrsIU1 {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 771px;
+  width: 390px;
+}
+
+.client-save .rectangle-1463-MDxJ4e {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-save .union-MDxJ4e {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-save .union-HieOhS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-save .union-8P85Cv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.client-save .union-YKCLTw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-save .frame-111-FrsIU1 {
+  background-color: transparent;
+  height: 665px;
+  left: 18px;
+  overflow: hidden;
+  position: absolute;
+  top: 106px;
+  width: 354px;
+}
+
+.client-save .group-309-ILmlWp {
+  background-color: transparent;
+  height: 87px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 358px;
+}
+
+.client-save .rectangle-1373-n7hYF7 {
+  background-color: var(--limon);
+  border-radius: 7px;
+  height: 87px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.client-save .mask-group-n7hYF7 {
+  background-color: transparent;
+  height: 87px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.client-save .recuerda-n7hYF7 {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: 142px;
+}
+
+.client-save .si-deseas-retirar-el-n7hYF7 {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: 255px;
+}
+
+.client-save .group-293-ILmlWp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 100px;
+  width: 354px;
+}
+
+.client-save .rectangle-6-0KxRv8 {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.client-save .group-313-0KxRv8 {
+  background-color: transparent;
+  height: 14px;
+  left: 77px;
+  position: absolute;
+  top: 10px;
+  width: 201px;
+}
+
+.client-save .crear-nuevo-plan-de-ahorro-C2ZfCF {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 185px;
+}
+
+.client-save .union-C2ZfCF {
+  background-color: transparent;
+  height: 10px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.client-save .group-310-ILmlWp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 172px;
+  left: 0px;
+  position: absolute;
+  top: 420px;
+  width: 360px;
+}
+
+.client-save .rectangle-44-ZWVxhx {
+  background-color: transparent;
+  height: 172px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 354px;
+}
+
+.client-save .mask-group-ZWVxhx {
+  background-color: transparent;
+  height: 111px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 354px;
+}
+
+.client-save .vamos-por-138400-ZWVxhx {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 151px;
+  width: 112px;
+}
+
+.client-save .meta-7560000-ZWVxhx {
+  background-color: transparent;
+  height: auto;
+  left: 249px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 151px;
+  width: 91px;
+}
+
+.client-save .span0-lxkPRY {
+}
+
+.client-save .span1-lxkPRY {
+}
+
+.client-save .rectangle-34-ZWVxhx {
+  background-color: transparent;
+  height: 6px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 139px;
+  width: 322px;
+}
+
+.client-save .rectangle-35-ZWVxhx {
+  background-color: var(--azul);
+  border-radius: 7.03px;
+  height: 6px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 140px;
+  width: 78px;
+}
+
+.client-save .mi-habitacin-en-2023-ZWVxhx {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 15.5px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 118px;
+  width: 199px;
+}
+
+.client-save .tus-planes-actuales-ILmlWp {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 182px;
+}
+
+.client-save .group-2049-ILmlWp {
+  background-color: transparent;
+  height: 212px;
+  left: 0px;
+  position: absolute;
+  top: 190px;
+  width: 354px;
+}
+
+.client-save .group-87-LxbXwV {
+  background-color: transparent;
+  height: 172px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 360px;
+}
+
+.client-save .rectangle-44-ZdWCnO {
+  background-color: transparent;
+  height: 172px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 354px;
+}
+
+.client-save .mask-group-ZdWCnO {
+  background-color: transparent;
+  height: 111px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 354px;
+}
+
+.client-save .vamos-por-1560000-ZdWCnO {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 151px;
+  width: 133px;
+}
+
+.client-save .meta-1560000-ZdWCnO {
+  background-color: transparent;
+  height: auto;
+  left: 249px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 151px;
+  width: 91px;
+}
+
+.client-save .span0-jITij1 {
+}
+
+.client-save .span1-jITij1 {
+}
+
+.client-save .rectangle-34-ZdWCnO {
+  background-color: transparent;
+  height: 6px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 139px;
+  width: 322px;
+}
+
+.client-save .mi-prximo-celu-ZdWCnO {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 15.5px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 118px;
+  width: 199px;
+}
+
+.client-save .group-2048-LxbXwV {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 172px;
+  width: 356px;
+}
+
+.client-save .rectangle-1376-UX12A3 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.client-save .felicidades-has-completado-tu-ahorro-UX12A3 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 9.7px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: 199px;
+}
+
+.client-save .group-2047-ILmlWp {
+  background-color: transparent;
+  height: 24px;
+  left: 227px;
+  position: absolute;
+  top: 370px;
+  width: 115px;
+}
+
+.client-save .rectangle-1377-mCxnHc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.client-save .retirar-mCxnHc {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 9.7px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: 32px;
+}
+
+.client-save .bestie-2-ILmlWp {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 76px;
+}
+
+.client-save .vector-FrsIU1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 61px;
+  width: 9px;
+}

@@ -1,0 +1,610 @@
+/* screen - client-entrepreneur-product-2 */
+
+.client-entrepreneur-product-2 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.client-entrepreneur-product-2 .group-272-HGYHGG {
+  background-color: transparent;
+  height: 152px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-2 .rectangle-31-J1rtZj {
+  background-color: transparent;
+  height: 152px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-2 .nav-client-HGYHGG {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-2 .frame-110-4VxWXF {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-2 .rectangle-1462-xbBmxX {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-2 .union-4VxWXF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.client-entrepreneur-product-2 .union-10qxYe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.client-entrepreneur-product-2 .union-8tBvrT {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 37px;
+}
+
+.client-entrepreneur-product-2 .union-bvXyZS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 37px;
+}
+
+.client-entrepreneur-product-2 .union-Bgh05E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.client-entrepreneur-product-2 .status-bar-i-phone-13-13-pro-HGYHGG {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.client-entrepreneur-product-2 .indicators-2HXGhW {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.client-entrepreneur-product-2 .elements-signal-VtybHc {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.client-entrepreneur-product-2 .cellular-connection-9uaN7W {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.client-entrepreneur-product-2 .elements-connection-VtybHc {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.client-entrepreneur-product-2 .wifi-xR6kRa {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.client-entrepreneur-product-2 .elements-battery-VtybHc {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.client-entrepreneur-product-2 .border-WjzHxR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.client-entrepreneur-product-2 .cap-WjzHxR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.client-entrepreneur-product-2 .capacity-WjzHxR {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.client-entrepreneur-product-2 .mic-cam-2HXGhW {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.client-entrepreneur-product-2 .elements-time-2HXGhW {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.client-entrepreneur-product-2 .time-6mNbgZ {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-entrepreneur-product-2 .vector-HGYHGG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 178px;
+  width: 9px;
+}
+
+.client-entrepreneur-product-2 .colecciones-HGYHGG {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 19.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.client-entrepreneur-product-2 .cart-HGYHGG {
+  background-color: transparent;
+  height: 24px;
+  left: 338px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 175px;
+  width: 24px;
+}
+
+.client-entrepreneur-product-2 .vector-39-CUqXzv {
+  background-color: transparent;
+  height: 18px;
+  left: -0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.client-entrepreneur-product-2 .ellipse-36-CUqXzv {
+  background-color: transparent;
+  border-radius: 2.02px;
+  height: 4px;
+  left: 7px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.client-entrepreneur-product-2 .ellipse-37-CUqXzv {
+  background-color: transparent;
+  border-radius: 2.02px;
+  height: 4px;
+  left: 19px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.client-entrepreneur-product-2 .blink-custom-jewels-HGYHGG {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.client-entrepreneur-product-2 .somos-una-empresa-su-HGYHGG {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 101px;
+  width: 301px;
+}
+
+.client-entrepreneur-product-2 .colecciones-frame-HGYHGG::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.client-entrepreneur-product-2 .colecciones-frame-HGYHGG {
+  background-color: transparent;
+  height: 555px;
+  left: 17px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 215px;
+  width: 355px;
+}
+
+.client-entrepreneur-product-2 .candela-ROMyb9 {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 19.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 257px;
+}
+
+.client-entrepreneur-product-2 .span0-e7x9q0 {
+}
+
+.client-entrepreneur-product-2 .span1-e7x9q0 {
+}
+
+.client-entrepreneur-product-2 .anillo-curvy-ROMyb9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 82px;
+  left: 30px;
+  position: absolute;
+  top: 63px;
+  width: 329px;
+}
+
+.client-entrepreneur-product-2 .rectangle-1342-UVPUHx {
+  background-color: transparent;
+  height: 82px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.client-entrepreneur-product-2 .anillo-curvy-UVPUHx {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-2 .cop-45000-UVPUHx {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-2 .conjunto-army-ROMyb9 {
+  background-color: transparent;
+  height: 83px;
+  left: 30px;
+  position: absolute;
+  top: 175px;
+  width: 329px;
+}
+
+.client-entrepreneur-product-2 .rectangle-1339-ge7srk {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.client-entrepreneur-product-2 .cop-135000-ge7srk {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 57px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-2 .conjunto-army-ge7srk {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-2 .set-anillos-beauty-ROMyb9 {
+  background-color: transparent;
+  height: 83px;
+  left: 30px;
+  position: absolute;
+  top: 288px;
+  width: 329px;
+}
+
+.client-entrepreneur-product-2 .rectangle-1340-IfN3dy {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.client-entrepreneur-product-2 .set-anillos-beauty-IfN3dy {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-2 .cop-125000-IfN3dy {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-2 .set-anillos-ROMyb9 {
+  background-color: transparent;
+  height: 83px;
+  left: 30px;
+  position: absolute;
+  top: 401px;
+  width: 329px;
+}
+
+.client-entrepreneur-product-2 .rectangle-1341-ac8LLz {
+  background-color: transparent;
+  height: 83px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 83px;
+}
+
+.client-entrepreneur-product-2 .set-anillos-ac8LLz {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-2 .cop-55000-ac8LLz {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-2 .set-manos-ROMyb9 {
+  background-color: transparent;
+  height: 83px;
+  left: 30px;
+  position: absolute;
+  top: 514px;
+  width: 329px;
+}
+
+.client-entrepreneur-product-2 .cop-142500-kxWtGp {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-2 .set-ropa-kxWtGp {
+  background-color: transparent;
+  height: 25px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.client-entrepreneur-product-2 .rectangle-1338-kxWtGp {
+  background-color: transparent;
+  height: 41px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 21px;
+  width: 83px;
+}
