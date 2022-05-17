@@ -1,0 +1,1403 @@
+/* screen - home-client-overlay */
+.home-client {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.home-client .nav-client-73ydTX {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.home-client .rectangle-1462-iLQCMS {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.home-client .union-iLQCMS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.home-client .union-FJ203Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 37px;
+}
+
+.home-client .union-EhjU9t {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.home-client .union-b8nP65 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15px;
+  width: 26px;
+}
+
+.home-client .group-85-73ydTX {
+  background-color: transparent;
+  height: 38px;
+  left: 18px;
+  position: absolute;
+  top: 76px;
+  width: 354px;
+}
+
+.home-client .group-89-JW6XGl {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 356px;
+}
+
+.home-client .rectangle-30-g5DqOJ {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.home-client .vector-g5DqOJ {
+  background-color: transparent;
+  height: 18px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 18px;
+}
+
+.home-client .qu-antojo-tienes-hoy-g5DqOJ {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 261px;
+}
+
+.home-client .algunas-ideas-para-ti-73ydTX {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 235px;
+  width: 192px;
+}
+
+.home-client .mira-lo-que-tenemos-hoy-73ydTX {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 128px;
+  width: 182px;
+}
+
+.home-client .holi-camila-73ydTX {
+  background-color: transparent;
+  height: auto;
+  left: 282px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 88px;
+}
+
+.home-client .frame-69-73ydTX::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.home-client .frame-69-73ydTX {
+  background-color: transparent;
+  height: 81px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 263px;
+  width: 356px;
+}
+
+.home-client .group-293-x1paBP {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 140px;
+}
+
+.home-client .rectangle-6-LL2unu {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  cursor: pointer;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 138px;
+}
+
+.home-client .postres-LL2unu {
+  background-color: transparent;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 53px;
+}
+
+.home-client .group-294-x1paBP {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 43px;
+  width: 140px;
+}
+
+.home-client .rectangle-69-ytiRjA {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 138px;
+}
+
+.home-client .almuerzo-ytiRjA {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 80px;
+}
+
+.home-client .group-296-x1paBP {
+  background-color: transparent;
+  height: 38px;
+  left: 144px;
+  position: absolute;
+  top: -0px;
+  width: 140px;
+}
+
+.home-client .rectangle-31-N5ZSev {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 138px;
+}
+
+.home-client .pastelera-N5ZSev {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 71px;
+}
+
+.home-client .group-295-x1paBP {
+  background-color: transparent;
+  height: 38px;
+  left: 144px;
+  position: absolute;
+  top: 43px;
+  width: 140px;
+}
+
+.home-client .rectangle-70-fO35CQ {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 138px;
+}
+
+.home-client .dulces-fO35CQ {
+  background-color: transparent;
+  height: auto;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 62px;
+}
+
+.home-client .group-297-x1paBP {
+  background-color: transparent;
+  height: 34px;
+  left: 288px;
+  position: absolute;
+  top: 4px;
+  width: 140px;
+}
+
+.home-client .rectangle-10-ja0AlP {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 34px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 138px;
+}
+
+.home-client .regalos-ja0AlP {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 71px;
+}
+
+.home-client .group-298-x1paBP {
+  background-color: transparent;
+  height: 38px;
+  left: 288px;
+  position: absolute;
+  top: 43px;
+  width: 140px;
+}
+
+.home-client .rectangle-71-aOqoXj {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 138px;
+}
+
+.home-client .papelera-aOqoXj {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 83px;
+}
+
+.home-client .esto-se-ve-interesante-73ydTX {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 364px;
+  width: 192px;
+}
+
+.home-client .frame-68-73ydTX::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.home-client .frame-68-73ydTX {
+  background-color: transparent;
+  height: 191px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 391px;
+  width: 354px;
+}
+
+.home-client .group-290-83Q2wA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 191px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 138px;
+}
+
+.home-client .mask-group-kO5cp5 {
+  background-color: transparent;
+  height: 161px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 138px;
+}
+
+.home-client .rectangle-32-kO5cp5 {
+  background-color: var(--cielo);
+  border-radius: 0px 0px 7px 7px;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 161px;
+  width: 138px;
+}
+
+.home-client .group-1-kO5cp5 {
+  background-color: transparent;
+  height: 10px;
+  left: 6px;
+  position: absolute;
+  top: 7px;
+  width: 48px;
+}
+
+.home-client .rectangle-66-MBJirG {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 10px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 44px;
+}
+
+.home-client .cerca-de-ti-MBJirG {
+  background-color: transparent;
+  height: auto;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  width: 31px;
+}
+
+.home-client .text_label-MBJirG {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  width: 5px;
+}
+
+.home-client .anillo-curvy-kO5cp5 {
+  background-color: transparent;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: 82px;
+}
+
+.home-client .x45000-kO5cp5 {
+  background-color: transparent;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 177px;
+  width: 36px;
+}
+
+.home-client .group-291-83Q2wA {
+  background-color: transparent;
+  height: 191px;
+  left: 146px;
+  position: absolute;
+  top: -0px;
+  width: 138px;
+}
+
+.home-client .rectangle-2-uWAZJJ {
+  background-color: transparent;
+  height: 161px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 138px;
+}
+
+.home-client .rectangle-66-uWAZJJ {
+  background-color: var(--cielo);
+  border-radius: 0px 0px 7px 7px;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 161px;
+  width: 138px;
+}
+
+.home-client .crispetas-leepops-uWAZJJ {
+  background-color: transparent;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: 110px;
+}
+
+.home-client .x1500-uWAZJJ {
+  background-color: transparent;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 177px;
+  width: 36px;
+}
+
+.home-client .group-86-uWAZJJ {
+  background-color: transparent;
+  height: 10px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 48px;
+}
+
+.home-client .rectangle-66-pkiaU7 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 10px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 44px;
+}
+
+.home-client .cerca-de-ti-pkiaU7 {
+  background-color: transparent;
+  height: auto;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  width: 31px;
+}
+
+.home-client .text_label-pkiaU7 {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  width: 5px;
+}
+
+.home-client .group-292-83Q2wA {
+  background-color: transparent;
+  height: 191px;
+  left: 292px;
+  position: absolute;
+  top: -0px;
+  width: 138px;
+}
+
+.home-client .rectangle-3-IV5zn9 {
+  background-color: transparent;
+  height: 191px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 138px;
+}
+
+.home-client .rectangle-68-IV5zn9 {
+  background-color: var(--cielo);
+  border-radius: 0px 0px 7px 7px;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 161px;
+  width: 138px;
+}
+
+.home-client .group-36-IV5zn9 {
+  background-color: transparent;
+  height: 10px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 48px;
+}
+
+.home-client .rectangle-66-ehZpMw {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 10px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 44px;
+}
+
+.home-client .cerca-de-ti-ehZpMw {
+  background-color: transparent;
+  height: auto;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  width: 31px;
+}
+
+.home-client .text_label-ehZpMw {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  width: 5px;
+}
+
+.home-client .takis-fuego-IV5zn9 {
+  background-color: transparent;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: 82px;
+}
+
+.home-client .x5000-IV5zn9 {
+  background-color: transparent;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 177px;
+  width: 36px;
+}
+
+.home-client .proyectos-73ydTX::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.home-client .proyectos-73ydTX {
+  background-color: transparent;
+  height: 138px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 622px;
+  width: 354px;
+}
+
+.home-client .group-370-x0dbwQ {
+  background-color: transparent;
+  height: 120px;
+  left: 292px;
+  position: absolute;
+  top: 11px;
+  width: 290px;
+}
+
+.home-client .image-26-IktMxe {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 290px;
+}
+
+.home-client .nevera-nueva-para-postres-IktMxe {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  width: 257px;
+}
+
+.home-client .x80-completado-IktMxe {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  width: 257px;
+}
+
+.home-client .group-372-IktMxe {
+  background-color: transparent;
+  height: 4px;
+  left: 14px;
+  position: absolute;
+  top: 84px;
+  width: 257px;
+}
+
+.home-client .rectangle-1380-KhMPTD {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 4px;
+  left: 4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 253px;
+}
+
+.home-client .rectangle-1381-KhMPTD {
+  background-color: var(--rosa-claro);
+  border-radius: 4px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 212px;
+}
+
+.home-client .azucarysalcali-IktMxe {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 93px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.home-client .group-369-x0dbwQ {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  position: absolute;
+  top: 11px;
+  width: 290px;
+}
+
+.home-client .image-27-a7DuFg {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 284px;
+}
+
+.home-client .rectangle-1383-a7DuFg {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 284px;
+}
+
+.home-client .arriendo-este-mes-a7DuFg {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  width: 257px;
+}
+
+.home-client .x20-completado-a7DuFg {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  width: 257px;
+}
+
+.home-client .group-371-a7DuFg {
+  background-color: transparent;
+  height: 4px;
+  left: 14px;
+  position: absolute;
+  top: 84px;
+  width: 257px;
+}
+
+.home-client .rectangle-1384-WL9yhW {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 4px;
+  left: 4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 253px;
+}
+
+.home-client .rectangle-1385-WL9yhW {
+  background-color: var(--rosa-claro);
+  border-radius: 4px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 35px;
+}
+
+.home-client .cohii-a7DuFg {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 93px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.home-client .proyectos-que-te-pueden-interesar-73ydTX {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 602px;
+  width: 272px;
+}
+
+.home-client .bestie-73ydTX {
+  background-color: transparent;
+  height: 18px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 51px;
+  width: 50px;
+}
+
+.home-client .status-bar-i-phone-13-13-pro-73ydTX {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.home-client .indicators-zm6VOR {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.home-client .elements-signal-AeWntH {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.home-client .cellular-connection-NNPLp0 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.home-client .elements-connection-AeWntH {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.home-client .wifi-1IBYtU {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.home-client .elements-battery-AeWntH {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.home-client .border-LRtgmf {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.home-client .cap-LRtgmf {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.home-client .capacity-LRtgmf {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.home-client .mic-cam-zm6VOR {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.home-client .elements-time-zm6VOR {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.home-client .time-n4hSgo {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home-client .frame-112-73ydTX::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.home-client .frame-112-73ydTX {
+  background-color: transparent;
+  height: 64px;
+  left: 18px;
+  overflow: hidden;
+  position: absolute;
+  top: 156px;
+  width: 372px;
+}
+
+.home-client .group-90-Pd0Wej {
+  background-color: transparent;
+  height: 62px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 465px;
+}
+
+.home-client .ellipse-10-cChqVl {
+  background-color: var(--mist-gray);
+  border-radius: 31px;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 62px;
+}
+
+.home-client .ellipse-11-cChqVl {
+  background-color: var(--mist-gray);
+  border-radius: 31px;
+  height: 62px;
+  left: 67px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 62px;
+}
+
+.home-client .ellipse-12-cChqVl {
+  background-color: var(--mist-gray);
+  border-radius: 31px;
+  height: 62px;
+  left: 134px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 62px;
+}
+
+.home-client .ellipse-13-cChqVl {
+  background-color: var(--mist-gray);
+  border-radius: 30.5px/31px;
+  height: 62px;
+  left: 202px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.home-client .ellipse-14-cChqVl {
+  background-color: var(--mist-gray);
+  border-radius: 31px;
+  height: 62px;
+  left: 269px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 62px;
+}
+
+.home-client .ellipse-15-cChqVl {
+  background-color: var(--mist-gray);
+  border-radius: 31px;
+  height: 62px;
+  left: 336px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 62px;
+}
+
+.home-client .ellipse-16-cChqVl {
+  background-color: transparent;
+  height: 1px;
+  left: 434px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.home-client .rectangle-76-Pd0Wej {
+  background-color: transparent;
+  height: 56px;
+  left: 339px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 56px;
+}
+
+.home-client .rectangle-16-Pd0Wej {
+  background-color: transparent;
+  cursor: pointer;
+  height: 56px;
+  left: 3px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 56px;
+}
+
+.home-client .mask-group-Pd0Wej {
+  background-color: transparent;
+  height: 56px;
+  left: 70px;
+  position: absolute;
+  top: 5px;
+  width: 56px;
+}
+
+.home-client .rectangle-73-Pd0Wej {
+  background-color: transparent;
+  height: 56px;
+  left: 137px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 56px;
+}
+
+.home-client .mask-group-zxxiME {
+  background-color: transparent;
+  height: 56px;
+  left: 204px;
+  position: absolute;
+  top: 5px;
+  width: 56px;
+}
+
+.home-client .rectangle-75-Pd0Wej {
+  background-color: transparent;
+  height: 56px;
+  left: 272px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 56px;
+}
+
+
+ .fondo {
+  height: 844px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+ .group-container {
+  height: 656px;
+  left: 0px;
+  position: absolute;
+  top: 94px;
+  width: 355px;
+}
+
+ .overlap-group1-2 {
+  height: 656px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 355px;
+}
+
+ .mask-group-2 {
+  height: 490px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 325px;
+}
+
+ .rectangle-32 {
+  height: 166px;
+  left: 0;
+  position: absolute;
+  top: 480px;
+  width: 325px;
+}
+
+ .overlap-group-8 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 5.14px;
+  display: flex;
+  height: 26px;
+  left: 12px;
+  min-width: 113px;
+  padding: 2.6px 7.7px;
+  position: absolute;
+  top: 14px;
+}
+
+ .text-7 {
+  align-self: center;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 12.9px;
+  font-weight: 300;
+  letter-spacing: 0;
+  margin-bottom: 2.57px;
+  min-height: 13px;
+  width: 13px;
+}
+
+ .cerca-de-ti-1 {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 15.4px;
+  font-weight: 300;
+  letter-spacing: 0;
+  margin-left: 3px;
+  min-height: 15px;
+  width: 80px;
+}
+
+ .anillo-curvy-1 {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 20px;
+  font-weight: 500;
+  left: 18px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 499px;
+  width: 320px;
+}
+
+ .anillo-de-plata-ajus {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 12px;
+  font-weight: 300;
+  left: 18px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 522px;
+  width: 285px;
+}
+
+ .text-8 {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 12px;
+  font-weight: 500;
+  left: 19px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 604px;
+  width: 93px;
+}
+
+ .overlap-group2-3 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-70@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 28px;
+  left: 210px;
+  min-width: 85px;
+  padding: 6.2px 7.4px;
+  position: absolute;
+  top: 599px;
+}
+
+ .comprar {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 11.9px;
+  font-weight: 600;
+  letter-spacing: 0;
+  min-height: 12px;
+  text-align: center;
+  width: 68px;
+}
+
+ .group-40 {
+  align-items: flex-start;
+  background-color: var(--cielo);
+  border-radius: 4.94px;
+  cursor: pointer;
+  display: flex;
+  height: 26px;
+  left: 317px;
+  min-width: 26px;
+  padding: 5.9px 5.9px;
+  position: absolute;
+  top: 14px;
+}
+
+ .overlap-group3-2 {
+  align-items: flex-end;
+  background-image: url(../img/vector-10-5@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 13px;
+}
+
+ .vector-11 {
+  height: 12px;
+  margin-bottom: 0;
+  width: 13px;
+}
