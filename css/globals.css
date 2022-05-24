@@ -23,10 +23,10 @@
   -webkit-text-size-adjust: none;
 }
 
-.screen a {
+/*.screen a {
   display: contents;
   text-decoration: none;
-}
+}*/
 
 .container-center-horizontal {
   display: flex;
@@ -48,7 +48,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-}
+}*/
 
 .overlay.animate-appear {
   animation: reveal 0.3s ease-in-out 1 normal forwards;
